@@ -8,9 +8,9 @@ permalink: /
 
 # Mousehunt Guide 2022
 
-[🧀️  mhcommunity.github.io/mhbasics 🐁️](https://mhcommunity.github.io/mhbasics)
+[🧀️  https://guide.mouse.rip/ 🐁️](https://guide.mouse.rip/)
 
-This is a refresh of the guides for [MouseHunt](https://mousehuntgames.com) written by a group of community volunteers.
+This is a refresh of the guides for [MouseHunt](https://mousehuntgame.com) written by a group of community volunteers.
 
 ## Contributing
 
