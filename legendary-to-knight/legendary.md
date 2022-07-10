@@ -109,4 +109,4 @@ Claim the adventure Defeat the Tribe Chieftains after you have caught Elub Chief
 
 Juggle between the 3 Area (Nerg, Derr and Elub) to get an equal amount of coloured Pepper Seeds. You will need it for the next region you're heading into.
 
-Travel to Jungle of Dread (JoD) when you rank up to [Hero](/LtK/8. Hero).
+Travel to Jungle of Dread (JoD) when you rank up to [Hero](/legendary-to-knight/Hero).
