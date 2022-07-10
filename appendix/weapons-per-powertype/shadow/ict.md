@@ -26,11 +26,11 @@ The Interdimensional Crossbow can be purchased from the Trapsmith in Fort Rox fo
 ### general info or trivia
 The Interdimensional Crossbow is Fort Rox' shadow weapons and the second "must-get" shadow weapon. It is primarily used in Fort Rox itself, the Sand Dunes, Canterra Quarry and sometimes Moussu Picchu.
 There is a different weapon on a similar level as the Crossbow in the Clockwork Portal. The reason it is not further mentioned in this guide is because it is a direct side-grade that is considered significantly more difficult to get. Additonally, the Crossbow can be acquired with minimal Shadow usage, whereas the Clockwork Portal does require quite a bit of hunting with Shadow weapons.
-Before the release of Fort Rox, the Clockwork Portal was considered the go-to Shadow trap for that stage of the game. Unfortunately, it is significantly more inconvenient to farm the resources needed for it when compared to the Interdimensional Crossbow, making it the go-to meta shadow trap for the middlegame.  
+Before the release of Fort Rox, the Clockwork Portal was considered the go-to Shadow weapon for that stage of the game. Unfortunately, it is significantly more inconvenient to farm the resources needed for it when compared to the Interdimensional Crossbow, making it the go-to meta shadow weapon for the middlegame.  
 The Interdimensional Crossbow had a Limited Edition upgrade during the 2017 Great Winter Hunt in the Goldfrost Crossbow Trap. Unfortunately, the Goldfrost Honing Crystal needed to craft this upgrade could only be acquired during this Great Winter Hunt event.
 
 ### Alternatives
 The Interdimensional Crossbow has an alternative in the Clockwork Portal, which can be acquired in Sandtail Desert.
 
 ### Upgrades
-After the Clockapult of Time, there are a number of potential weapons to go for. Shadow is in a bit of an awkward spot because it is quite underused or avoidable for a sizeable chunk of the game. The go-to upgrade after the Clockapult of Time is often the [Interdimensional Crossbow Trap](/appendix/weapons-per-powertype/shadow/IDCT).
+After the Interdimensional Crossbow, the next shadow weapon is the [Temporal Turbine](/appendix/weapons-per-powertype/shadow/tt), which then upgrades into the [Chrome Temporal Turbine](/appendix/weapons-per-powertype/shadow/ctt).
