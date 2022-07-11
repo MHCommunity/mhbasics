@@ -24,7 +24,7 @@ The Chrome Temporal Turbine can be crafted by combining 1 Temporal Turbine Trap 
 - the Chrome Temporal Turbine Upgrade Kit can be acquired from Ronza's Traveling Shoppe for 39,999,999 gold and a Chrome Voucher or the Marketplace.
 
 
-### general info or trivia
+### General Info and Trivia
 The Chrome Temporal Turbine is the final step for Shadow at this point in time, with no shadow trap beating or contesting it's place as the best available. 
 The Chrome Temporal Turbine is a very expensive piece of equipment, as one would expect from a best in slot weapon. It's components cost over 50 million gold. This is without including the price of the temporal shadowplates, which at times could make its total price over tripple that.
 The Chrome Temporal Turbine is primarily used in Moussu Picchu's rainy stage and the Floating Islands' shadow islands. It also makes hunting in some earlier areas like the Sand Dunes, Fort Rox and Canterra Quarry a lot more comfortable.

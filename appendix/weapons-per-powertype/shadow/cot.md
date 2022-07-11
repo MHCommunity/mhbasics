@@ -23,7 +23,7 @@ nav_order: 3
 ### Weapon Acquisition
 The Clockapult of Time can be purchased from the Trapsmith in multiple locations in the Tribal Isles for 1,800,000 gold.
 
-### general info or trivia
+### General Info and Trivia
 The Clockapult of Time is one of the Tribal Isles' Shadow weapons alongside the Gorgon Trap.  Considering how big of a deal gold is in the earlygame, both of these weapons are not as desirable for a standard playthrough but they can still be picked up to make a few stages easier.
 The Clockapult of Time has a significant increase in stats in comparison to the Bottomless Grave, unlike the other optional shadow trap: The Creepy Coffin Trap. Unfortunately, it has quite few use cases. For a conventional playthrough of the game, it would only be used to catch 6 or so mice in the Jungle of Dread and a couple of hunts in the Seasonal Garden to get a map piece. On top of this, the Jungle of Dread has Dreaded Charms to make a trap upgrade for this area even less interesting. At this point, a weapon of nearly two million gold is simply not worth the effort put into getting the gold.
 In the past, the pair of tribal isles shadow traps were more appealing. Up untill the release of fort rox, there was no way to avoid getting shadow weapons for that long and getting back into the powertype at a later point.

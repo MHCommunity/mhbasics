@@ -23,7 +23,7 @@ nav_order: 2
 ### Weapon Acquisition
 The Creepy Coffin Trap is one of the only two weapons in the game that can be acquired through donation. It is also available on the marketplace and can be sent to friends.
 
-### general info or trivia
+### General Info and Trivia
 The Creepy Coffin Trap is an earlygame Shadow weapon that can be acquired through donation. Because of it's donation and marketplace-only acquisition, its price in gold fluctuates. Usually, its price in gold on the marketplace will be higher than the price of the Bottomless Grave, making it a less desirable option for most donation-less players. Considering how big of a deal gold is in the earlygame, the price is a sizeable hurdle, but it does provide benefits.
 With slightly higher stats, the Creepy Coffin offers a minor but meaningful increase in catch rate. On top of this, it also has a <mark>special effect</mark> while hunting in the Mousoleum, dropping an extra Cemetery Slat whenever a mouse drops any. Considering Cemetery Slats are key to the local <mark>Gold Farming Cycle</mark> and drop up to 4 at a time at most, this is a significant increase in performance. This help does drop off by the time a hunter gets to the tribal isles, where better goldfarms become available and the reliance on the Mousoleum for this drops.
 

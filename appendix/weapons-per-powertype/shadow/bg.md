@@ -22,7 +22,7 @@ nav_order: 1
 ### Weapon Acquisition
 The Bottomless Grave can be bought directly from the Trapsmith for 65400 Gold in a number of locations, most notably the Laboratory and the Mousoleum.
 
-### general info or trivia
+### General Info and Trivia
 The bottomless grave is the first shadow weapon most hunters should aim for these days. Shadow has been a key component of earlygame gold farming for a long time, and to this day the bottomless grave is a key component to properly using how powerfull the Mousoleum is.
 In the past, the Bottomless Grave was significantly less desirable because it had a significantly higher cost. A major drop in price, combined with a buff to the mousoleum in it's 2018 rework, managed to change this and fundamentally reshape the earlier section of Shadow powertype.
 

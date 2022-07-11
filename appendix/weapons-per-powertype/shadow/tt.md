@@ -24,7 +24,7 @@ The Temporal Turbine can be purchased from the Trapsmith in the Labyrinth and Zo
 - Plate of Fealty are dropped in Zokor's Fealty district.
 - A Temporal Shadow Plate is a rare drop from the Retired Minotaur. Ful'Mina the Mountain Queen has a very small chance to drop them as well. Because of this, the Marketplace is where they are usually picked up.
 
-### general info or trivia
+### General Info and Trivia
 The Temporal Turbine is the one-but-final step for Shadow at this point in time, with its only upgrade being the Chrome Temporal Turbine crafted from its parts and the chrome kit.
 While the Temporal Shadow Plates needed for the weapon are often quite expensive for a Duke weapon, this concern gets nimbly evaded by the weapon not being mandatory as fast as usual trap upgrades. Duke and Grand Duke have fairly little use for Shadow, with only Moussu Picchu needing a little Shadow for one of its farming stages. This makes it possible to focus on other goals like the rifts untill a hunter is ready to tackle the Floating Isles at Archduke. Here, having an upgraded shadow weapon is heavily recommended. Additionally, by being a component of the current best in slot Shadow weapon (the [Chrome Temporal Turbine](/appendix/weapons-per-powertype/shadow/ctt)), this weapon could be considered an eventual must-get for most hunters anyway.
 
