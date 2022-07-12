@@ -20,7 +20,7 @@ nav_order: 1
 ### Weapon Acquisition
 158175 gold, 1 Ancient Ripped Blueprint piece, 1 Ancient Frayed Blueprint piece, 1 Ancient Mangled Blueprint piece, 1 Ancient Relic Staff, 1 Timeless Mystic Gem, 1 Hinge of Eternity, 1 Ethereal Rope, 1 Engraved Solid Stone Slab and 1 Encrusted Metal of Time from the Trapsmith at Cape Clawed, the Jungle of Dread and Balack's Cove.
 - The 3 Blueprint Pieces are dropped by the Nerg, Elub and Derr Chieftains in their respective locations.
-- The other items are dropped by the mice in the Jungle of Dread, each of the havarti mice having their own respective drop. For further details, see the [main guide](/KUH/HELP)
+- The other items are dropped by the mice in the Jungle of Dread, each of the havarti mice having their own respective drop. For further details, see the [main guide](/legendary-to-knight/hero)
 
 ### General Info and Trivia
 The Ancient Box is an ancient box. Tomorrow is another day to be creative.
