@@ -28,7 +28,7 @@ Stage 1: Boulder Breaking
 
 <ul>
 <li>Buy some Super Snowball Charm from Marketplace.</li>
-<li>Use Brie Cheese and equip Super Snowball Charm to deal damage to the boulder same as the Power of the charm equipped.</li>
+<li>Use Brie Cheese and equip Super Snowball Charm to deal 200 damage to the boulder.</li>
 <li>Once you deal at least 1000 damage to the boulder, click Claim Chedd-Ore to claim.</li> <li>Chedd-Ore from the broken boulder.</li>
 <li>Repeat the cycle until you have obtained at least 15 Chedd-Ore Cheese.</li>
 </ul>

@@ -20,7 +20,7 @@ This fine vessel has been granted permission by the King to sail the open ocean 
 
 Buy Aqua Base. Its 8 luck makes it superior to Dehydration Base and Fan Base.
 
-A Hydro weapon works best against mice in S.S. Huntington IV. However, Ambush Trap, Aqua Base and Brie Cheese would suffice.
+A Hydro weapon works best against mice in S.S. Huntington IV. However, Ambush Trap, Aqua Base and Brie Cheese would suffice. If you are buying a Hydro weapon, Net Cannon would be the better choice compared to Harpoon Gun.
 
 Catch Bottled Mouse that drops Compass.
 
@@ -49,6 +49,10 @@ King's Credit| You can buy some Crates of Savoury Vegetables in King’s Cart.
 When you have 30 Savoury Vegetables, craft 15 Gumbo Cheese. The 20-piece recipe is not worth its cost. Loot 1 Thorned Vine from Grandfather Mouse with Gumbo Cheese in Cape Clawed. It’s not a guaranteed attraction.
 
 A Physical weapon is required to catch most mice in Derr Dunes. Derr Dunes is by far the most difficult tribe but offers excellent gold in return. Be mentally prepared for pillages. Loot Delicious Stone using Digby DrillBot, Aqua Base and Gouda Cheese in Derr Dunes.
+
+Digby Drillbot| You can buy Digby Drillbot for 256,000 gold at Town of Digby.
+
+How to get to Town of Digby|You should have looted some Living Shard from Mousevina von Vermin in Mousoleum. Craft 3 Limelight Cheese. You can find Mutated Mole in Laboratory. Mutated Mole Mouse drops Key to the Town of Digby.
 
 How to get to Town of Digby|You should have looted some Living Shard from Mousevina von Vermin in Mousoleum. Craft 3 Limelight Cheese. You can find Mutated Mole in Laboratory. Mutated Mole Mouse drops Key to the Town of Digby.
 
@@ -109,4 +113,4 @@ Claim the adventure Defeat the Tribe Chieftains after you have caught Elub Chief
 
 Juggle between the 3 Area (Nerg, Derr and Elub) to get an equal amount of coloured Pepper Seeds. You will need it for the next region you're heading into.
 
-Travel to Jungle of Dread (JoD) when you rank up to [Hero](/legendary-to-knight/Hero).
+Travel to Jungle of Dread (JoD) when you rank up to [Hero](/legendary-to-knight/hero).

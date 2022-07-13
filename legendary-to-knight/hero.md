@@ -26,7 +26,7 @@ Once you’ve decided on a trap, the question is how to proceed for bait. When y
 
 There are 6 types of Havarti Cheese are required to attract the 6 mice in Jungle of Dread with special loot. Each type of Havarti Cheese corresponds to one of 6 types of Pepper Plants. Pepper Plant is crafted with 2 Pepper Seed and 1 Plant Pot from Cape Clawed General Store. The colour of Pepper Seed determines the type of Pepper Plants obtained. It is advised to craft 3 of each type of Pepper Plants.
 
-<img src="/assets/images/Adventure/jodpeppers.png" alt="Pepper Plant Recipe" width="600">
+<img src="/assets/images/Adventure/jodpeppers.jpg" alt="Pepper Plant Recipe" width="600">
 
 Pick pepper from Pepper Plants to get at least 12 Pepper of each type. On average each Pepper Plant gives slightly fewer than 4 pepper. Craft more Pepper Plants if you don’t get enough Pepper. Pepper Plant recipes and type of Pepper picked are summarised in the picture above.
 
@@ -35,12 +35,12 @@ Craft 2 batches of each of the 6 types of Havarti Cheese. Use your best Shadow w
 The list below shows you the crafting recipe for each cheese and their respective mouse. Each cheese must be crafted with 18 Curds & Whey and 6 Salt.
 
 <ul>
-<li>Spicy Havarti Cheese - 6 Spicy Red Pepper + 12 Coconute Milk</li>
-<li>Sweet Havarti Cheese - 6 Spicy Red Pepper + 6 Coconute Milk</li>
-<li>Magical Havarti Cheese - 6 Spicy Red Pepper + 2 Coconute Milk</li>
-<li>Creamy Havarti Cheese - 6 Spicy Red Pepper + 10 Coconute Milk</li>
-<li>Pungent Havarti Cheese - 6 Spicy Red Pepper + 8 Coconute Milk</li>
-<li>Crunchy Havarti Cheese - 6 Spicy Red Pepper + 4 Coconute Milk</li>
+<li>Spicy Havarti Cheese - 6 Spicy Red Pepper + 12 Coconut Milk</li>
+<li>Sweet Havarti Cheese - 6 Spicy Red Pepper + 6 Coconut Milk</li>
+<li>Magical Havarti Cheese - 6 Spicy Red Pepper + 2 Coconut Milk</li>
+<li>Creamy Havarti Cheese - 6 Spicy Red Pepper + 10 Coconut Milk</li>
+<li>Pungent Havarti Cheese - 6 Spicy Red Pepper + 8 Coconut Milk</li>
+<li>Crunchy Havarti Cheese - 6 Spicy Red Pepper + 4 Coconut Milk</li>
 </ul>
 
 <ul>
@@ -90,7 +90,7 @@ Use your Ancient Box Trap, Aqua Base and Radioactive Blue Cheese here. Collect t
 <li>12 Scrap Metal from Scavenger Mouse, Terror Knight Mouse or Steel Mouse in Town of Digby</li>
 <li>1 Onyx Stone from Master of Dojo in the Pinnacle Chamber</li>
 <li>3 Magic Essences (Smashing SuperBrie+)</li>
-<li>1 Obelisk Part (Buy and Smash Obelisk of Incineration from the Trapsmith)</li>
+<li>1 Obelisk Part (Buy and Smash Obelisk of Slumber from the Trapsmith)</li>
 </ul>
 
 How to get to Town of Digby|You should have looted some Living Shard from Mousevina von Vermin in Mousoleum. Craft 3 Limelight Cheese. You can find Mutated Mole in Laboratory. Mutated Mole Mouse drops Key to the Town of Digby.
@@ -140,7 +140,7 @@ Once you have enough Runic Cheese, you will want to wait for Realm Ripper Mouse.
 Years ago in Bristle Woods, a MouseHunter by the name of Plankrun opened a passageway to another realm. The passage was intended to act as an elaborate one-way trap for Acolyte mice. However, recently, the Acolyte mice have had success in reversing the portal's direction and are attempting to re-enter the Gnawnia Kingdom.
 {: .fs-4 .fw-300 }
 
-Use Ancient Box Trap, Aqua Base and Runic Cheese. Get some Charms to help increase your Catch Rate, Chrome Charms and Snowball Charms are advised due to their cheaper price. Pray for an easy time with Acolyte mouse.
+Use Ancient Box Trap, Aqua Base and Runic Cheese. Get some Charms to help increase your Catch Rate, Chrome Charms and the various Snowball Charms (Super and above) are advised due to their cheaper price. Pray for an easy time with Acolyte mouse.
 
 After catching the Acolyte mouse, firstly claim the adventure Capture the Acolyte Mouse then open the Mysterious Box he drops to obtain a Frozen Scroll. 
 
@@ -152,4 +152,4 @@ If you still could not rank up to Knight, consider farming gold in the following
 <li>Catacombs with Radioactive Blue Cheese</li>
 </ul>
 
-Head over to Dranco when you rank up to [Knight](/legendary-to-knight/knight)
+Head over to Dracano when you rank up to [Knight](/legendary-to-knight/knight)
