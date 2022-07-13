@@ -23,7 +23,8 @@ The Ancient Box Trap can be bought for 158175 gold, 1 Ancient Ripped Blueprint p
 - The other items are dropped by the mice in the Jungle of Dread, each of the havarti mice having their own respective drop. For further details, see the [main guide](/legendary-to-knight/hero)
 
 ### General Info and Trivia
-The Ancient Box is an ancient box. Tomorrow is another day to be creative.
+The Ancient Box Trap is the first Forgotten weapon most hunters will pick up. To find this ancient and forgotten technology, one must traverse the ocean and explore the Tribal Isles, collecting blueprints from the native tribes and looting the other components from the Mighty Beasts that lurkin in the depths of the Jungle of Dread.
+The Ancient Box is primarily used to hunt for the Acolyte in the Acolyte Realm. While this does make its use quite limited, the need to use runic cheese in the acolyte realm and the sheer difficulty of this challenge makes the weapon worthwhile regardless. Despite being this old (canonically), the Ancient Box Trap has had a number of minor changes since it's introduction in 2009, most of them revolving around making it easier to access.
 
 ### Alternatives
 Technically speaking, the Ancient Box Trap has an alternative, but this alternative is the most forgotten weapon in the game for a reason. The Forgotten Pressure Plate can be bought from the shop in Bristle Woods, but is significantly worse and requires a number of Runes to purchase. This makes the weapon very far from worthwhile, in comparison to the Ancient Box Trap that you essentially pick up 'along the way'. It's one very small strong point is that it is available slightly earlier for purchase, but by the time you have the resources to actually buy it you should just pick up the ancient box anyway.
