@@ -18,7 +18,9 @@ This treacherous environment only allows the toughest of mice to survive. Be war
 
 ### Chapter 5
 
-Use the best weapon you have (which can be NVMRC Forcefield Trap or Shrink Ray Trap), Dehydration Base and Brie Cheese.
+Use the best weapon you have, which should at least be the Swiss Army Mouse Trap, Dehydration Base and Brie Cheese.
+
+You can also consider donating for Shrink Ray Trap and it will replace a lot of Physical Traps upgrades till you are a Legendary. However, don’t buy it from Marketplace.
 
 Buy Charm Conduit from Mountain Charm Shoppe. This allows you to equip Charms, a consumable that can boost trap stats and change area behaviour.
 
