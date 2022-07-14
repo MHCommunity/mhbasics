@@ -20,7 +20,7 @@ nav_order: 5
 
 ### Weapon Acquisition
 The Temporal Turbine can be purchased from the Trapsmith in the Labyrinth and Zokor for 10,500,000 gold, 2 Temporal Shadow Plates, 1 Infused Plate and 225 Plate of Fealty. 
-- Infused Plate can be acquired by catching a Paladin weapon Master in Zokor's highest tier Fealty district. Alternatively, they are very rare drops from Ful'Mina's Gifts and FulMina The Mountain Queen. It can also be acquired by smashing a Minotaur Key.
+- An Infused Plate can be acquired by catching a Paladin weapon Master in Zokor's highest tier Fealty district. Alternatively, they are very rare drops from Ful'Mina's Gifts and FulMina The Mountain Queen. It can also be acquired by smashing a Minotaur Key.
 - Plate of Fealty are dropped in Zokor's Fealty district.
 - A Temporal Shadow Plate is a rare drop from the Retired Minotaur. Ful'Mina the Mountain Queen has a very small chance to drop them as well. Because of this, the Marketplace is where they are usually picked up.
 
