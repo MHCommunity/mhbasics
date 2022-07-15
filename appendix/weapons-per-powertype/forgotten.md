@@ -20,6 +20,6 @@ Welcome to Forgotten: The Forgotten powertype of Forgotten weapons, with some of
 Maybe it's the technology used to beat them back when they were last seen?
 
 
-<span class="fs-1">[Ancient box trap](/appendix/weapons-per-powertype/forgotten/abt){: .btn .btn-grey } </span><span class="fs-1">[Scarlet Ember Root Trap](/appendix/weapons-per-powertype/forgotten/sert){: .btn .btn-grey } </span> <span class="fs-1">[Infinite Labyrinth Trap](/appendix/weapons-per-powertype/forgotten/ilt){: .btn .btn-grey } </span><span class="fs-1">[Thought obliterator trap](/appendix/weapons-per-powertype/forgotten/tot){: .btn .btn-grey }</span>
+<span class="fs-1">[Ancient box trap](/appendix/weapons-per-powertype/forgotten/abt){: .btn .btn-grey } </span><span class="fs-1">[Scarlet Ember Root Trap](/appendix/weapons-per-powertype/forgotten/sert){: .btn .btn-grey } </span> <span class="fs-1">[Infinite Labyrinth Trap](/appendix/weapons-per-powertype/forgotten/ilt){: .btn .btn-grey } </span><span class="fs-1">[ Chrome Thought Obliterator Trap](/appendix/weapons-per-powertype/forgotten/tot){: .btn .btn-grey }</span>
 
 <img src="/assets/images/forgotten.png" alt="Forgotten">

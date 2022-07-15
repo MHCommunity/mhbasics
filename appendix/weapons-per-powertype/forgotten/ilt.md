@@ -5,7 +5,7 @@ parent: Forgotten
 permalink: /appendix/weapons-per-powertype/forgotten/ilt
 nav_order: 3
 ---
-<span class="fs-1">[Ancient box trap](/appendix/weapons-per-powertype/forgotten/abt){: .btn .btn-grey } </span><span class="fs-1">[Scarlet Ember Root Trap](/appendix/weapons-per-powertype/forgotten/sert){: .btn .btn-grey } </span> <span class="fs-1">[Infinite Labyrinth Trap](/appendix/weapons-per-powertype/forgotten/ilt){: .btn .btn-grey } </span><span class="fs-1">[Thought obliterator trap](/appendix/weapons-per-powertype/forgotten/tot){: .btn .btn-grey }</span>
+<span class="fs-1">[Ancient box trap](/appendix/weapons-per-powertype/forgotten/abt){: .btn .btn-grey } </span><span class="fs-1">[Scarlet Ember Root Trap](/appendix/weapons-per-powertype/forgotten/sert){: .btn .btn-grey } </span> <span class="fs-1">[Infinite Labyrinth Trap](/appendix/weapons-per-powertype/forgotten/ilt){: .btn .btn-grey } </span><span class="fs-1">[ Chrome Thought Obliterator Trap](/appendix/weapons-per-powertype/forgotten/tot){: .btn .btn-grey }</span>
 
 # Infinite Labyrinth Trap
 <img src="/assets/images/ilt.png" alt="Infinite Labyrinth Trap" width="600">
@@ -50,4 +50,4 @@ Both the Infinite Labyrinth trap and the Endless Labyrinth trap are both acquire
 The Infinite Labyrinth Trap does not have feasible alternatives. Yes it will hurt, just get them, you'll need them unless you want to get fancy beyond what this guide can offer you.
 
 # Upgrades
-The Infinite Labyrinth Trap has 3 very closely related upgrades to finish up the Forgotten powertype. These are the Thought Manipulator Trap, the Thought Obliterator Trap and the Chrome Thought Obliterator Trap. These three follow a direct upgrading line, requiring the previous step to craft the next. Details on these can be found on the [next](/appendix/weapons-per-powertype/forgotten/tot.md) page.
+The Infinite Labyrinth Trap has 3 very closely related upgrades to finish up the Forgotten powertype. These are the Thought Manipulator Trap, the  Chrome Thought Obliterator Trap and the Chrome  Chrome Thought Obliterator Trap. These three follow a direct upgrading line, requiring the previous step to craft the next. Details on these can be found on the [next](/appendix/weapons-per-powertype/forgotten/tot.md) page.
