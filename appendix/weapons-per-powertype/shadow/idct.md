@@ -16,7 +16,7 @@ nav_order: 4
 | __Power__ 	| 4,500 	| __Luck__ 	| 18 	|
 | __Power Bonus__ 	| 15% 	|__AttractionBonus__ 	| 15% 	|
 | __Cheese Effect__ 	| Fresh	| __Powertype__ 	| Shadow 	|
-| __Acquisition Method__ 	| Trapsmith	| __Cost__ 	| : 5,360,000 gold <br> 10 Silver Bolts <br> 25 Bloodstone <br> 100 Howlite	|
+| __Acquisition Method__ 	| Trapsmith	| __Cost__ 	| 5,360,000 gold <br> 10 Silver Bolts <br> 25 Bloodstone <br> 100 Howlite	|
 
 ### Weapon Acquisition
 The Interdimensional Crossbow can be purchased from the Trapsmith in Fort Rox for 5,360,000 gold, 10 Silver Bolts, 25 Bloodstone and 100 Howlite.  
