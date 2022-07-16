@@ -22,7 +22,7 @@ The Chrome Thought Obliterator Trap can be crafted by combining 1 Chrome Thought
 - 1 Chrome Thought Obliterator Upgrade Kit can be bought from either Ronza's Traveling Shoppe for 20,999,999 gold and a Chrome Voucher or the Marketplace.
 - 1 Thought Obliterator Parts can be acquired by smashing a Thought Obliterator Trap, and will be explained below.
 
-# Extra: Thought Obliterator Trap
+# Prerequisite: Thought Obliterator Trap
 <img src="/assets/images/tot.png" alt="ToT" width="600">
 
 |||||
@@ -38,7 +38,7 @@ The  Thought Obliterator Trap can be bought from the Floating Islands Trapsmith 
 - 30 Adorned Empyrean Jewel can be dropped by various treasure troves and treasure chests in the Floating Islands, dropped by the Empyrean Empress, and bought from the Floating Islands' Trapsmith or the Marketplace.
 - 1 Thought Manipulator Trap can be bought from the Floating Islands' Trapsmith, and will be explained below. This weapon is required to purchase the Thought Obliterator Trap, but will **NOT** be consumed.
 
-# Extra2: Thought Manipulator Trap
+# Prerequisite: Thought Manipulator Trap
 <img src="/assets/images/tmt.png" alt="TmT" width="600">
 
 |||||

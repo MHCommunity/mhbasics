@@ -24,7 +24,7 @@ The Infinite Labyrinth Trap can be bought from the Trapsmith in the Labyrinth an
 - Tech Power Cores can be looted from mice in Zokor's Tech district.
 - The Endless Labyrinth Trap can be bought in zokor as well, and will be explained below.
 
-# Extra: the Endless Labyrinth Trap
+# Prerequisite: the Endless Labyrinth Trap
 <img src="/assets/images/elt.png" alt="Endless Labyrinth Trap" width="300">
 
 |||||
