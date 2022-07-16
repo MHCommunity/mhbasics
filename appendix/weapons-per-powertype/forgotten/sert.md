@@ -29,4 +29,4 @@ The Scarlet Ember Root Trap is a relatively recent addition to the game, release
 The Scarlet Ember Root Trap does not have good alternatives, but there are a number of limited edition weapons that fill it's niche. One of the old strategies (before the introduction of SERT) was to simply tough it out untill the next weapon with the Ancient Box Trap, so this is a (non-recommended) option as well.
 
 ### Upgrades
-The Scarlet Ember Root Trap is primarily used for clearing the Fungal Cavern and the early stages of the  Labyrinth, untill a hunter gets the required materials for the [Endless and Infinite Labyrinth Trap](/appendix/weapons-per-powertype/forgotten/ilt.md).
+The Scarlet Ember Root Trap is primarily used for clearing the Fungal Cavern and the early stages of the  Labyrinth, untill a hunter gets the required materials for the [Endless and Infinite Labyrinth Trap](/appendix/weapons-per-powertype/forgotten/ilt).

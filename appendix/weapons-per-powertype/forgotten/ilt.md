@@ -50,4 +50,4 @@ Both the Infinite Labyrinth trap and the Endless Labyrinth trap are both acquire
 The Infinite Labyrinth Trap does not have feasible alternatives. Yes it will hurt, just get them, you'll need them unless you want to get fancy beyond what this guide can offer you.
 
 # Upgrades
-The Infinite Labyrinth Trap has 3 very closely related upgrades to finish up the Forgotten powertype. These are the Thought Manipulator Trap, the  Chrome Thought Obliterator Trap and the Chrome  Chrome Thought Obliterator Trap. These three follow a direct upgrading line, requiring the previous step to craft the next. Details on these can be found on the [next](/appendix/weapons-per-powertype/forgotten/tot.md) page.
+The Infinite Labyrinth Trap has 3 very closely related upgrades to finish up the Forgotten powertype. These are the Thought Manipulator Trap, the  Chrome Thought Obliterator Trap and the Chrome  Chrome Thought Obliterator Trap. These three follow a direct upgrading line, requiring the previous step to craft the next. Details on these can be found on the [next](/appendix/weapons-per-powertype/forgotten/tot) page.
