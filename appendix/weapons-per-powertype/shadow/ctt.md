@@ -13,22 +13,22 @@ nav_order: 6
 
 |||||
 |---|---|---|---|
-| __Power__ 	| 6000 	| __Luck__ 	| 28 	|
+| __Power__ 	| 6,000 	| __Luck__ 	| 28 	|
 | __Power Bonus__ 	| 25% 	|__AttractionBonus__ 	| 5% 	|
 | __Cheese Effect__ 	| Stale	| __Powertype__ 	| Shadow 	|
 | __Acquisition Method__ 	| Crafting	| __Cost__ 	| 1 Temporal Turbine Trap Parts <br> 1 Chrome Temporal Turbine Upgrade Kit|
 
 ### Weapon Acquisition
 The Chrome Temporal Turbine can be crafted by combining 1 Temporal Turbine Trap Parts with 1 Chrome Temporal Turbine Upgrade Kit.
-- the Temporal Turbine Trap Parts can be obtained by smashing the Temporal Turbine Trap.
+- the Temporal Turbine Trap Parts can be obtained by smashing the Temporal Turbine.
 - the Chrome Temporal Turbine Upgrade Kit can be acquired from Ronza's Traveling Shoppe for 39,999,999 gold and a Chrome Voucher or the Marketplace.
 
 
 ### General Info and Trivia
-The Chrome Temporal Turbine is the final step for Shadow at this point in time, with no shadow trap beating or contesting it's place as the best available. 
-The Chrome Temporal Turbine is a very expensive piece of equipment, as one would expect from a best in slot weapon. It's components cost over 50 million gold. This is without including the price of the temporal shadowplates, which at times could make its total price over tripple that.
-The Chrome Temporal Turbine is primarily used in Moussu Picchu's rainy stage and the Floating Islands' shadow islands. It also makes hunting in some earlier areas like the Sand Dunes, Fort Rox and Canterra Quarry a lot more comfortable.
-It has been hinted that shadow will (eventually) be used in the Folklore Forest as well, but specifics on this are currently lacking, making it difficult to properly set expectations for this.
+The Chrome Temporal Turbine is the final step for Shadow at this point in time, with no Shadow weapon beating or contesting its place as the best available. 
+The Chrome Temporal Turbine is a very expensive piece of equipment, as one would expect from a best in slot weapon. Its components cost over 50 million gold. This is without including the price of the Temporal Shadow Plates, which at times could make its total price over triple that.
+The Chrome Temporal Turbine is primarily used in Moussu Picchu's rainy stage and the Floating Islands' Shadow islands. It also makes hunting in some earlier areas like the Sand Dunes, Fort Rox and Canterra Quarry a lot more comfortable.
+It has been hinted that Shadow will (eventually) be used in the Folklore Forest as well, but specifics on this are currently lacking, making it difficult to properly set expectations for this.
 
 
 
