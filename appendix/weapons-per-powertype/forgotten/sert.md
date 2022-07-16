@@ -13,7 +13,7 @@ nav_order: 2
 |||||
 |---|---|---|---|
 | __Power__ 	| 6,000 	| __Luck__ 	| 7 	|
-| __Power Bonus__ 	| 3% 	|__Attarction Bonus__ 	| 10% 	|
+| __Power Bonus__ 	| 3% 	|__AttractionBonus__ 	| 10% 	|
 | __Cheese Effect__ 	| Very Stale 	| __Powertype__ 	| Forgotten 	|
 | __Acquisition Method__ 	| Trapsmith 	| __Cost__ 	| 900,000 gold <br> 1 Ember Root <br> 100 Nachore 	|
 

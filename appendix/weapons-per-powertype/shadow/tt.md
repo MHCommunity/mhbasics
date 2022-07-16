@@ -14,7 +14,7 @@ nav_order: 5
 |||||
 |---|---|---|---|
 | __Power__ 	| 5000 	| __Luck__ 	| 25 	|
-| __Power Bonus__ 	| 20% 	|__Attarction Bonus__ 	| 0% 	|
+| __Power Bonus__ 	| 20% 	|__AttractionBonus__ 	| 0% 	|
 | __Cheese Effect__ 	| Stale	| __Powertype__ 	| Shadow 	|
 | __Acquisition Method__ 	| Trapsmith	| __Cost__ 	| 10,500,000 gold <br> 2 Temporal Shadow Plate <br> 1 Infused Plate <br> 225 Plate of Fealty|
 

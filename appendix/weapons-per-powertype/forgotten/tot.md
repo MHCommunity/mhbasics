@@ -13,7 +13,7 @@ nav_order: 4
 |||||
 |---|---|---|---|
 | __Power__ 	| 16,025 	| __Luck__ 	| 21 	|
-| __Power Bonus__ 	| 25% 	|__Attarction Bonus__ 	| 20% 	|
+| __Power Bonus__ 	| 25% 	|__AttractionBonus__ 	| 20% 	|
 | __Cheese Effect__ 	| Extremely Fresh 	| __Powertype__ 	| Forgotten 	|
 | __Acquisition Method__ 	| Crafting 	| __Cost__ 	| 1 Chrome Thought Obliterator Upgrade Kit <br> 1 Thought Obliterator Parts|
 
@@ -28,7 +28,7 @@ The Chrome Thought Obliterator Trap can be crafted by combining 1 Chrome Thought
 |||||
 |---|---|---|---|
 | __Power__ 	| 14,000 	| __Luck__ 	| 18 	|
-| __Power Bonus__ 	| 25% 	|__Attarction Bonus__ 	| 15% 	|
+| __Power Bonus__ 	| 25% 	|__AttractionBonus__ 	| 15% 	|
 | __Cheese Effect__ 	| Extremely Fresh 	| __Powertype__ 	| Forgotten 	|
 | __Acquisition Method__ 	| Trapsmith 	| __Cost__ 	| 21,000,000 gold <br> 3 Sky Sprockets <br> 3 Skysoft Silk <br> 3 Enchanted Wing <br> 3 Cloudstone Bangle <br> 30 Adorned Empyrean Jewel <br> 1 Thought Manipulator Trap|
 
@@ -44,10 +44,24 @@ The  Thought Obliterator Trap can be bought from the Floating Islands Trapsmith 
 |||||
 |---|---|---|---|
 | __Power__ 	| 12,112 	| __Luck__ 	| 12 	|
-| __Power Bonus__ 	| 15% 	|__Attarction Bonus__ 	| 15% 	|
+| __Power Bonus__ 	| 15% 	|__AttractionBonus__ 	| 15% 	|
 | __Cheese Effect__ 	| Fresh 	| __Powertype__ 	| Forgotten 	|
 | __Acquisition Method__ 	| Trapsmith 	| __Cost__ 	| 10,700,000 gold <br> 3 Sky Sprockets <br> 3 Skysoft Silk <br> 3 Enchanted Wing <br> 3 Cloudstone Bangle|
 
 ## Weapon Acquisition
 The  Thought Manipulator Trap can be bought from the Floating Islands Trapsmith for 21,000,000 gold, 3 Sky Sprockets, 3 Skysoft Silk, 3 Enchanted Wing and 3 Cloudstone Bangle.
 - 3 Sky Sprockets, 3 Skysoft Silk, 3 Enchanted Wing and 3 Cloudstone Bangle are dropped by the Paragons in the Floating Islands, and the Empyrean Empress in the sky palace.
+
+# General info and Trivia
+The Chrome Thought Obliterator Trap is the final step for Forgotten at this point in time, with no Forgotten weapon beating or contesting it's place as the best available. It is one of the Floating Islands' "tier 2" weapons with a chrome kit on top of that, making it a very expensive weapon.
+The Chrome Thought Obliterator Trap is primarily used in the Floating Isles. This aside, there are no progress areas beyond it where this weapon is used. Before the upgrade, Forgotten is considered one of the worse powertypes to pick in the Floating Islands. Having an upgrade to alleviate this is very appealing, definitely for hunters who are aiming at crowns on the Forgotten Floating Islands mice
+It has been hinted that Forgotten will (eventually) be used in a boss-like area in the Folklore Forest as well, but the specifics on this are currently lacking, making it difficult to properly set expectations for this.
+
+# Alternatives
+The Chrome Thought Obliterator Trap is the current best in slot Forgotten weapon in the game.  
+<mark> DISCLAIMER: The following information is speculation </mark>  
+There are currently rumors that the Folklore Forest, the next permanent addition to the game, will have a stopgap weapon for Forgotten. It will not beat the Chrome Thought Obliterator Trap in stats, but would be an alternative for the Thought Manipulator Trap if a hunter decides to not finish the Floating Isles' traps before heading to the Folklore Forest.
+
+# Upgrades
+One day, my friend...
+One day...

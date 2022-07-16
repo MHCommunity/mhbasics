@@ -16,7 +16,7 @@ nav_order: 3
 |||||
 |---|---|---|---|
 | __Power__ 	| 2275 	| __Luck__ 	| 10 	|
-| __Power Bonus__ 	| 10% 	|__Attarction Bonus__ 	| 5% 	|
+| __Power Bonus__ 	| 10% 	|__AttractionBonus__ 	| 5% 	|
 | __Cheese Effect__ 	| Extremely Fresh	| __Powertype__ 	| Shadow 	|
 | __Acquisition Method__ 	| Trapsmith	| __Cost__ 	| : 1,800,000 gold	|
 

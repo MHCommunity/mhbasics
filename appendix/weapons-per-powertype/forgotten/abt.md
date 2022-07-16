@@ -13,7 +13,7 @@ nav_order: 1
 |||||
 |---|---|---|---|
 | __Power__ 	| 4300 	| __Luck__ 	| 4 	|
-| __Power Bonus__ 	| 10% 	|__Attarction Bonus__ 	| 0% 	|
+| __Power Bonus__ 	| 10% 	|__AttractionBonus__ 	| 0% 	|
 | __Cheese Effect__ 	| No Effect 	| __Powertype__ 	| Forgotten 	|
 | __Acquisition Method__ 	| Trapsmith 	| __Cost__ 	| 158175 gold <br> 1 Ancient Ripped Blueprint piece <br> 1 Ancient Frayed Blueprint piece <br> 1 Ancient Mangled Blueprint piece <br> 1 Ancient Relic Staff <br> 1 Timeless Mystic Gem <br> 1 Hinge of Eternity <br> 1 Ethereal Rope <br> 1 Engraved Solid Stone Slab <br> 1 Encrusted Metal of Time|
 

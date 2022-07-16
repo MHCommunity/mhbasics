@@ -13,7 +13,7 @@ nav_order: 3
 |||||
 |---|---|---|---|
 | __Power__ 	| 11,011 	| __Luck__ 	| 11 	|
-| __Power Bonus__ 	| 15% 	|__Attarction Bonus__ 	| 5% 	|
+| __Power Bonus__ 	| 15% 	|__AttractionBonus__ 	| 5% 	|
 | __Cheese Effect__ 	| Stale 	| __Powertype__ 	| Forgotten 	|
 | __Acquisition Method__ 	| Trapsmith 	| __Cost__ 	| 1,800,000 gold<br> 1 Enigmatic Core <br> 1 Endless Labyrinth Trap <br> 1 Powercore Hammer <br> 225 Tech Power Core|
 
@@ -30,7 +30,7 @@ The Infinite Labyrinth Trap can be bought from the Trapsmith in the Labyrinth an
 |||||
 |---|---|---|---|
 | __Power__ 	| 10,000 	| __Luck__ 	| 9	|
-| __Power Bonus__ 	| 15% 	|__Attarction Bonus__ 	| 5% 	|
+| __Power Bonus__ 	| 15% 	|__AttractionBonus__ 	| 5% 	|
 | __Cheese Effect__ 	| Very Stale 	| __Powertype__ 	| Forgotten 	|
 | __Acquisition Method__ 	| Trapsmith 	| __Cost__ 	| 6,980,000 gold <br> 1 Powercore Hammer <br> 1 Sacred Script <br> 1 Infused Plate <br> 150 Scholar Scrolls <br> 150 Tech Power Cores <br> 150 Plate of Fealty|
 
@@ -44,7 +44,7 @@ The Endless Labyrinth Trap can be bought from the Trapsmith in the Labyrinth and
 - Plate of Fealty are dropped in Zokor's Fealty district.
 
 # General Info and Trivia
-Both the Infinite Labyrinth trap and the Endless Labyrinth trap are both acquired and used in the Labyrinth and Zokor. Considering Zokor's role as an area with 3 (former) best in slot weapons, the conventional strategy is to get to the Infinite Labyrinth first and go after the other two after. The Infinite Labyrinth can eventually be replaced with the Thought Manipulator in the Floating Isles, which will directly lead to the current forgotten Best in Slot weapon as well.
+Both the Infinite Labyrinth trap and the Endless Labyrinth trap are both acquired and used in the Labyrinth and Zokor. Considering Zokor's role as an area with 3 (former) best in slot weapons, the conventional strategy is to get to the Endless & Infinite Labyrinth first and go after the other two after. The Infinite Labyrinth can eventually be replaced with the Thought Manipulator in the Floating Isles, which will directly lead to the current Forgotten Best in Slot weapon as well.
 
 # Alternatives
 The Infinite Labyrinth Trap does not have feasible alternatives. Yes it will hurt, just get them, you'll need them unless you want to get fancy beyond what this guide can offer you.

@@ -13,7 +13,7 @@ nav_order: 1
 |||||
 |---|---|---|---|
 | __Power__ 	| 1500 	| __Luck__ 	| 5 	|
-| __Power Bonus__ 	| 0% 	|__Attarction Bonus__ 	| 0% 	|
+| __Power Bonus__ 	| 0% 	|__AttractionBonus__ 	| 0% 	|
 | __Cheese Effect__ 	| No Effect 	| __Powertype__ 	| Shadow 	|
 | __Acquisition Method__ 	| Trapsmith 	| __Cost__ 	| *65400 gold 	|
 

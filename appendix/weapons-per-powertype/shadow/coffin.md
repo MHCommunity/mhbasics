@@ -16,7 +16,7 @@ nav_order: 2
 |||||
 |---|---|---|---|
 | __Power__ 	| 1800 	| __Luck__ 	| 7 	|
-| __Power Bonus__ 	| 5% 	|__Attarction Bonus__ 	| 5% 	|
+| __Power Bonus__ 	| 5% 	|__AttractionBonus__ 	| 5% 	|
 | __Cheese Effect__ 	| Extremely Stale	| __Powertype__ 	| Shadow 	|
 | __Acquisition Method__ 	| Premium shoppe or Marketplace 	| __Cost__ 	| : Marketplace <br> : premium shoppe 	|
 

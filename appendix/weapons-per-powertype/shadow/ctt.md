@@ -14,7 +14,7 @@ nav_order: 6
 |||||
 |---|---|---|---|
 | __Power__ 	| 6000 	| __Luck__ 	| 28 	|
-| __Power Bonus__ 	| 25% 	|__Attarction Bonus__ 	| 5% 	|
+| __Power Bonus__ 	| 25% 	|__AttractionBonus__ 	| 5% 	|
 | __Cheese Effect__ 	| Stale	| __Powertype__ 	| Shadow 	|
 | __Acquisition Method__ 	| Crafting	| __Cost__ 	| 1 Temporal Turbine Trap Parts <br> 1 Chrome Temporal Turbine Upgrade Kit|
 
