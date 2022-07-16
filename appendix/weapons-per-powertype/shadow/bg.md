@@ -15,7 +15,7 @@ nav_order: 1
 | __Power__ 	| 1,500 	| __Luck__ 	| 5 	|
 | __Power Bonus__ 	| 0% 	|__AttractionBonus__ 	| 0% 	|
 | __Cheese Effect__ 	| No Effect 	| __Powertype__ 	| Shadow 	|
-| __Acquisition Method__ 	| Trapsmith 	| __Cost__ 	| *65,400 gold 	|
+| __Acquisition Method__ 	| Trapsmith 	| __Cost__ 	| 65,400 gold 	|
 
 ### Weapon Acquisition
 The Bottomless Grave can be bought directly from the Trapsmith for 65,400 Gold in a number of locations, most notably the Laboratory and the Mousoleum.
