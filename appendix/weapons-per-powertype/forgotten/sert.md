@@ -23,10 +23,10 @@ The Scarlet Ember Root Trap can be bought for 900,000 gold, 1 Ember Root and 100
 - Nachore can be looted by hunting in Canterra Quarry.
 
 ### General Info and Trivia
-The Scarlet Ember Root Trap is a relatively recent addition to the game, released alongside Queso Canyon with as main purpose smoothing out the transition from the old forgotten to the lategame forgotten content. At the time, there was no (non-LE) forgotten weapon between the Ancient Box Trap and the Fungal Cavern at Duke, which also required some forgotten action. While using the ancient box here, an upgrade inbetween was more than welcome, making the transition into the Endless Labyrinth Trap a lot more convenient.
+The Scarlet Ember Root Trap is a relatively recent addition to the game, released alongside Queso Canyon with as main purpose smoothing out the transition from the old Forgotten to the late-game Forgotten content. At the time, there was no (non-LE) Forgotten weapon between the Ancient Box Trap and the Fungal Cavern at Duke/Duchess, which also required some Forgotten action. While using the Ancient Box Trap here is doable, an upgrade in-between was more than welcome, making the transition into the Endless Labyrinth Trap a lot more convenient.
 
 ### Alternatives
-The Scarlet Ember Root Trap does not have good alternatives, but there are a number of limited edition weapons that fill it's niche. One of the old strategies (before the introduction of SERT) was to simply tough it out untill the next weapon with the Ancient Box Trap, so this is a (non-recommended) option as well.
+The Scarlet Ember Root Trap does not have good alternatives, but there are a number of Limited Edition weapons that fill its niche. One of the old strategies (before the introduction of SERT) was to simply tough it out until the next weapon with the Ancient Box Trap, so this is a (non-recommended) option as well.
 
 ### Upgrades
-The Scarlet Ember Root Trap is primarily used for clearing the Fungal Cavern and the early stages of the  Labyrinth, untill a hunter gets the required materials for the [Endless and Infinite Labyrinth Trap](/appendix/weapons-per-powertype/forgotten/ilt).
+The Scarlet Ember Root Trap is primarily used for clearing the Fungal Cavern and the early stages of the Labyrinth, until a hunter gets the required materials for the [Endless and Infinite Labyrinth Trap](/appendix/weapons-per-powertype/forgotten/ilt).
