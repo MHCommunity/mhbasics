@@ -2,6 +2,7 @@
 layout: default
 title: Rift
 parent: Weapons
+grant_parent: Appendix
 nav_order: 6
 permalink: /appendix/weapons-per-powertype/rift
 ---

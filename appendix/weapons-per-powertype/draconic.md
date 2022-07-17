@@ -2,6 +2,7 @@
 layout: default
 title: Draconic
 parent: Weapons
+grant_parent: Appendix
 nav_order: 7
 permalink: /appendix/weapons-per-powertype/draconic
 ---

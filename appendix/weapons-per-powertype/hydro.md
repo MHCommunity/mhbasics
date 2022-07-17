@@ -2,6 +2,7 @@
 layout: default
 title: Hydro
 parent: Weapons
+grant_parent: Appendix
 nav_order: 3
 permalink: /appendix/weapons-per-powertype/hydro
 ---

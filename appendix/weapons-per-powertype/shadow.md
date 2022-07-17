@@ -4,6 +4,7 @@ title: Shadow
 parent: Weapons
 nav_order: 4
 has_children: true
+grant_parent: Appendix
 has_toc: false
 permalink: /appendix/weapons-per-powertype/shadow
 ---

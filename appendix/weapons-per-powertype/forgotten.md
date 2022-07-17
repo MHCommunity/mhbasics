@@ -4,6 +4,7 @@ title: Forgotten
 parent: Weapons
 nav_order: 5
 has_children: true
+grant_parent: Appendix
 has_toc: false
 permalink: /appendix/weapons-per-powertype/forgotten
 ---

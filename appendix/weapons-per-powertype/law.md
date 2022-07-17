@@ -2,6 +2,7 @@
 layout: default
 title: Law
 parent: Weapons
+grant_parent: Appendix
 nav_order: 8
 permalink: /appendix/weapons-per-powertype/law
 ---

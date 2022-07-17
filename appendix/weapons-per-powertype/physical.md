@@ -2,6 +2,7 @@
 layout: default
 title: Physical
 parent: Weapons
+grant_parent: Appendix
 nav_order: 1
 permalink: /appendix/weapons-per-powertype/physical
 ---

@@ -2,6 +2,7 @@
 layout: default
 title: Tactical
 parent: Weapons
+grant_parent: Appendix
 nav_order: 2
 permalink: /appendix/weapons-per-powertype/tactical
 ---
