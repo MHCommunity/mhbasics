@@ -173,9 +173,7 @@ Iceberg, dead ahead! Teeming with mice, and on a collision course with the beach
 
 Before you travel to the Iceberg, you should be ready for it. It‘s a complex area and the mice are not weak. Also, the traps and bases acquired here are either region-specific or easily outclassed by upcoming gear. This makes the Iceberg a rather low priority sidequest in terms of story progression.
 
-Use the Steam Laser MK. I, Aqua Base and Gouda to hunt in Iceberg.
-
-INSERT CHARM RECOMMENDATION HERE.
+Buy 100 Stick Charm 5-Pack from the Charm Shoppe. Sticky Charm prevents you from any pushback in the Iceberg. Use the Steam Laser MK. I, Aqua Base, Gouda Cheese and Stick Charm to hunt in Iceberg.
 
 Iceberg has 4 major zones, each with different length and mouse populations. You move forward or backward the Iceberg when catching or missing certain mice. After each zone, you need to catch a General before you can proceed to next zone. Generals drop Bottled Cold Fusion, which will be used in crafting new trap components.
 
@@ -197,9 +195,52 @@ The final zone is The Mad Depths, with a depth of 200 feet. Zealot is present he
 
 After finishing The Mad Depths and catching the last General, you would be at Icewing’s Lair. 
 
-CONTINUE AFTER SCIENCING WHICH BASE IS THE ONE TO GO FOR FIRST
+First Run
+<ul>
+<li>Use Steam Laser Mk. I, Aqua Base, Sticky Charm and Gouda Cheese. If you have decent bases with at least 10 Luck (likely from events), use that instead.</li>
+<li>Remember that no charms are required for catching Generals.</li>
+<li>Continue hunting until you reach Icewing’s Lair, where you would encounter Frostwing Commander Mouse.</li>
+<li>Loot 1 Well-sealed Canister from Frostwing Commander Mouse.</li>
+<li>It is unlikely to get any chests on first run unless you have decent bases.</li>
+<li>You would automatically transported to Slushy Shoreline upon catching Frostwing Commander Mouse.</li>
 
-Claim the adventure Hunt for Icewing.
+Preparations for the Second Run
+<ul>
+<li>Head back to Slushy Shoreline and use the Steam Laser Mk. I, Aqua Base, Softserve Charm and Gouda Cheese.</li>
+<li>Farm 16 Wire Spools, 13 Frosty Metals, 13 Heating Oil and 150 War Scraps.</li>
+<li>Buy 1 Remote Detonator Base from the Trapsmith with<ul>
+<li>3 Bottled Cold Fusion</li>
+<li>4 Wire Spool</li>
+<li>1 Frosty Metal</li>
+<li>1 Heating Oil</li>
+<li>48,500 gold</li></ul></li>
+<li>Travel back to the Iceberg for your second run.</li>
+</ul>
+
+Second Run
+<ul>
+<li>Buy extra Sticky Charm 5-Pack from the Charm Shoppe to get at least 300 of it.</li>
+<li>Buy Ice Drill Mk. I - III if you have enough War Scraps.</li>
+<li>Use Steam Laser Mk. I, Aqua Base, Sticky Charm and Gouda Cheese. If you have decent bases with at least 10 Luck (likely from events), use that instead.</li>
+<li>When you are in the Bombing Run, switch to the Remote Detonator Base. You will move 20 feet per hunt if you catch the Bomb Squad mice.</li>
+<li>After Catching the General at the end of Bombing Run, switch to another Weapon. Buy Steam Laser Mk. II from the Trapsmith with<ul>
+<li>1 Steam Laser Mk. I</li>
+<li>4 Bottled Cold Fusion</li>
+<li>12 Wire Spool</li>
+<li>12 Frosty Metal</li>
+<li>12 Heating Oil</li></ul></li>
+<li>Now continue to hunt using Steam Laser Mk. II, Aqua Base, Sticky Charm and Gouda Cheese.</li>
+<li>If you reach The Mad Depths under 400 hunts, drill 7 times with Ice Drill. Do not drill past the General.</li>
+<li>Continue hunting until you reach Icewing’s Lair. Icewing can be encountered as long as you have taken not more than 425 hunts this run. Otherwise, you would encounter Frostwing Commander Mouse again.</li>
+<li>Remember to offer to snipe Icewing on MouseHunt Discord or Facebook mapping groups like Mapmeisters if you are not opposed to mapping economy.</li>
+<li>Catch Icewing to loot 1 Steam Nine. If you are using Steam Laser Mk.II, the weapon would become broken.</li>
+<li>Switch to another weapon. Smash Steam Laser Mk. II (Broken!) into Steam Laser Mk. II Parts. Buy Steam Laser Mk. III with 1 Steam Laser Mk. II Parts and 1 Steam Nine from the Trapsmith.</li>
+<li>Claim the adventure Hunt for Icewing after catching Icewing.</li>
+<li>You should be able to obtain at least Iceberg Supply Chest. Open the chest(s) rewarded for some supplies.</li>
+<li>You would automatically be transported to Slushy Shoreline upon catching either Icewing or Frostwing Commander Mouse.</li>
+<li>Unless you fail to catch Icewing this run or you want to do extra runs, travel to Claw Shot City.</li>
+
+Recommended Extra Runs?
 
 <img src="https://www.mousehuntgame.com/images/environments/b79693a6e67a1f5c7f268b3ceb9de8cf.jpg" alt="Claw Shot City's Banner">
 
