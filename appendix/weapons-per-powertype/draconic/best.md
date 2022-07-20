@@ -5,7 +5,7 @@ parent: Draconic
 permalink: /appendix/weapons-per-powertype/draconic/best
 nav_order: 2
 ---
-<span class="fs-1">[Ice Maiden](/appendix/weapons-per-powertype/draconic/im){: .btn .btn-grey } </span><span class="fs-1"> [Blazing Ember Spear Trap](/appendix/weapons-per-powertype/draconic/best){: .btn .btn-grey } </span><span class="fs-1"> [Chrome Storm Wrought Ballista Trap](/appendix/weapons-per-powertype/draconic/CSWBT){: .btn .btn-grey } </span><span class="fs-1"> [DRAGON SLAYER CANNON](/appendix/weapons-per-powertype/draconic/dsc){: .btn .btn-grey } </span>
+<span class="fs-1">[Ice Maiden](/appendix/weapons-per-powertype/draconic/im){: .btn .btn-grey } </span><span class="fs-1"> [Blazing Ember Spear Trap](/appendix/weapons-per-powertype/draconic/best){: .btn .btn-grey } </span><span class="fs-1"> [Chrome Storm Wrought Ballista Trap](/appendix/weapons-per-powertype/draconic/cswb){: .btn .btn-grey } </span><span class="fs-1"> [DRAGON SLAYER CANNON](/appendix/weapons-per-powertype/draconic/dsc){: .btn .btn-grey } </span>
 
 ## Blazing Ember Spear Trap
 when you take the fight against dragons to the sky (or not quite)

@@ -5,7 +5,7 @@ parent: Draconic
 permalink: /appendix/weapons-per-powertype/draconic/im
 nav_order: 1
 ---
-<span class="fs-1">[Ice Maiden](/appendix/weapons-per-powertype/draconic/im){: .btn .btn-grey } </span><span class="fs-1"> [Blazing Ember Spear Trap](/appendix/weapons-per-powertype/draconic/best){: .btn .btn-grey } </span><span class="fs-1"> [Chrome Storm Wrought Ballista Trap](/appendix/weapons-per-powertype/draconic/CSWBT){: .btn .btn-grey } </span><span class="fs-1"> [DRAGON SLAYER CANNON](/appendix/weapons-per-powertype/draconic/dsc){: .btn .btn-grey } </span>
+<span class="fs-1">[Ice Maiden](/appendix/weapons-per-powertype/draconic/im){: .btn .btn-grey } </span><span class="fs-1"> [Blazing Ember Spear Trap](/appendix/weapons-per-powertype/draconic/best){: .btn .btn-grey } </span><span class="fs-1"> [Chrome Storm Wrought Ballista Trap](/appendix/weapons-per-powertype/draconic/cswb){: .btn .btn-grey } </span><span class="fs-1"> [DRAGON SLAYER CANNON](/appendix/weapons-per-powertype/draconic/dsc){: .btn .btn-grey } </span>
 
 ## Ice Maiden
 hah you do have one now
