@@ -7,6 +7,7 @@ nav_order: 1
 ---
 <span class="fs-1">[Bottomless Grave](/appendix/weapons-per-powertype/shadow/bg){: .btn .btn-grey } </span><span class="fs-1"> [Creepy Coffin](/appendix/weapons-per-powertype/shadow/coffin){: .btn .btn-grey } </span><span class="fs-1"> [Clockapult of Time](/appendix/weapons-per-powertype/shadow/cot){: .btn .btn-grey } </span><span class="fs-1"> [Interdimensional Crossbow Trap](/appendix/weapons-per-powertype/shadow/idct){: .btn .btn-grey } </span><span class="fs-1"> [Temporal Turbine](/appendix/weapons-per-powertype/shadow/tt){: .btn .btn-grey } </span><span class="fs-1"> [Chrome Temporal Turbine](/appendix/weapons-per-powertype/shadow/ctt){: .btn .btn-grey } </span>
 ## Bottomless Grave
+The Shadow brought in by Livingshard Naturalis Historia
 
 <img src="/assets/images/bg.png" alt="uncovered undercover sceptic tank" width="600">
 

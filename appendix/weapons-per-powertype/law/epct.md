@@ -5,7 +5,7 @@ parent: law
 permalink: /appendix/weapons-per-powertype/law/epct
 nav_order: 3
 ---
-<span class="fs-1">[S.L.A.C.](/appendix/weapons-per-powertype/law/slac){: .btn .btn-grey } </span><span class="fs-1"> [S.T.I.N.G.E.R](/appendix/weapons-per-powertype/shadow/stinger){: .btn .btn-grey } </span><span class="fs-1"> [Judge Droid Trap](/appendix/weapons-per-powertype/law/jdt) {: .btn .btn-grey } </span><span class="fs-1"> [Ember Prison Core Trap](/appendix/weapons-per-powertype/shadow/epct){: .btn .btn-grey } </span><span class="fs-1"> [S.T.I.N.G.E.R](/appendix/weapons-per-powertype/shadow/stinger){: .btn .btn-grey } </span>
+<span class="fs-1">[S.L.A.C.](/appendix/weapons-per-powertype/law/slac){: .btn .btn-grey } </span><span class="fs-1"> [MPCT](/appendix/weapons-per-powertype/law/MPCT){: .btn .btn-grey } </span><span class="fs-1"> [Judge Droid Trap](/appendix/weapons-per-powertype/law/jdt){: .btn .btn-grey } </span><span class="fs-1"> [Ember Prison Core Trap](/appendix/weapons-per-powertype/shadow/epct){: .btn .btn-grey } </span><span class="fs-1"> [S.T.I.N.G.E.R](/appendix/weapons-per-powertype/shadow/stinger){: .btn .btn-grey } </span>
 
 ## Ember Prison Core Trap
 Ever wondered what jail would be like if it was LIT?

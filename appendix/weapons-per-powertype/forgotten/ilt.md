@@ -8,6 +8,7 @@ nav_order: 3
 <span class="fs-1">[Ancient box trap](/appendix/weapons-per-powertype/forgotten/abt){: .btn .btn-grey } </span><span class="fs-1">[Scarlet Ember Root Trap](/appendix/weapons-per-powertype/forgotten/sert){: .btn .btn-grey } </span> <span class="fs-1">[Infinite Labyrinth Trap](/appendix/weapons-per-powertype/forgotten/ilt){: .btn .btn-grey } </span><span class="fs-1">[ Chrome Thought Obliterator Trap](/appendix/weapons-per-powertype/forgotten/tot){: .btn .btn-grey }</span>
 
 # Infinite Labyrinth Trap
+Minoan Labyrinth of the Lost
 <img src="/assets/images/ilt.png" alt="Infinite Labyrinth Trap" width="600">
 
 |||||

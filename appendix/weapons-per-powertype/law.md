@@ -13,7 +13,7 @@ Law is one of the two 'young' powertypes alongside Rift. It was only added to th
 Law revolves around the idea of the law. Most of its mice are some form of criminals, burglars, or other justice-related topics.  
 Law was introduced and is primarily used in Varmint Valley, however its influence on the game has increased significantly since the release of Queso Canyon and the Floating Isles, the former providing Law with more practical use for lategame players.
 
-<span class="fs-1">[S.L.A.C.](/appendix/weapons-per-powertype/law/slac){: .btn .btn-grey } </span><span class="fs-1"> [S.T.I.N.G.E.R](/appendix/weapons-per-powertype/shadow/stinger){: .btn .btn-grey } </span><span class="fs-1"> [Judge Droid Trap](/appendix/weapons-per-powertype/law/jdt) {: .btn .btn-grey } </span><span class="fs-1"> [Ember Prison Core Trap](/appendix/weapons-per-powertype/shadow/epct){: .btn .btn-grey } </span><span class="fs-1"> [S.T.I.N.G.E.R](/appendix/weapons-per-powertype/shadow/stinger){: .btn .btn-grey } </span>
+<span class="fs-1">[S.L.A.C.](/appendix/weapons-per-powertype/law/slac){: .btn .btn-grey } </span><span class="fs-1"> [MPCT](/appendix/weapons-per-powertype/law/MPCT){: .btn .btn-grey } </span><span class="fs-1"> [Judge Droid Trap](/appendix/weapons-per-powertype/law/jdt){: .btn .btn-grey } </span><span class="fs-1"> [Ember Prison Core Trap](/appendix/weapons-per-powertype/shadow/epct){: .btn .btn-grey } </span><span class="fs-1"> [S.T.I.N.G.E.R](/appendix/weapons-per-powertype/shadow/stinger){: .btn .btn-grey } </span>
 
 <img src="/assets/images/ZAF_GIB_LAW_CHART_TY.png" alt="Moo" width="300" height="300">
 <img src="/assets/images/law.png" alt="Law">
