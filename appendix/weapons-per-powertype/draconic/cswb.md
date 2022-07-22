@@ -37,7 +37,7 @@ The Chrome Storm Wrought Ballista Trap can be crafted from 1 Storm Wrought Balli
 
 ### Weapon Acquisition
 The Storm Wrought Ballista Trap can be purchased from the Trapsmith in Moussu Picchu for 3 Ful'Mina's Tooth and 1 Dragonvine Ballista Trap.
-- Ful'Mina's Teeth can be looted from Ful'Mina, The Mountain Queen. Addionally, they can be purchased for Dragon Scales in the Moussu Picchu General Store or picked up from the Marketplace.
+- Ful'Mina's Teeth can be looted from Ful'Mina, The Mountain Queen. Additionally, they can be purchased for Dragon Scales in the Moussu Picchu General Store or picked up from the Marketplace.
 - The Dragonvine Ballista Trap can be purchased from the Moussu Picchu Trapsmith and will be explained below.
 
 # Prerequisite #2: Dragonvine Ballista Trap
@@ -53,15 +53,15 @@ The Storm Wrought Ballista Trap can be purchased from the Trapsmith in Moussu Pi
 
 ### Weapon Acquisition
 The Dragonvine Ballista Trap can be purchased from the Moussu Picchu Trapsmith for 1,700,000 gold, 300 Dragon Scales and 90 Minerals.
-- Dragon Scales can be looted from Storm Dragons, by armind Dragonvine Cheese in Moussu Picchu.
+- Dragon Scales can be looted from Storm Dragons, by arming Dragonvine Cheese in Moussu Picchu.
 - Minerals primarily come from Ful'Mina's Gifts, Storm Dragons in Moussu Picchu and some mice in the Fungal Cavern.
 
 # General info and Trivia
-The Chrome Stormwrought Ballista is the second best Draconic weapon, only being bested by an upgrade that uses it's parts. Considering the price of its upgrade, this weapon is considered 'good enough' by many hunters. It is used in Queso Geyser, Moussu Picchu and the Floating Islands.
-Next to it's nice shine and decent stats, both the non-chromed and the chromed Storm Wrought Ballista have a secondary effect: whenever a Storm Dragon in Moussu Picchu drops any dragon sclaes, it will drop an additional one.
+The Chrome Stormwrought Ballista is the second best Draconic weapon, only being bested by an upgrade that uses its parts. Considering the price of its upgrade, this weapon is considered 'good enough' by many hunters. It is used in Queso Geyser, Moussu Picchu and the Floating Islands.
+Next to its nice shine and decent stats, both the non-chromed and the chromed Storm Wrought Ballista have a secondary effect: whenever a Storm Dragon in Moussu Picchu drops any dragon scales, it will drop an additional one.
 
 ### Alternatives
 Draconic doesn't do alternatives.
 
 ### Upgrades
-After getting chromed, people assumed this weapon would be Draconic's best trap for quite a while. Soon after, another draconic area released: the Queso Geyser. With it's release, Draconic also got a new best in slot weapon, consuming this chromed ballista and creating the true weapon that beats ancient dragons: the [Dragon Slayer Cannon](/appendix/weapons-per-powertype/draconic/dsc)
+After getting chromed, people assumed this weapon would be Draconic's best trap for quite a while. Soon after, another Draconic area released: the Queso Geyser. With its release, Draconic also got a new best in slot weapon, consuming this chromed ballista and creating the true weapon that beats ancient dragons: the [Dragon Slayer Cannon](/appendix/weapons-per-powertype/draconic/dsc).
