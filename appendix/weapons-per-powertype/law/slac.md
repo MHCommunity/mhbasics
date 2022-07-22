@@ -26,8 +26,8 @@ The S.L.A.C. is the first Law weapon most hunters obtain, and is used primarily 
 The S.L.A.C. was originally introduced alongside Law with the release of Claw Shot City. The powertype unfortunately remained quite weak until the release of Fort Rox, which introduced the Meteor Prison Core Trap
 
 ### Alternatives
-The S.L.A.C doesn't really have an alternative, as it is the very first law weapon available to hunters.  
-The closest to an alternative it has is the S.L.A.C.II, however this weapon requires loot from Claw Shot City, an area weak to only Law, to purchase. The Gnawnia Express Station has a number of traps in a similar boat: while they are upgrades to the S.L.A.C. stat-wise, they require Law-gathered loots to purchase and are conventionally not looked at as worthwhile upgrades.  
+The S.L.A.C. doesn't really have an alternative, as it is the very first law weapon available to hunters.  
+The closest to an alternative it has is the S.L.A.C. II, however this weapon requires loot from Claw Shot City, an area weak to only Law, to purchase. The Gnawnia Express Station has a number of traps in a similar boat: while they are upgrades to the S.L.A.C. stat-wise, they require Law-gathered loots to purchase and are conventionally not looked at as worthwhile upgrades.  
 Law has a second theoretical entry point in the Judge Droid Trap, which is provided in Queso Canyon. Unfortunately, this trajectory requires too many shenanigans to elaborate upon in this guide, so reach out to the community or try crafting your own path if this option piques your interest.
 
 ### Upgrades
