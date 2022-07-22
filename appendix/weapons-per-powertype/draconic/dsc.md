@@ -17,17 +17,17 @@ I am never financially going to recover from this. Unless I try gambling!
 | __Power__ 	| 10,000 	| __Luck__ 	| 25 	|
 | __Power Bonus__ 	| 35% 	|__AttractionBonus__ 	| 10% 	|
 | __Cheese Effect__ 	| No Effect 	| __Powertype__ 	| Draconic 	|
-| __Acquisition Method__ 	| Crafting 	| __Cost__ 	| oh boy a lot <br> this isn't fit for a table, I'm sorry 	|
+| __Acquisition Method__ 	| Crafting 	| __Cost__ 	| Oh boy a lot <br> this isn't fit for a table, I'm sorry. See below here. 	|
 
 ### Weapon Acquisition
 The Dragon Slayer Cannon is crafted in multiple stages:
 - The Dragon Slayer Cannon Chassis, requiring 310 Cork Bark, 15 Congealed Rubber, 30 Geyserite, 60 Tungsten and 300 Tiny Platinum Bars
 - The Imbued Dragon Slayer Cannon Chassis, requiring the Chassis from earlier, 1 Ful'Mina's Tooth, 2 Ember Roots and 2 Ember Stones
-- The Dragon Slayer Cannon itself, requiring the Imbued Dragon Slayer Cannon Chassis, 1 Kalor'Ignis Rib, 1 Chrome Storm Wrought Ballista Parts and 415 Dragon Scale.
+- The Dragon Slayer Cannon itself, requiring the Imbued Dragon Slayer Cannon Chassis, 1 Kalor'ignis Rib, 1 Chrome Storm Wrought Ballista Parts and 415 Dragon Scale.
 These can be acquired in the following ways:
-- Dragon Scales can be looted from Storm Dragons, by armind Dragonvine Cheese in Moussu Picchu.
+- Dragon Scales can be looted from Storm Dragons, by arming Dragonvine Cheese in Moussu Picchu.
 - Chrome Storm Wrought Ballista Parts can be acquired by smashing a Chrome Storm Wrought Ballista Trap.
-- a Kalor'ignis Rib can be purchased from the Marketplace, or very rarely looted in Dragon Nests after catching Kalor'Ignis of the Geyser
+- A Kalor'ignis Rib can be purchased from the Marketplace, or very rarely looted in Dragon Nests after catching Kalor'ignis of the Geyser
 - Ember Roots are dropped by Inferna, The Engulfed, by using Flamin' Queso in the Prickly Plains.
 - Ember Stones are dropped by Nachos, The Molten, by using Flamin' Queso in Canterra Quarry.
 - Ful'Mina's Tooth can be looted from Ful'Mina, The Mountain Queen. Addionally, they can be purchased for Dragon Scales in the Moussu Picchu General Store or picked up from the Marketplace.
