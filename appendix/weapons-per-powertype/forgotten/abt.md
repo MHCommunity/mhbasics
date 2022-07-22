@@ -8,6 +8,8 @@ nav_order: 1
 <span class="fs-1">[Ancient box trap](/appendix/weapons-per-powertype/forgotten/abt){: .btn .btn-grey } </span><span class="fs-1">[Scarlet Ember Root Trap](/appendix/weapons-per-powertype/forgotten/sert){: .btn .btn-grey } </span> <span class="fs-1">[Infinite Labyrinth Trap](/appendix/weapons-per-powertype/forgotten/ilt){: .btn .btn-grey } </span><span class="fs-1">[ Chrome Thought Obliterator Trap](/appendix/weapons-per-powertype/forgotten/tot){: .btn .btn-grey }</span>
 
 ## Ancient Box Trap
+SHRODINGER NO YOU STUPID-
+
 <img src="/assets/images/abt.png" alt="here were dragons" width="600">
 
 |||||

@@ -8,6 +8,7 @@ nav_order: 4
 <span class="fs-1">[Bottomless Grave](/appendix/weapons-per-powertype/shadow/bg){: .btn .btn-grey } </span><span class="fs-1"> [Creepy Coffin](/appendix/weapons-per-powertype/shadow/coffin){: .btn .btn-grey } </span><span class="fs-1"> [Clockapult of Time](/appendix/weapons-per-powertype/shadow/cot){: .btn .btn-grey } </span><span class="fs-1"> [Interdimensional Crossbow Trap](/appendix/weapons-per-powertype/shadow/idct){: .btn .btn-grey } </span><span class="fs-1"> [Temporal Turbine](/appendix/weapons-per-powertype/shadow/tt){: .btn .btn-grey } </span><span class="fs-1"> [Chrome Temporal Turbine](/appendix/weapons-per-powertype/shadow/ctt){: .btn .btn-grey } </span>
 
 ## Interdimensional Crossbow
+... of a Ghostly Rodentfilled Ship?
 
 <img src="/assets/images/ict.png" alt="Interdimensional Crossbow's Image" width="600">
 

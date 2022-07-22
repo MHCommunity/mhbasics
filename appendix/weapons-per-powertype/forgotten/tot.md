@@ -8,6 +8,7 @@ nav_order: 4
 <span class="fs-1">[Ancient box trap](/appendix/weapons-per-powertype/forgotten/abt){: .btn .btn-grey } </span><span class="fs-1">[Scarlet Ember Root Trap](/appendix/weapons-per-powertype/forgotten/sert){: .btn .btn-grey } </span> <span class="fs-1">[Infinite Labyrinth Trap](/appendix/weapons-per-powertype/forgotten/ilt){: .btn .btn-grey } </span><span class="fs-1">[Chrome Thought Obliterator Trap](/appendix/weapons-per-powertype/forgotten/tot){: .btn .btn-grey }</span>
 
 # Chrome Thought Obliterator Trap
+when tomorrow being better is not enough, so you yesterdain't
 <img src="/assets/images/ctot.png" alt="Chrome ToT" width="600">
 
 |||||

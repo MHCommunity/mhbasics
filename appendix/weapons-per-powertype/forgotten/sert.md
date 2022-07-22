@@ -6,8 +6,9 @@ permalink: /appendix/weapons-per-powertype/forgotten/sert
 nav_order: 2
 ---
 <span class="fs-1">[Ancient box trap](/appendix/weapons-per-powertype/forgotten/abt){: .btn .btn-grey } </span><span class="fs-1">[Scarlet Ember Root Trap](/appendix/weapons-per-powertype/forgotten/sert){: .btn .btn-grey } </span> <span class="fs-1">[Infinite Labyrinth Trap](/appendix/weapons-per-powertype/forgotten/ilt){: .btn .btn-grey } </span><span class="fs-1">[ Chrome Thought Obliterator Trap](/appendix/weapons-per-powertype/forgotten/tot){: .btn .btn-grey }</span>
-## Scarlet Ember Root Trap
 
+## Scarlet Ember Root Trap
+a Root Blazing in the Underground
 <img src="/assets/images/sert.png" alt="burning plant" width="600">
 
 |||||
