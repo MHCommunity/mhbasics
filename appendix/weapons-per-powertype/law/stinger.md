@@ -20,10 +20,10 @@ The true Banditry Technology: steal the thieving mice!
 | __Acquisition Method__ 	| Trapsmith 	| __Cost__ 	| 3,000,000 gold <br> 1 Sky Sprocket <br> 1 Skysoft Silk <br> 1 Enchanted Wing <br> 1 Cloudstone Bangle <br> 15 Adorned Empyrean Jewels <br> 1 S.T.I.N.G. Trap	|
 
 ### Weapon Acquisition
-The S.T.I.N.G.E.R. can be purchased from the Floating Islands Trapsmith for 3,000,000 gold , 1 Sky Sprocket , 1 Skysoft Silk , 1 Enchanted Wing , 1 Cloudstone Bangle , 15 Adorned Empyrean Jewels and 1 S.T.I.N.G. Trap
+The S.T.I.N.G.E.R. can be purchased from the Floating Islands Trapsmith for 3,000,000 gold, 1 Sky Sprocket, 1 Skysoft Silk, 1 Enchanted Wing, 1 Cloudstone Bangle, 15 Adorned Empyrean Jewels and 1 S.T.I.N.G. Trap
 - Sky Sprockets, Skysoft Silk, Enchanted Wings and Cloudstone Bangles are dropped by the Paragons in the Floating Islands, and the Empyrean Empress in the Sky Palace.
 - Adorned Empyrean Jewels can be dropped by various Treasure Troves and Treasure Chests in the Floating Islands, dropped by the Empyrean Empress, and bought from the Floating Islands' Trapsmith or the Marketplace.
-- the S.T.I.N.G. Trap can be bought from the Floating Islands Trapsmith, and will be explained below. This weapon is required to purchase the S.T.I.N.G.E.R. Trap, but will **NOT** be consumed.
+- The S.T.I.N.G. Trap can be bought from the Floating Islands Trapsmith and will be explained below. This weapon is required to purchase the S.T.I.N.G.E.R. Trap, but will **NOT** be consumed.
  
 ## Requirement: S.T.I.N.G. Trap
 
@@ -37,7 +37,7 @@ The S.T.I.N.G.E.R. can be purchased from the Floating Islands Trapsmith for 3,00
 | __Acquisition Method__ 	| Trapsmith 	| __Cost__ 	| 1,500,000 gold <br> 1 Sky Sprocket <br> 1 Skysoft Silk <br> 1 Enchanted Wing <br> 1 Cloudstone Bangle 	|
 
 ### Weapon Acquisition
-The S.T.I.N.G can be purchased from the Floating Islands Trapsmith for 1,500,000 gold , 1 Sky Sprocket , 1 Skysoft Silk , 1 Enchanted Wing and 1 Cloudstone Bangle
+The S.T.I.N.G. can be purchased from the Floating Islands Trapsmith for 1,500,000 gold, 1 Sky Sprocket, 1 Skysoft Silk, 1 Enchanted Wing and 1 Cloudstone Bangle
 - Sky Sprockets, Skysoft Silk, Enchanted Wings and Cloudstone Bangles are dropped by the Paragons in the Floating Islands, and the Empyrean Empress in the Sky Palace.
 
 ### General Info and Trivia
