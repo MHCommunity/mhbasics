@@ -25,6 +25,12 @@ The A.C.R.O.N.Y.M. can be bought from the Trapsmith in the Bristle Woods areas f
 - Obelisk Parts can be acquired by smashing either the Obelisk of Slumber or the Obelisk of Incineration. The former is recommended because it is cheaper and a component of the latter.
 
 ### General Info and Trivia
+The A.C.R.O.N.Y.M. is the acronym for the Arcane Capturing Rod Of Never Yielding Mysteries, which is an unwieldy name to use so the acronym is used more commonly in the community.  
 The A.C.R.O.N.Y.M. is the first meaningful Arcane weapon a hunter will pick up. It is primarily used in Bristle Woods while a hunter works their way towards the Ancient Box Trap, and utterly dominates Fort Rox. While Fort Rox is intended to be a multi trap type area, the A.C.R.O.N.Y.M. is simply so powerfull that it can beat the intended powertypes at all stages it has to offer unless some powerful charms or auras are added to the mix.
 
-The A.C.R.O.N.Y.M. is the acronym for the Arcane Capturing Rod Of Never Yielding Mysteries, which is an unwieldy name to use so the acronym is used more commonly in the community.
+
+### Alternatives
+The A.C.R.O.N.Y.M. doesn't have any alternatives. The Obelisk of Incineration is a worse version of it, but considering there is no major difference in cost and both can be acquired in the same region, so there is no justification for going this route.
+
+## Upgrades
+The usual route to upgrading the A.C.R.O.N.Y.M. is heading towards Fort Rox to pick up the [Droid Archmagus Trap](/appendix/weapons-per-powertype/arcane/dat). There is an alternative route that prioritises Sandtail Desert over Varmint Valley where the Grand Arcanum Trap is picked up.
