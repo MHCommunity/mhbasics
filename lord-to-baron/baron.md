@@ -36,6 +36,7 @@ Phases of Night
 </ul>
 
 <img src="/assets/images/Adventure/froxdmg.png" alt="Fort Rox Damage Chart" width="600">
+
 Failure to Attract implies that your bait fails to lure the mice at Night away from wall, thus causing more damage than most Failure to Catch without pillage.
 Pillage is shown when you FTC a mouse and the box is red.
 
@@ -186,7 +187,7 @@ Travel to Muridae Market after catching Warmonger Mouse.
 
 <img src="https://www.mousehuntgame.com/images/environments/ce9fd48c0a5b4e76f2f63113474d9ac6.jpg" alt="Muridae Market's (Pre-Shop) Banner">
 
-## Fiery Warpath
+## Muridae Market
 {: .fs-5 .fw-300 }
 
 This fortified market has been ravaged by the relentless attacks of the Marching Flame. Local merchants are eagerly seeking the help of hunters to find construction materials and help rebuild their shops.
