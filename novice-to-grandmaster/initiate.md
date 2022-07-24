@@ -36,6 +36,6 @@ Claim the adventure Discover the Harbour’s Secrets.
 
 Continue the cycle for more bounty until you rank up to Journeyman/Journeywoman.
 
-If you have more than 300,000 gold, buy NVMRC Forcefield Trap from Town of Gnawnia Trapsmith. Pick up Dehydration Base for 24,000 gold, its an upgrade over the Fan Base you've been using.
+If you have more than 100,000 gold, buy Swiss Army Mouse Trap from Town of Gnawnia Trapsmith. If you have around 200,000 gold, you can consider buying the NVMRC Forcefield Trap instead. Pick up Dehydration Base for 24,000 gold, its an upgrade over the Fan Base you've been using.
 
 Travel to Mountain once you rank up to [Journeyman/Journeywoman](/novice-to-grandmaster/journeyman).

@@ -18,7 +18,9 @@ This treacherous environment only allows the toughest of mice to survive. Be war
 
 ### Chapter 5
 
-Use the best weapon you have (which can be NVMRC Forcefield Trap or Shrink Ray Trap), Dehydration Base and Brie Cheese.
+Use the best weapon you have, which should at least be the Swiss Army Mouse Trap, Dehydration Base and Brie Cheese.
+
+You can also consider donating for Shrink Ray Trap and it will replace a lot of Physical Traps upgrades till you are a Legendary. However, don’t buy it from Marketplace.
 
 Buy Charm Conduit from Mountain Charm Shoppe. This allows you to equip Charms, a consumable that can boost trap stats and change area behaviour.
 
@@ -28,7 +30,7 @@ Stage 1: Boulder Breaking
 
 <ul>
 <li>Buy some Super Snowball Charm from Marketplace.</li>
-<li>Use Brie Cheese and equip Super Snowball Charm to deal damage to the boulder same as the Power of the charm equipped.</li>
+<li>Use Brie Cheese and equip Super Snowball Charm to deal 200 damage to the boulder.</li>
 <li>Once you deal at least 1000 damage to the boulder, click Claim Chedd-Ore to claim.</li> <li>Chedd-Ore from the broken boulder.</li>
 <li>Repeat the cycle until you have obtained at least 15 Chedd-Ore Cheese.</li>
 </ul>
