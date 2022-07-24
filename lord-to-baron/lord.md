@@ -203,6 +203,7 @@ First Run
 <li>Loot 1 Well-sealed Canister from Frostwing Commander Mouse.</li>
 <li>It is unlikely to get any chests on first run unless you have decent bases.</li>
 <li>You would automatically transported to Slushy Shoreline upon catching Frostwing Commander Mouse.</li>
+</ul>
 
 Preparations for the Second Run
 <ul>
