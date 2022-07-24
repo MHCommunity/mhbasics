@@ -239,6 +239,7 @@ Second Run
 <li>You should be able to obtain at least Iceberg Supply Chest. Open the chest(s) rewarded for some supplies.</li>
 <li>You would automatically be transported to Slushy Shoreline upon catching either Icewing or Frostwing Commander Mouse.</li>
 <li>Unless you fail to catch Icewing this run or you want to do extra runs, travel to Claw Shot City.</li>
+</ul>
 
 Recommended Extra Runs?
 
