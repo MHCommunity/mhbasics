@@ -117,7 +117,7 @@ Now that you have Ambush Trap, use it with Dehydration Base and Brie Cheese to l
 
 Collect at least 5 Gnarled Potions. It’s not a common drop although you may have obtained some as gifts from friends before.
 
-Now get 55 Brie Cheese from Great Gnarled Tree Cheese Shoppe and convert Brie Cheese to Gnarled Cheese using Gnarled Potion. Again, the SUPERbrie+ conversion is not worth its cost.
+Now get 55 Brie Cheese from Great Gnarled Tree Cheese Shoppe and convert Brie Cheese to Gnarled Cheese using Gnarled Potion. Again, the SUPERBrie+ conversion is not worth its cost.
 
 Travel to Lagoon after you get at least 50 Gnarled Cheese.
 

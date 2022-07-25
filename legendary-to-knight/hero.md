@@ -89,7 +89,7 @@ Use your Ancient Box Trap, Aqua Base and Radioactive Blue Cheese here. Collect t
 <ul>
 <li>12 Scrap Metal from Scavenger Mouse, Terror Knight Mouse or Steel Mouse in Town of Digby</li>
 <li>1 Onyx Stone from Master of Dojo in the Pinnacle Chamber</li>
-<li>3 Magic Essences (Smashing SuperBrie+)</li>
+<li>3 Magic Essences (Smashing SUPERBrie+)</li>
 <li>1 Obelisk Part (Buy and Smash Obelisk of Slumber from the Trapsmith)</li>
 </ul>
 

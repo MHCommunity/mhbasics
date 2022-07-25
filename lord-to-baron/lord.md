@@ -13,7 +13,7 @@ nav_order: 1
 ## Seasonal Garden
 {: .fs-5 .fw-300 }
 
-Zugzwang's seasonal garden is the perfect destination for those who can't make up their mind about the weather. Every few days, the seasons shift, bringing with them a new crop of mice with different powers. Keep an eye out for the shards of an old key- they might provide the way into that mysterious locked tower.
+Zugzwang's Seasonal Garden is the perfect destination for those who can't make up their mind about the weather. Every few days, the seasons shift, bringing with them a new crop of mice with different powers. Keep an eye out for the shards of an old key- they might provide the way into that mysterious locked tower.
 {: .fs-4 .fw-300 }
 
 ### Chapter 11
@@ -22,23 +22,23 @@ At Lord/Lady, paths start to diverge. Expect more travelling between locations i
 
 If you have an extra 925,000 gold, you can consider getting Zugzwang's First Move in the Trapsmith. If not, the Horrific Venus Mouse Trap is good enough.
 
-On the top of your screen, you will see the Heads-Up Display tracking your Tower Amplifier. Every catch of a Seasonal Garden Mouse will charge the Hunter's Tower Amplifier from 1% to 6%, depending on the mouse captured. Every Failure To Attract will reduce the charge of the Hunter's Tower Amplifier by 3%. Failing to catch a mouse has no effect on the Tower Amplifier's charge. Due to the reasons above, it is advised to use Gouda Cheese here.
+On the top of your screen, you will see the HUD tracking your Tower Amplifier. Every catch of a Seasonal Garden Mouse will increase the Hunter’s Tower Amplifier charge between 1% to 6% depending on the mouse caught. Every Failure To Attract will reduce the charge of the Hunter's Tower Amplifier by 3%. Failing to catch a mouse has no effect on the Tower Amplifier’s charge. Due to the reasons above, it is advised to use Gouda Cheese here.
 
-Note: A higher charge of the Hunter's Tower Amplifier will lead to a increased success in the next area (Zugzwang's Tower). Max charge of the Hunter's Tower Amplifier is dependant on your Rank.
+Note: A higher charge of the Hunter's Tower Amplifier will lead to a increased success in the next area (Zugzwang's Tower). Max charge of the Hunter's Tower Amplifier is dependent on your Rank.
 <ul>
 <li>Lord/Lady - 150%</li>
 <li>Baron/Baroness - 160%</li>
 <li>Count/Countess - 175%</li>
 </ul>
 
-Seasonal Garden has 4 Seasons: Spring, Summer, Fall and Winter. Each season lasts for 80 hours with completely different mice. You will have to go through each season at least once to get each and every of the 4 Tower Key Shards. These are guarded by the toughest mice of each season. Once you got all the Key Shards, craft them into the Key to Zugwang’s Tower.
+Seasonal Garden has 4 Seasons: Spring, Summer, Fall and Winter. Each season lasts for 80 hours with completely different mice. You will have to go through each season at least once to get each of the 4 Tower Key Shards. These are guarded by the toughest mice of each season. Once you have obtained all the Key Shards, craft them into the Key to Zugwang’s Tower.
 
-Mice in each season are best caught with a specific Power Type but also have secondary weakness to Tactical weapons. Therefore, you can switch to a Tactical set-up if you are unable to promptly change set-up when season changes. 
+Mice in each season are best caught with a specific Power Type but also have secondary weakness to Tactical weapons. Therefore, you can switch to a Tactical set-up if you are unable to promptly change your set-up when season changes. 
 
 Spring
 <ul>
 <li>Primarily weak: Physical</li>
-<li>Weapon: Rhinobot</li>
+<li>Weapon: Enraged Rhinobot</li>
 <li>Base & Cheese: Aqua Base and Gouda Cheese</li>
 <li>Loot Spring Key Shard from Vinetail Mouse</li>
 <li>SuperBrie+ Mouse (6% Tower Amplifier): Spring Familiar Mouse</li>
@@ -50,13 +50,13 @@ Summer
 <li>Weapon: Horrific Venus Mouse Trap or Zugzwang’s First Move</li>
 <li>Base & Cheese: Aqua Base and Gouda Cheese</li>
 <li>Loot Summer Key Shard from Summer Mage Mouse</li>
-<li>SuperBrie+ Mouse (6% Tower Amplifier): Summer Familiar Mouse</li>
+<li>SuperBrie+ Mouse (6% Tower Amplifier): Summer Mage Mouse</li>
 </ul>
 
 Fall
 <ul>
 <li>Primarily weak: Shadow</li>
-<li>Weapon: Horrific Venus Mouse Trap (Preferred) or Bottomless Grave</li>
+<li>Weapon: HVMT (Preferred), ZFM, Grave, Coffin, Clock (Best CR but optional)</li>
 <li>Base & Cheese: Aqua Base and Gouda Cheese</li>
 <li>Loot Summer Key Shard from Harvester Mouse</li>
 <li>SuperBrie+ Mouse (6% Tower Amplifier): Fall Familiar Mouse</li>
@@ -67,13 +67,13 @@ Fall|You should stay away from Fall after getting the Fall Key Shard.
 Winter
 <ul>
 <li>Primarily weak: Hydro</li>
-<li>Weapon: Ancient Spear Gun</li>
+<li>Weapon: Ancient Spear Gun, Steam Laser Mk. I/II/III</li>
 <li>Base & Cheese: Aqua Base and Gouda Cheese</li>
 <li>Loot Summer Key Shard from Harvester Mouse</li>
-<li>SuperBrie+ Mouse (6% Tower Amplifier): Winter Familiar Mouse</li>
+<li>SuperBrie+ Mouse (6% Tower Amplifier): Winter Mage Mouse</li>
 </ul>
 
-If you are unlucky, you can take a few cycles to collect all the Key Shards. Do not stay in the Seasonal Garden once you have the key share for the current season. Here's a list of areas you should head to while waiting for the season to change, starting with the most important one:
+If you are unlucky, you may take a few cycles to collect all the Key Shards. Do not stay in the Seasonal Garden once you have the key shard for the current season. Here's a list of areas you should head to while waiting for the season to change, starting with the most important one:
 
 <ul>
 <li>Slushy Shoreline/Iceberg</li>
@@ -81,7 +81,7 @@ If you are unlucky, you can take a few cycles to collect all the Key Shards. Do 
 <li>Derr Dunes - If you need more gold.</li>
 </ul>
 
-Once you have all 4 key shards, craft Zugzwang’s Tower Key with 1 Spring Key Shard, 1 Summer Key Shard, 1 Fall Key Shard and 1 Winter Key Shard.
+Once you got all the Key Shards, craft them into the Key to Zugwang’s Tower.
 
 Continue hunting in Seasonal Garden until Tower Amplifier is fully charged (150% for Lord/Lady).
 
@@ -97,7 +97,7 @@ Travel to Zugzwang’s Tower once you have Zugzwang's Tower Key and the Pinchers
 An ordered chaos consumes this enchanted tower as the technological chess mice do battle with their mystical counterparts, all under the auspices of a dark game master who hides in the shadows. Conquer both Kings to find what lurks beyond the chess board, but beware: this is a place of powerful magics, where things are not always what they seem.
 {: .fs-4 .fw-300 }
 
-A Tactical weapon is required to catch all mice in Zugzwang’s Tower. The mechanics of Zugzwang’s Tower are not as straight-forward as previous areas. Try to understand them so that you don’t feel lost when hunting in the area.
+A Tactical weapon is required to catch all mice in Zugzwang’s Tower. The mechanics of Zugzwang’s Tower are not as straightforward as previous areas. Try to understand them so that you don’t feel lost when hunting in the area.
 
 Zugzwang’s Tower is a chess-themed area with two groups of mice, Technic and Mystic. You have to catch mice of each group in order: 8 Pawns → 2 Knights → 2 Bishops → 2 Rooks → 1 Queen → 1 King
 
@@ -109,15 +109,15 @@ Tower Amplifier directly affects Power and Luck of your set-up in Zugzwang’s T
 <li>Increasing Power is sometimes more effective than increasing Luck.</li>
 </ul>
 
-Similar to Seasonal Garden, Failure To Attract in Zugzwang’s Tower will reduce the charge of the Tower Amplifier. You should be using Gouda Cheese or Superbrie+ (if you can afford it) here. Always focus on doing one side of the chess first and then the other side. Doing so reduces the chance of unlocking higher pieces on the side you do not want, which depletes more Tower Amplifier when caught. It is sometimes also beneficial to use a weaker set-up to minimize the chances of catching unwanted mice.
+Similar to Seasonal Garden, Failure To Attract in Zugzwang’s Tower will reduce the charge of the Tower Amplifier. You should be using Gouda Cheese or SuperBrie+ (if you can afford it) here. Always focus on doing one side first and then the other side. Doing so reduces the chance of unlocking higher pieces on the side you do not want, which depletes more Tower Amplifier when caught. It is sometimes also beneficial to use a weaker set-up to minimize the chances of catching unwanted mice.
 
 <img src="/assets/images/Adventure/toweramp.png" alt="Mice Tower Amplifier" width="600">
 
 You will NOT lose any progress or Tower Amplifier if you leave the area. You would just be locked out of the Seasonal Garden the moment you catch a mouse in Zugzwang’s Tower.
 
-You will be doing single runs (1 King per Run) in Zugzwang’s Tower. You can do multiple runs in Zugzwang’s Tower once you revisit the area with better Traps in the future. From this point on, we will be focusing on the Technic side. If you are done with Technic king, its the Mystic side for you.
+You will be doing single runs (1 King per Run) in Zugzwang’s Tower. You can do multiple runs in Zugzwang’s Tower once you revisit the area with better Traps in the future. However from this point on, we will be focusing on single runs starting with the Technic side. If you are done with Technic king, its the Mystic side for you.
 
-Ensure that Tower Amplifier is fully charged. Use Technic Pawn Pincher, Aqua Base, Gouda Cheese or Superbrie+ (if you can afford it). Technic Pawn Pincher has increased attraction rate of Pawns of the Technic side and decreased attraction rate of Pawns of the Mystic side. Its Power is increased for Pawns of the same side but decreased for Pawns of the other side.
+Ensure that Tower Amplifier is fully charged. Use Technic Pawn Pincher, Aqua Base, Gouda Cheese or SuperBrie+ (if you can afford it). Technic Pawn Pincher has increased attraction rate of Pawns of the Technic side and decreased attraction rate of Pawns of the Mystic side. Its Power is increased for Pawns of the same side but decreased for Pawns of the other side.
 
 Once you have caught 8 Pawns on Technic side i.e. Technic Knights are unlocked, switch to Zugzwang’s First Move (or Horrific Venus Mouse Trap if you don’t have Zugzwang’s First Move) and Aqua Base. No charm is required but you can use any Charm to increase your Catch Rate.
 
@@ -125,15 +125,15 @@ Continue until you have caught 2 Knights and 2 Bishops on Technic side i.e. Rook
 
 Continue until you have caught 2 Rooks and 1 Queen on one side i.e. King is unlocked. King is not too difficult to catch even at very low Tower Amplifier.
 <ul>
-<li>When Tower Amplifier is at least 80%, use Pawn Pincher of the side with unlocked king, Aqua Base and Gouda Cheese or Superbrie+.</li>
-<li>When Tower Amplifier is below 80%, use your best Tactical weapon (Zugzwang’s First Move or Horrific Venus Mouse Trap), Fan Base and Gouda Cheese or Superbrie+.</li> 
+<li>When Tower Amplifier is at least 80%, use Pawn Pincher of the side with unlocked king, Aqua Base and Gouda Cheese or SuperBrie+.</li>
+<li>When Tower Amplifier is below 80%, use your best Tactical weapon (Zugzwang’s First Move or Horrific Venus Mouse Trap), Fan Base and Gouda Cheese or SuperBrie+.</li> 
 </ul>
 
 Technic King Mouse and Mystic King Mouse are highly sought after in Treasure Hunting. If you are not against the monetization of aspects of mapping, you should offer to snipe the King for a sizeable bounty (note that ongoing prices can fluctuate) on MouseHunt Discord or dedicated mapping groups like Mapmeisters.
 
 Technic King Mouse drops Technic Cheese Mould while Mystic King Mouse drops Mystic Curd. These items will be used to craft a special cheese. You would be automatically transported to Seasonal Garden upon catching Technic King Mouse or Mystic King Mouse.
 
-It is normal to see streaks of Failure to Catch as Tower Amplifier drops. Do not retreat unless it becomes impossible to catch a king, usually meaning 0% Tower Amplifier with King unlocked or 9% Tower Amplifier with Queen unlocked. Both strategy and (real-life) luck play an important role in this area.
+It is normal to see streaks of Failure to Catch as Tower Amplifier drops. Do not retreat unless it becomes impossible to catch a king, usually meaning 10% Tower Amplifier with King unlocked or 9% Tower Amplifier with Queen unlocked. Both strategy and (real-life) luck play an important role in this area.
 
 If you are unable to catch a king, repeat the cycle of fully charging Tower Amplifier and doing a tower run until you catch Technic King Mouse or Mystic King Mouse.
 
@@ -149,7 +149,7 @@ In recent days, huge chunks of ice have washed ashore the beaches of Gnawnia. Wo
 
 Buy Icebreaker License in Harbour Cartographer if you haven’t bought it. Then, hunt in Slushy Shoreline to get Steam Laser Mk.I, which can be used during Winter in the Seasonal Garden instead of the Ancient Spear Gun.
 
-Buy Softserve Charms in batches of 50 from the Charm Shoppe. It is required to attract mice that drops important loots. Use Ancient Spear Gun, Aqua Base, Softserve Charm and Brie or Gouda Cheese to attract mice. Superbrie+ is not recommended as it is too expensive to be used here.
+Buy Softserve Charms in batches of 50 from the Charm Shoppe. It is required to attract mice that drops important loots. Use Ancient Spear Gun, Aqua Base, Softserve Charm and Brie or Gouda Cheese to attract mice. SuperBrie+ is not recommended as it is too expensive to be used here.
 
 Collect the following loots:
 <ul>
@@ -173,11 +173,11 @@ Iceberg, dead ahead! Teeming with mice, and on a collision course with the beach
 
 Before you travel to the Iceberg, you should be ready for it. It‘s a complex area and the mice are not weak. Also, the traps and bases acquired here are either region-specific or easily outclassed by upcoming gear. This makes the Iceberg a rather low priority sidequest in terms of story progression.
 
-Buy 100 Stick Charm 5-Pack from the Charm Shoppe. Sticky Charm prevents you from any pushback in the Iceberg. Use the Steam Laser MK. I, Aqua Base, Gouda Cheese and Stick Charm to hunt in Iceberg.
+Buy 100 Sticky Charm 5-Pack from the Charm Shoppe. Sticky Charm prevents you from any pushback in the Iceberg. Use the Steam Laser MK. I, Aqua Base, Gouda Cheese and Sticky Charm to hunt in Iceberg.
 
 Iceberg has 4 major zones, each with different length and mouse populations. You move forward or backward the Iceberg when catching or missing certain mice. After each zone, you need to catch a General before you can proceed to next zone. Generals drop Bottled Cold Fusion, which will be used in crafting new trap components.
 
-The Heads-Up Display (HUD) tracks the number of hunts spent in this run, which determines what bosses can be encountered and number of chests rewarded at the end of run.|
+The Heads-Up Display (HUD) tracks the number of hunts spent in this run, which determines what bosses can be encountered and number of chests rewarded at the end of run.
 <ul>
 <li>Iceberg Treasure Chest is rewarded for completing a run in 275 hunts.</li>
 <li>Iceberg Strongbox is rewarded for completing a run in 350 hunts.</li>

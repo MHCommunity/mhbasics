@@ -54,9 +54,9 @@ Digby Drillbot| You can buy Digby Drillbot for 256,000 gold at Town of Digby.   
 
 King's Credit| You can buy some Crates of Delicious Stones in King’s Cart.
 
-When you have met the target Delicious Stones, craft Crunchy Cheese using the 15-piece recipe. The 20-piece recipe is not worth its cost. Catch Aged Mouse with Crunchy Cheese in Cape Clawed until you have at least 1 Rhino Horn and 24 Stale SUPERbrie+. It’s not a guaranteed attraction.
+When you have met the target Delicious Stones, craft Crunchy Cheese using the 15-piece recipe. The 20-piece recipe is not worth its cost. Catch Aged Mouse with Crunchy Cheese in Cape Clawed until you have at least 1 Rhino Horn and 24 Stale SUPERBrie+. It’s not a guaranteed attraction.
 
-Stale SUPERbrie+| You can alternatively buy some Moon Cheese to stale it.
+Stale SUPERBrie+| You can alternatively buy some Moon Cheese to stale it.
 
 A Hydro weapon is required to catch most mice in Elub Shore. Elub Shore has moderate difficulty among three tribes and offers excellent points. Buy Net Cannon from S.S. Huntington IV Trapsmith. Loot Seashell using Net Cannon, Aqua Base and Gouda Cheese in Elub Shore.
 
@@ -89,7 +89,7 @@ The dunes are a harsh, barren wasteland where only the toughest of mice can surv
 
 Farm gold in Derr Dunes with RhinoBot, Aqua Base and Gouda Cheese. Craft Crunchy Cheese when possible and use Crunchy Cheese in Derr Dunes to loot Ancient Mangled Blueprint Piece from Derr Chieftain Mouse and obtain Red Pepper Seed.
 
-Once you have at least 940,000 gold, arm another weapon and smash Digby DrillBot into Digby DrillBot Parts. Buy RhinoBot Trap in the Trapsmith with 940,000 Gold, 1 Rhino Horn, 12 Stale SUPERbrie+ and 1 Digby Drillbot Parts.
+Once you have at least 940,000 gold, arm another weapon and smash Digby DrillBot into Digby DrillBot Parts. Buy RhinoBot Trap in the Trapsmith with 940,000 Gold, 1 Rhino Horn, 12 Stale SUPERBrie+ and 1 Digby Drillbot Parts.
 
 Use the new Rhinobot Trap in Derr Dunes to farm gold and Red Pepper Seeds.
 
