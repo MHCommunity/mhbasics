@@ -5,7 +5,7 @@ parent: Legendary to Knight
 nav_order: 1
 ---
 
- <img src="https://www.mousehuntgame.com/images/environments/0d758141f6bcbe0a231985c578714538.jpg" alt="S.S. Huntington IV's Banner">
+<img src="https://www.mousehuntgame.com/images/environments/0d758141f6bcbe0a231985c578714538.jpg" alt="S.S. Huntington IV's Banner">
 
 # Legendary
 {: .fs-9 }
