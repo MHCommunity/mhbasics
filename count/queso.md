@@ -128,6 +128,7 @@ Pressure per hunt (For reference later):
 <li>Hot: 5 - 40 kPa</li>
 <li>Flamin: 5 - 100 kPa</li>
 <li>Wildfire: 1500 kPa</li>
+</ul>
 
 Recommended Charms:
 <ul>
