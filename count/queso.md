@@ -2,7 +2,7 @@
 layout: default
 title: Queso River, Prickly Plains & Cantera Quarry
 nav_order: 6
-parent: Count
+parent: Count/Countess
 ---
 
 <img src="https://www.mousehuntgame.com/images/environments/1c30a0923563b56e01ec10cbe2eac17c.jpg" alt="Queso River's Banner"> 
