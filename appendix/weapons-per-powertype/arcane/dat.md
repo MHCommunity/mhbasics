@@ -23,7 +23,7 @@ The Droid Archmagus Trap can be acquired from the Trapsmith in Fort Rox for 4,70
 - Animatronic Birds can be purchased from the Fort Rox General Store for 50 Dawn Dust and the Marketplace. It also can be dropped by the Monster of the Meteor during Fort Rox' Dawn stage. The conventional approach to acquiring these is using either the marketplace or farming up the needed dawn dust. 
 
 ### General info and Trivia
-The Droid Archmagus Trap is the upgrade to the A.C.R.O.N.Y.M. and is primarily meant to carry a hunter through the latter stages of Fort Rox, Queso Canyon and the Lost/Cursed city. It is possible to carry this along to Moussu Picchu as well, but this is not recommended considering the relatively low price of the Event Horizon Trap, which is the conventional weapon to aim for there. The Droid Archmagus Trap is also used to a very minor extent to take care of the Artilery mice in the Fiery Warpath.
+The Droid Archmagus Trap is the upgrade to the A.C.R.O.N.Y.M. and is primarily meant to carry a hunter through the latter stages of Fort Rox, Queso Canyon and the Lost/Cursed city. It is possible to carry this along to Moussu Picchu as well, but this is not recommended considering the relatively low price of the Event Horizon Trap, which is the conventional weapon to aim for there. The Droid Archmagus Trap is also used to a very minor extent to take care of the Artillery mice in the Fiery Warpath.
 Just like the [Interdimensional Crossbow Trap](/appendix/weapons-per-powertype/shadow/IDCT), the Droid Archmagus Trap was added as an alternative to the weapons provided in the Living Garden complex. This means that this weapon does have an alternative there, but it is generally advised against due to more effort being needed.
 
 ### Alternatives
