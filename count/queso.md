@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Queso River, Prickly Plains & Cantera Quarry
-nav_order: 6
+title: Queso Region
+nav_order: 1
 parent: Count/Countess
 ---
 
@@ -110,6 +110,8 @@ Along with some of the following items:
 
 ## Queso Geyser
 
+This is the second part of the Queso region.
+
 You are recommended to use BEST and OESB here. You can earn some SUPERBrie+ from sniping in every stage here, check out discord for more info. There are 7 stages in the Queso Geyser:
 <ul>
 <li>Cork Collecting</li>
@@ -140,12 +142,58 @@ Recommended Charms:
 
 You collect Cork Barks in the Cork Collecting stage, it would be used when you begin heading into each Eruption stage. If you leeched a couple of RQCGT, you should have sufficient Cork Barks to begin the Eruption stages. The higher tiered Queso used here would give you more Cork Barks per hunt, however it is recommended that you do not go higher than Medium Queso.
 
-Small Eruption - Start off by constructing a Small Cork, consuming 10 Cork Barks. You would then enter the Pressure Building stage, in this case you have 10 Hunts to raise the pressure to a maximum of 35 kPa. If you raised the pressure to 35 kPa before the 10 hunts is up, you will enter the Small Eruption immediately. You are recommended to use Medium or Mild Queso during the Pressure Building stage. Once you entered the Eruption stage, continue to hunt with Medium Queso although Mild Queso is acceptable. You can snipe Mild Spicekin, Sizzle Pup (more commonly known as Sizzle Mild) and Smoldersnap during the 10 hunts. At the end of the Eruption, do NOT use a Magic Nest Dust (MND) here. You will be able to collect Congealed Rubber. Repeat this process until you have collected 15 Congealed Rubber to start a Medium Eruption.
+Small Eruption - 
+<ul>
+<li>Construct Small Cork - Cost 10 Cork Barks.</li>
+<li>Enter Pressure Building Stage - Raise Pressure to 35 kPa.</li>
+<ul><li>Recommended Cheese - Medium (Preferred) or Mild Queso.</li>
+<li>You have 10 hunts to hit 35 kPa.</li>
+<li>If you reached 35 kPa before the 10 hunts, you will enter Small Eruption immediately.</li></ul>
+<li>Eruption Stage (10 Hunts) Recommended Cheese - Medium (Preferred) or Mild Queso.</li>
+<ul><li>Snipe options -  Spicekin, Sizzle Pup (Sizzel Mild) and Smoldersnap.</li></ul>
+<li>Do NOT use a Magic Nest Dust (MND) here.</li>
+<li>You will collect Congealed Rubber, you need it to start a Medium Eruption.</li>
+<li>Repeat the cycle until you have collected 15 Congealed Rubber.</li>
+</ul>
 
-Medium Eruption - Start off by constructing a Medium Cork, consuming 30 Cork Barks and 15 Congealed Rubber. You would then enter the Pressure Building stage, in this case you have 25 Hunts to raise the pressure to a maximum of 175 kPa. If you raised the pressure to 175 kPa before the 10 hunts is up, you will enter the Medium Eruption immediately. You are recommended to use Hot or Medium Queso during the Pressure Building stage. Once you entered the Eruption stage, continue to hunt with Hot Queso although Medium Queso is acceptable. You can snipe Bearded Elder, Smoldersnap, Ignatia (BE Trio) and Smoldersnap during the 20 hunts. At the end of the Eruption, do NOT use a Magic Nest Dust (MND) here. You will be able to collect Geyserite. Repeat this process until you have collected 30 Geyserite to start a Large Eruption.
+Medium Eruption -
+<ul>
+<li>Construct Medium Cork - Cost 30 Cork Barks & 15 Congealed Rubber.</li>
+<li>Enter Pressure Building Stage - Raise Pressure to 175 kPa.</li>
+<ul><li>Recommended Cheese - Hot (Preferred) or Medium Queso.</li>
+<li>You have 25 hunts to hit 175 kPa.</li>
+<li>If you reached 175 kPa before the 25 hunts, you will enter Medium Eruption immediately.</li></ul>
+<li>Eruption Stage (20 Hunts) Recommended Cheese - Hot (Preferred) or Medium Queso.</li>
+<ul><li>Snipe options -  Bearded Elder, Smoldersnap, Ignatia (BE Trio) and Smoldersnap.</li></ul>
+<li>Do NOT use a Magic Nest Dust (MND) here.</li>
+<li>You will collect Geyserite, you need it to start a Large Eruption.</li>
+<li>Repeat the cycle until you have collected 30 Geyserite.</li>
+</ul>
 
-Large Eruption - Start off by constructing a Large Cork, consuming 90 Cork Barks and 30 Geyserite. You would then enter the Pressure Building stage, in this case you have 50 Hunts to raise the pressure to a maximum of 1000 kPa. If you raised the pressure to 1000 kPa before the 50 hunts is up, you will enter the Large Eruption immediately. You are recommended to use Hot or Medium Queso during the Pressure Building stage. Once you entered the Eruption stage, continue to hunt with Flamin' Queso and Wild Tonic. If you use Hot Queso, do NOT use Wild Tonic. You can snipe Cinderstorm and Bruticus, the Blazing (Cinderbrut) during the 40 hunts. At the end of the Eruption, use a Magic Nest Dust (MND) here. You will be able to collect Geyserite. Repeat this process until you have collected 60 Tungsten to start a Epic Eruption.
+Large Eruption -
+<ul>
+<li>Construct Large Cork - Cost 90 Cork Barks & 30 Geyserite.</li>
+<li>Enter Pressure Building Stage - Raise Pressure to 1000 kPa.</li>
+<ul><li>Recommended Cheese - Hot (Preferred) or Medium Queso.</li>
+<li>You have 50 hunts to hit 1000 kPa.</li>
+<li>If you reached 1000 kPa before the 50 hunts, you will enter Large Eruption immediately.</li></ul>
+<li>Eruption Stage (40 Hunts) Recommended Cheese - Flamin' (Preferred) or Hot Queso.</li>
+<ul><li>Snipe options - Cinderstorm and Bruticus, the Blazing (Cinderbrut).</li></ul>
+<li>If you can afford to, use a Magic Nest Dust (MND) here.</li>
+<li>You will collect Tungsten, you need it to start a Epic Eruption.</li>
+<li>Repeat the cycle until you have collected 60 Tungsten.</li>
+</ul>
 
-Epic Eruption - Start off by constructing a Epic Cork, consuming 180 Cork Barks and 60 Tungsten. You would then enter the Pressure Building stage, in this case you have 100 Hunts to raise the pressure to a maximum of 300 kPa. If you raised the pressure to 3000 kPa before the 100 hunts is up, you will enter the Large Eruption immediately. You are recommended to use Wildfire Queso with Wild Tonic although Hot Queso is acceptable during the Pressure Building stage. Once you entered the Eruption stage, hunt with Wildfire Queso until you caught your first Kalor.
+Epic Eruption (Read further down first) -
+<ul>
+<li>Construct Epic Cork - Cost 180 Cork Barks & 60 Tungsten.</li>
+<li>Enter Pressure Building Stage - Raise Pressure to 3000 kPa.</li>
+<ul><li>Recommended Cheese - Wildfire (With Wild Tonic preferred) or Flamin' Queso.</li>
+<li>You have 100 hunts to hit 3000 kPa.</li>
+<li>If you reached 3000 kPa before the 100 hunts, you will enter Epic Eruption immediately.</li></ul>
+<li>Eruption Stage (80 Hunts) Recommended Cheese - Wildfire (Preferred) or Flamin' Queso.</li>
+<ul><li>Snipe options -  Kalor (with Wildfire) or Stormsurge & Bruticus (with Flamin').</li></ul>
+<li>Please use a Magic Nest Dust (MND) here.</li>
+</ul>
 
-Claim the adventure Slay the Geyser Dragon. You will come back and finish the rest of the Epic Eruption when you have better traps in the future. Head onto Gnawnia Rift, if you have not completed the adventure. If you completed Gnawnia Rift adventure, you could stay in the Queso Region to snipe and earn more SB or head over to Sunken City (Optional for progression).
+You would usually clear the entire Epic Eruption, however on your first run, leave the the area after you caught your first Kalor. Then claim the adventure Slay the Geyser Dragon. You will come back and finish the rest of the Epic Eruption when you have better traps in the future. Head onto Gnawnia Rift, if you have not completed the adventure. If you completed Gnawnia Rift adventure, you could stay in the Queso Region to snipe and earn more SB or head over to Sunken City (Optional for progression).
