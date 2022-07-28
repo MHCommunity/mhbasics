@@ -125,7 +125,7 @@ Continue until you have caught 2 Knights and 2 Bishops on Technic side i.e. Rook
 
 Continue until you have caught 2 Rooks and 1 Queen on one side i.e. King is unlocked. King is not too difficult to catch even at very low Tower Amplifier.
 <ul>
-<li>When Tower Amplifier is at least 80%, use Pawn Pincher of the side with unlocked king, Aqua Base and Gouda Cheese or SuperBrie+.</li>
+<li>When Tower Amplifier is at least 80%, use Pawn Pincher of the side with unlocked King, Aqua Base and Gouda Cheese or SuperBrie+.</li>
 <li>When Tower Amplifier is below 80%, use your best Tactical weapon (Zugzwang’s First Move or Horrific Venus Mouse Trap), Fan Base and Gouda Cheese or SuperBrie+.</li> 
 </ul>
 
