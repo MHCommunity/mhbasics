@@ -117,7 +117,7 @@ Now that you have Ambush Trap, use it with Dehydration Base and Brie Cheese to l
 
 Collect at least 5 Gnarled Potions. It’s not a common drop although you may have obtained some as gifts from friends before.
 
-Now get 55 Brie Cheese from Great Gnarled Tree Cheese Shoppe and convert Brie Cheese to Gnarled Cheese using Gnarled Potion. Again, the SUPERbrie+ conversion is not worth its cost.
+Now get 55 Brie Cheese from Great Gnarled Tree Cheese Shoppe and convert Brie Cheese to Gnarled Cheese using Gnarled Potion. Again, the SUPERBrie+ conversion is not worth its cost.
 
 Travel to Lagoon after you get at least 50 Gnarled Cheese.
 
@@ -134,7 +134,7 @@ You will see more misses than usual but do get hyped – you will build a ship! 
 
 Loot 1 Ship Blueprints from Hydra Mouse.
 
-Loot 18 from
+Loot 18 Scrap Metal from
 <ul>
 <li>Hydra Mouse</li>
 <li>Goblin Mouse</li>
@@ -164,4 +164,4 @@ Claim the adventure Craft the S.S. Huntington IV after you have crafted the ship
 
 If you still haven’t ranked up, farm gold at Mousoleum.
 
-Travel to S.S. Huntington IV when you rank up to [Legendary](/novice-to-grandmaster/legendary).
+Travel to S.S. Huntington IV when you rank up to [Legendary](/legendary-to-knight/legendary).

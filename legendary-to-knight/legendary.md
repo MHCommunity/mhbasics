@@ -20,7 +20,7 @@ This fine vessel has been granted permission by the King to sail the open ocean 
 
 Buy Aqua Base. Its 8 luck makes it superior to Dehydration Base and Fan Base.
 
-A Hydro weapon works best against mice in S.S. Huntington IV. However, Ambush Trap, Aqua Base and Brie Cheese would suffice.
+A Hydro weapon works best against mice in S.S. Huntington IV. However, Ambush Trap, Aqua Base and Brie Cheese would suffice. If you are buying a Hydro weapon, Net Cannon would be the better choice compared to Harpoon Gun.
 
 Catch Bottled Mouse that drops Compass.
 
@@ -50,13 +50,13 @@ When you have 30 Savoury Vegetables, craft 15 Gumbo Cheese. The 20-piece recipe 
 
 A Physical weapon is required to catch most mice in Derr Dunes. Derr Dunes is by far the most difficult tribe but offers excellent gold in return. Be mentally prepared for pillages. Loot Delicious Stone using Digby DrillBot, Aqua Base and Gouda Cheese in Derr Dunes.
 
-How to get to Town of Digby|You should have looted some Living Shard from Mousevina von Vermin in Mousoleum. Craft 3 Limelight Cheese. You can find Mutated Mole in Laboratory. Mutated Mole Mouse drops Key to the Town of Digby.
+Digby Drillbot| You can buy Digby Drillbot for 256,000 gold at Town of Digby.                          How to get to Town of Digby - You should have looted some Living Shard from Mousevina von Vermin in Mousoleum. Craft 3 Limelight Cheese. You can find Mutated Mole in Laboratory. Mutated Mole Mouse drops Key to the Town of Digby.
 
 King's Credit| You can buy some Crates of Delicious Stones in King’s Cart.
 
-When you have met the target Delicious Stones, craft Crunchy Cheese using the 15-piece recipe. The 20-piece recipe is not worth its cost. Catch Aged Mouse with Crunchy Cheese in Cape Clawed until you have at least 1 Rhino Horn and 24 Stale SUPERbrie+. It’s not a guaranteed attraction.
+When you have met the target Delicious Stones, craft Crunchy Cheese using the 15-piece recipe. The 20-piece recipe is not worth its cost. Catch Aged Mouse with Crunchy Cheese in Cape Clawed until you have at least 1 Rhino Horn and 24 Stale SUPERBrie+. It’s not a guaranteed attraction.
 
-Stale SUPERbrie+| You can alternatively buy some Moon Cheese to stale it.
+Stale SUPERBrie+| You can alternatively buy some Moon Cheese to stale it.
 
 A Hydro weapon is required to catch most mice in Elub Shore. Elub Shore has moderate difficulty among three tribes and offers excellent points. Buy Net Cannon from S.S. Huntington IV Trapsmith. Loot Seashell using Net Cannon, Aqua Base and Gouda Cheese in Elub Shore.
 
@@ -89,7 +89,7 @@ The dunes are a harsh, barren wasteland where only the toughest of mice can surv
 
 Farm gold in Derr Dunes with RhinoBot, Aqua Base and Gouda Cheese. Craft Crunchy Cheese when possible and use Crunchy Cheese in Derr Dunes to loot Ancient Mangled Blueprint Piece from Derr Chieftain Mouse and obtain Red Pepper Seed.
 
-Once you have at least 940,000 gold, arm another weapon and smash Digby DrillBot into Digby DrillBot Parts. Buy RhinoBot Trap in the Trapsmith with 940,000 Gold, 1 Rhino Horn, 12 Stale SUPERbrie+ and 1 Digby Drillbot Parts.
+Once you have at least 940,000 gold, arm another weapon and smash Digby DrillBot into Digby DrillBot Parts. Buy RhinoBot Trap in the Trapsmith with 940,000 Gold, 1 Rhino Horn, 12 Stale SUPERBrie+ and 1 Digby Drillbot Parts.
 
 Use the new Rhinobot Trap in Derr Dunes to farm gold and Red Pepper Seeds.
 
@@ -109,4 +109,4 @@ Claim the adventure Defeat the Tribe Chieftains after you have caught Elub Chief
 
 Juggle between the 3 Area (Nerg, Derr and Elub) to get an equal amount of coloured Pepper Seeds. You will need it for the next region you're heading into.
 
-Travel to Jungle of Dread (JoD) when you rank up to [Hero](/legendary-to-knight/Hero).
+Travel to Jungle of Dread (JoD) when you rank up to [Hero](/legendary-to-knight/hero).
