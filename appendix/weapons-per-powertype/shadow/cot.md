@@ -8,6 +8,7 @@ nav_order: 3
 <span class="fs-1">[Bottomless Grave](/appendix/weapons-per-powertype/shadow/bg){: .btn .btn-grey } </span><span class="fs-1"> [Creepy Coffin](/appendix/weapons-per-powertype/shadow/coffin){: .btn .btn-grey } </span><span class="fs-1"> [Clockapult of Time](/appendix/weapons-per-powertype/shadow/cot){: .btn .btn-grey } </span><span class="fs-1"> [Interdimensional Crossbow Trap](/appendix/weapons-per-powertype/shadow/idct){: .btn .btn-grey } </span><span class="fs-1"> [Temporal Turbine](/appendix/weapons-per-powertype/shadow/tt){: .btn .btn-grey } </span><span class="fs-1"> [Chrome Temporal Turbine](/appendix/weapons-per-powertype/shadow/ctt){: .btn .btn-grey } </span>
 
 ## Clockapult of Time
+Tribal clock ~ Shadow dial
 <mark> This weapon is not a part of the regular progression path and is generally considered 'optional'.</mark>  
 
 <img src="/assets/images/cot.png" alt="Clockapult of Time's Image" width="600">
