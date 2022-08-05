@@ -29,7 +29,7 @@ The Crystal Tower is somewhat underperforming in the stats departement, making a
 While hunting with the Crystal Tower, its low stats make the use of auras, charms and the Lucky Golden Shield a lot more beneficial than they otherwise are.
 The Crystal Tower is primarily used in the early rift areas, untill a hunter can upgrade to the [M.Y.N.O.R.C.A.](/appendix/weapons-per-powertype/rift/mynorca) in Furoma Rift or the [Multi-Crystal Laser](/appendix/weapons-per-powertype/rift/mcl) in Burroughs Rift. Depending on the exact route, this makes the trap useful in Whisker Woods Rift, Burroughs Rift and potentially Furoma Rift.
 ### Alternatives
-The Crystal Tower doesn't have any permanently available alternatives. While "whack hard" works for some of the early rifts, it is still not recommended and the later upgrades either require rift hunting or having the Crystal Tower to upgrade.
+The Crystal Tower doesn't have any permanently available alternatives, which is impressive considering how bad it is. While "whack hard" works for some of the early rifts, it is still not recommended, and the later upgrades either require rift hunting or having the Crystal Tower to upgrade.
 
 ### Upgrades
 From the Crystal Tower, a hunter can go two routes to upgrade their rift equipment. At Duke, they could upgrade to the [Multi-Crystal Laser](/appendix/weapons-per-powertype/rift/mcl) in Burroughs Rift. Alternatively, there is the stronger [M.Y.N.O.R.C.A.](/appendix/weapons-per-powertype/rift/mynorca) in Furoma Rift that becomes available at Grand Duke.
