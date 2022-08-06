@@ -5,6 +5,8 @@ parent: Arcane
 permalink: /appendix/weapons-per-powertype/arcane/acronym
 nav_order: 1
 ---
+
+<span class="fs-1">[A.C.R.O.N.Y.M.](/appendix/weapons-per-powertype/arcane/acronym){: .btn .btn-grey } </span><span class="fs-1">[Droid Archmagus Trap](/appendix/weapons-per-powertype/arcane/dat){: .btn .btn-grey } </span> <span class="fs-1">[Event Horizon](/appendix/weapons-per-powertype/arcane/eht){: .btn .btn-grey } </span><span class="fs-1">[Circlet of Pursuing](/appendix/weapons-per-powertype/arcane/cop){: .btn .btn-grey }</span>
 ## A.C.R.O.N.Y.M.
 First Arcanism ~ Capturing Rod of the Present World
 

@@ -12,5 +12,7 @@ This power type starts off somewhere in the middle of the early-game, first bein
 
 Arcane has had a number of oddities with its previous best in slot weapon, but these have thankfully blown over by now. The [Event Horizon Trap](/appendix//weapons-per-powertype/arcane/eht), which can be picked up from the Labyrinth, used to have two Limited Edition upgrades that were only available during the 2016 and 2017 Great Winter Hunt. These parts not being permanently in the game made Arcane a bit weird, but this oddity was thankfully overcome by the introduction of the Floating Islands.
 
+<span class="fs-1">[A.C.R.O.N.Y.M.](/appendix/weapons-per-powertype/arcane/acronym){: .btn .btn-grey } </span><span class="fs-1">[Droid Archmagus Trap](/appendix/weapons-per-powertype/arcane/dat){: .btn .btn-grey } </span> <span class="fs-1">[Event Horizon](/appendix/weapons-per-powertype/arcane/eht){: .btn .btn-grey } </span><span class="fs-1">[Circlet of Pursuing](/appendix/weapons-per-powertype/arcane/cop){: .btn .btn-grey }</span>
+
 <img src="/assets/images/Kuh.png" alt="Moo" width="300" height="300">
 <img src="/assets/images/arcane.png" alt="Arcane">
