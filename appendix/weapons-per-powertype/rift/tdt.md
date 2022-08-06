@@ -10,7 +10,7 @@ nav_order: 4
 ## Timesplit Dissonance Trap
 Providing the hunter with the true eternal transient reign over the rifts.
 
-<img src="/assets/images/tdt.png" alt="this is dumb, gonna be honest" width="600">
+<img src="/assets/images/tdt.png" alt="instructions unclear, split space instead" width="600">
 
 |||||
 |---|---|---|---|
@@ -33,4 +33,4 @@ Valour Rift is an extremely ~~broken~~ centralising Archduke area because it pro
 The Timesplit Dissonance Weapon has no alternatives, primarily because the current best-in-slot Rift weapon requires it to be acquired.
 
 ### Upgrades
-After finishing up the timesplit's chapter in the Bristle Woods Rift, there is only one stop left: Straight to the Valour Rift and it's [ Chrome Celestial Dissonance Trap](/appendix/weapons-per-powertype/rift/ccdt).
+After finishing up the timesplit's chapter in the Bristle Woods Rift, there is only one stop left: Straight to the Valour Rift and it's [Chrome Celestial Dissonance Trap](/appendix/weapons-per-powertype/rift/ccdt).
