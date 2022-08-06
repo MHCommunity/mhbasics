@@ -35,7 +35,7 @@ The Chrome Celestial Dissonance Trap can be crafted by combining 1 Chrome Celest
 
 ## Weapon Acquisition
 The Celestial Dissonance Trap can be bought from the Valou rRift Trapsmith for 13,600,000 gold and 20 Cores of the Eclipse. Purchasing this weapon also requires, but does not consume, a [ Timesplit Dissonance Trap](/appendix/weapons-per-powertype/rift/tdt).
-- Cores of the Eclipse drop from the Total Eclipse, which can be encountered on every 8th floor of the Valour Rift with Ultimate Umbra active. The higher in the tower, the more Cores are dropped.
+- Cores of the Eclipse drop from the Total Eclipse, which can be encountered on every 8th floor of the Valour Rift with the Ultimate Umbra augment active. The higher in the tower, the more Cores are dropped.
 - the [ Timesplit Dissonance Trap](/appendix/weapons-per-powertype/rift/tdt) can be bought from the Bristle Woods Rift Trapsmith. For details, see the page of this weapon. It is required to purchase the Thought Obliterator Trap, but will **NOT** be consumed.
 
 # General info and Trivia
