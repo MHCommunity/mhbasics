@@ -20,3 +20,8 @@ Hangover of Fishfellows Swimming Differently
 | __Cheese Effect__ 	| Stale	| __Powertype__ 	| Hydro 	|
 | __Acquisition Method__ 	| Trapsmith	| __Cost__ 	| 12,000,000 gold <br> 500 Solidified Amber Queso <br> 75 Nachore <br> 3 Queso Thermal Springs	|
 
+### Alternatives
+This weapon is already an alternative, to the [School of Sharks](/appendix/weapons-per-powertype/hydro/csos) which can directly be upgraded into the Chrome School of Sharks. It is generally considered an optional upgrade because they are unlocked at a similar stage of the game, but the significantly higher cost of the School of Sharks and the length to which the Queso Fount Trap can be used gives the weapon a meaningful appeal.
+
+### Upgrades
+From the Queso Fount Trap, there is only one upgrade left: the [Chrome School of Sharks](/appendix/weapons-per-powertype/hydro/csos). While this upgrade has no direct 'must get before'-points in the game right now, it is the current best in slot Hydro weapon so should be an eventual goal for all hunters.
