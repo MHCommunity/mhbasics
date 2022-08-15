@@ -8,7 +8,7 @@ nav_order: 4
 <span class="fs-1">[Ice Maiden](/appendix/weapons-per-powertype/draconic/im){: .btn .btn-grey } </span><span class="fs-1"> [Blazing Ember Spear Trap](/appendix/weapons-per-powertype/draconic/best){: .btn .btn-grey } </span><span class="fs-1"> [Chrome Storm Wrought Ballista Trap](/appendix/weapons-per-powertype/draconic/cswb){: .btn .btn-grey } </span><span class="fs-1"> [DRAGON SLAYER CANNON](/appendix/weapons-per-powertype/draconic/dsc){: .btn .btn-grey } </span>
 
 ## Dragon Slayer Cannon
-I am never financially going to recover from this. Unless I try gambling!
+Gathering the mysterious from all around Ganwnia
 
 <img src="/assets/images/dsc.png" alt="Shiny Lightning Spear Slinger" width="600">
 
@@ -24,6 +24,7 @@ The Dragon Slayer Cannon is crafted in multiple stages:
 - The Dragon Slayer Cannon Chassis, requiring 310 Cork Bark, 15 Congealed Rubber, 30 Geyserite, 60 Tungsten and 300 Tiny Platinum Bars
 - The Imbued Dragon Slayer Cannon Chassis, requiring the Chassis from earlier, 1 Ful'Mina's Tooth, 2 Ember Roots and 2 Ember Stones
 - The Dragon Slayer Cannon itself, requiring the Imbued Dragon Slayer Cannon Chassis, 1 Kalor'ignis Rib, 1 Chrome Storm Wrought Ballista Parts and 415 Dragon Scale.
+  
 These can be acquired in the following ways:
 - Dragon Scales can be looted from Storm Dragons, by arming Dragonvine Cheese in Moussu Picchu.
 - Chrome Storm Wrought Ballista Parts can be acquired by smashing a Chrome Storm Wrought Ballista Trap.
