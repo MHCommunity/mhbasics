@@ -112,15 +112,16 @@ Along with some of the following items:
 
 This is the second part of the Queso region.
 
-You are recommended to use BEST and OESB here. You can earn some SUPERBrie+ from sniping in every stage here, check out discord for more info. There are 7 stages in the Queso Geyser:
+You are recommended to use BEST and OESB here. You can earn some SUPERBrie+ from sniping in every stage here, check out discord for more info. There are 3 stages in the Queso Geyser:
 <ul>
 <li>Cork Collecting</li>
 <li>Pressure Building</li>
-<li>Tiny Eruption - Do not end up here</li>
+<li>5 Different Types of Eruptions</li>
+<ul><li>Tiny Eruption - Do not end up here</li>
 <li>Small Eruption</li>
 <li>Medium Eruption</li>
 <li>Large Eruption</li>
-<li>Epic Eruption</li>
+<li>Epic Eruption</li></ul>
 </ul>
 
 Pressure per hunt (For reference later):
@@ -140,7 +141,7 @@ Recommended Charms:
 <li>Epic Eruption: Dragonbane Charm</li>
 </ul>
 
-You collect Cork Barks in the Cork Collecting stage, it would be used when you begin heading into each Eruption stage. If you leeched a couple of RQCGT, you should have sufficient Cork Barks to begin the Eruption stages. The higher tiered Queso used here would give you more Cork Barks per hunt, however it is recommended that you do not go higher than Medium Queso.
+You collect Cork Barks in the Cork Collecting stage, which will be used in every Eruption you attempt. Cork is pushed into the Geyser, allowing pressure to be built up, which eventually results in an eruption. If you leeched a couple of RQCGT, you should have sufficient Cork Barks to begin the Eruption stages. The higher tiered Queso used here will give you more Cork Barks per hunt, however it is not recommended to hunt with anything higher than Medium Queso due to how difficult it is to obtain higher tiered cheese.
 
 Small Eruption - 
 <ul>
@@ -196,4 +197,13 @@ Epic Eruption (Read further down first) -
 <li>Please use a Magic Nest Dust (MND) here.</li>
 </ul>
 
-You would usually clear the entire Epic Eruption, however on your first run, leave the the area after you caught your first Kalor. Then claim the adventure Slay the Geyser Dragon. You will come back and finish the rest of the Epic Eruption when you have better traps in the future. Head onto Gnawnia Rift, if you have not completed the adventure. If you completed Gnawnia Rift adventure, you could stay in the Queso Region to snipe and earn more SB or head over to Sunken City (Optional for progression).
+You would usually clear the entire Epic Eruption, however on your first run, leave the the area after you caught your first Kalor. Then claim the adventure Slay the Geyser Dragon. You will come back and finish the rest of the Epic Eruption when you have better traps in the future. 
+
+Traps in Queso Geyser:
+<ul>
+<li>Queso Font Trap (QFT) - Recommended to get as it is on par with School of Sharks and useful in Grift as well.</li>
+<li>Gouging Geyserite - If you have Sphynx Wraft Trap, you can skip this.</li>
+<li>Smoldering Stone Sentinel - If you have Sandstorm Monstrobot, you can skip this.</li>
+</ul>
+
+Head onto Gnawnia Rift, if you have not completed the adventure. If you completed Gnawnia Rift adventure, you could stay in the Queso Region to snipe and earn more SB or head over to Sunken City (Optional for progression).
