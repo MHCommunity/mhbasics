@@ -6,7 +6,7 @@ has_children: true
 permalink: /count
 ---
 
-## Chapter x
+# Count
 
-You're looking for a ship. Ahoy!
+River flowing in you. Dragons and the mysterious Rift.
 {: .fs-6 .fw-300 }

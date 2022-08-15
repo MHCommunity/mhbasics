@@ -5,7 +5,7 @@ parent: Legendary to Knight
 nav_order: 2
 ---
 
- <img src="https://www.mousehuntgame.com/images/environments/55c8b16d30aa344f64c5daaeb95de38b_v2.jpg?cv=2" alt="Jungle of Dread's Banner"> 
+<img src="https://www.mousehuntgame.com/images/environments/55c8b16d30aa344f64c5daaeb95de38b_v2.jpg?cv=2" alt="Jungle of Dread's Banner"> 
 
 # Hero
 {: .fs-9 }
