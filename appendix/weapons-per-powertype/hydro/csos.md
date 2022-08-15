@@ -5,7 +5,7 @@ parent: Hydro
 permalink: /appendix/weapons-per-powertype/hydro/csos
 nav_order: 5
 ---
-<span class="fs-1">[Net Cannon](/appendix/weapons-per-powertype/hydro/nc){: .btn .btn-grey } </span><span class="fs-1">[Ancient Spear Gun](/appendix/weapons-per-powertype/hydro/asg){: .btn .btn-grey } </span><span class="fs-1"> [Steam Laser](/appendix/weapons-per-powertype/hydro/slmk){: .btn .btn-grey } </span><span class="fs-1"> [Queso Fount Trap](/appendix/weapons-per-powertype/hydro/qft){: .btn .btn-grey } </span><span class="fs-1"> [Chrome School of Sharks](/appendix/weapons-per-powertype/hydro/csos){: .btn .btn-grey } </span>
+<span class="fs-1">[Net Cannon & Ancient Spear Gun](/appendix/weapons-per-powertype/hydro/nc){: .btn .btn-grey } </span><span class="fs-1"> [Steam Laser](/appendix/weapons-per-powertype/hydro/slmk){: .btn .btn-grey } </span><span class="fs-1"> [Queso Fount Trap](/appendix/weapons-per-powertype/hydro/qft){: .btn .btn-grey } </span><span class="fs-1"> [Chrome School of Sharks](/appendix/weapons-per-powertype/hydro/csos){: .btn .btn-grey } </span>
 
 ## Chrome School of Sharks
 The Shining Law of the Shark eating the Fish
