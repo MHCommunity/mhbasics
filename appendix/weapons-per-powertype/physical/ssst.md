@@ -5,6 +5,7 @@ parent: Physical
 permalink: /appendix/weapons-per-powertype/physical/ssst
 nav_order: 3
 ---
+<span class="fs-1">[Earlygame physical](/appendix/weapons-per-powertype/physical/early){: .btn .btn-grey } </span><span class="fs-1"> [Enraged Rhinobot](/appendix/weapons-per-powertype/physical/erb){: .btn .btn-grey } </span><span class="fs-1"> [Chrome Monstrobot](/appendix/weapons-per-powertype/physical/cmb){: .btn .btn-grey } </span><span class="fs-1"> [Smoldering Stone Sentinel Trap](/appendix/weapons-per-powertype/physical/ssst){: .btn .btn-grey } </span>
 
 ## Smoldering Stone Sentinel Trap
 Who needs luck when you can throw two additional hands?
