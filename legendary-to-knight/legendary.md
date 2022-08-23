@@ -91,7 +91,7 @@ Farm gold in Derr Dunes with RhinoBot, Aqua Base and Gouda Cheese. Craft Crunchy
 
 Once you have at least 940,000 gold, arm another weapon and smash Digby DrillBot into Digby DrillBot Parts. Buy RhinoBot Trap in the Trapsmith with 940,000 Gold, 1 Rhino Horn, 12 Stale SUPERbrie+ and 1 Digby Drillbot Parts.
 
-Use the new Rhinobot Trap in Derr Dunes to farm gold and Red Pepper Seeds.
+Use the new RhinoBot Trap in Derr Dunes to farm gold and Red Pepper Seeds.
 
 <img src="https://www.mousehuntgame.com/images/environments/0f0964cc5604c1894da6e2e67a6c3820.jpg" alt="Derr Dunes' Banner">
 

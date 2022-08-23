@@ -5,9 +5,9 @@ parent: Physical
 permalink: /appendix/weapons-per-powertype/physical/cmb
 nav_order: 4
 ---
-<span class="fs-1">[Earlygame physical](/appendix/weapons-per-powertype/physical/early){: .btn .btn-grey } </span><span class="fs-1"> [Enraged Rhinobot](/appendix/weapons-per-powertype/physical/erb){: .btn .btn-grey } </span><span class="fs-1"> [Chrome Monstrobot](/appendix/weapons-per-powertype/physical/cmb){: .btn .btn-grey } </span><span class="fs-1"> [Smoldering Stone Sentinel Trap](/appendix/weapons-per-powertype/physical/ssst){: .btn .btn-grey } </span>
+<span class="fs-1">[Earlygame physical](/appendix/weapons-per-powertype/physical/early){: .btn .btn-grey } </span><span class="fs-1"> [Enraged RhinoBot](/appendix/weapons-per-powertype/physical/erb){: .btn .btn-grey } </span><span class="fs-1"> [Chrome Monstrobot](/appendix/weapons-per-powertype/physical/cmb){: .btn .btn-grey } </span><span class="fs-1"> [Smoldering Stone Sentinel Trap](/appendix/weapons-per-powertype/physical/ssst){: .btn .btn-grey } </span>
 
-<mark> Disclaimer: </mark> This weapon requires a [Rhinobot](/appendix/weapons-per-powertype/physical/erb).
+<mark> Disclaimer: </mark> This weapon requires a [RhinoBot](/appendix/weapons-per-powertype/physical/erb).
 
 ## Chrome MonstroBot
 the Capital Fist of Flames above the Sand
@@ -34,11 +34,11 @@ The Chrome MonstroBot can be crafted by combining 1 Chrome Monstrobot Upgrade Ki
 | __Power__ 	| 8,000 	| __Luck__ 	| 27 	|
 | __Power Bonus__ 	| 20% 	|__AttractionBonus__ 	| 5% 	|
 | __Cheese Effect__ 	| No Effect	| __Powertype__ 	| Physical 	|
-| __Acquisition Method__ 	| Trapsmith	| __Cost__ 	| 999,000 gold <br> 2 Sandblasted Metal <br> 400 Flameshard <br> 1 Rhinobot <br> 1 Digby Drillbot <br> 1 Mouse Deathbot	|
+| __Acquisition Method__ 	| Trapsmith	| __Cost__ 	| 999,000 gold <br> 2 Sandblasted Metal <br> 400 Flameshard <br> 1 RhinoBot <br> 1 Digby Drillbot <br> 1 Mouse Deathbot	|
 
 ### Weapon Acquisition
-The Sandstorm Monstrobot can be bought from the Fiery Warpath Trapsmith 999,000 gold, 2 Sandblasted Metal, 400 Flameshard, 1 Rhinobot, 1 Digby Drillbot and 1 Mouse Deathbot. It also requires 3 Warpath Victories.
-- How to acquire a Rhinobot is explained on [this](/appendix/weapons-per-powertype/physical/erb) page.
+The Sandstorm Monstrobot can be bought from the Fiery Warpath Trapsmith 999,000 gold, 2 Sandblasted Metal, 400 Flameshard, 1 RhinoBot, 1 Digby Drillbot and 1 Mouse Deathbot. It also requires 3 Warpath Victories.
+- How to acquire a RhinoBot is explained on [this](/appendix/weapons-per-powertype/physical/erb) page.
 - A Digby Drillbot can be purchased from the Town of Digby Trapsmith for 256,000 gold.
 - The Mouse Deathbot can be acquired from many early-game Trapsmiths for 150,000 gold.
 - Flameshards are dropped by Theurgy Wardens and the Warmonger in Wave 4 of the Fiery Warpath, as well as by the Fiery Warpath's Gargantuamouse. Alternatively, they can be bought from the Marketplace
