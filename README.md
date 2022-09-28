@@ -1,4 +1,4 @@
-# Mousehunt Guide 2022 (kuh what was the name again?)
+# Mousehunt Guide 2022 - MYNL Edition
 **NOTE:** This guide is currently under development, please do not consider it as a finalised product. All feedback & contributions are appreciated.
 
 This is a refresh of the guides for [MouseHunt](https://mousehuntgames.com) written by a group of community volunteers.
@@ -10,9 +10,8 @@ For issues or questions regarding specific sections, you can contact:
 - Kuh (the main guide [novice to ????], general things)
 - Mellon (weapons appendix, general things)
 - Currently unnamed other contributers (not yet specified)
-
-
-- [ ] todo: add CONTRIBUTING.md & notes here on how to suggest changes or whatever.
+- You? (if you want to help out)
+- [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
 
 ## Acknowledgements
 
@@ -25,3 +24,8 @@ This guide was inspired by [Mousehunt Basics](https://mousehuntbasics.wordpress.
 This is a guide for the game MouseHunt. The words wouldn’t make sense if you don’t play the game.
 
 All MouseHunt images included here are property of [HitGrab Inc](https://hitgrab.com/).
+
+
+### MYNL
+
+Makes You Not Lost
