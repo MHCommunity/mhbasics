@@ -17,7 +17,7 @@ For issues or questions regarding specific sections, you can contact:
 
 Special thanks to all who have helped; contributors, Discord community members, everyone else.
 
-This guide was inspired by [Phil's guide](https://mousehuntbasics.wordpress.com/) & [Mozka's guide](https://adefinitivemhguide.wordpress.com/).
+This guide was inspired by [Mousehunt Basics](https://mousehuntbasics.wordpress.com/) by Phil & [Mozka's Definite MouseHunt Guide](https://adefinitivemhguide.wordpress.com/).
 
 ## Disclaimer
 
