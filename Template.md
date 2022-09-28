@@ -1,3 +1,4 @@
+VIEW AS RAW when using github on the web.
 <!--- This section must be in the actual file, commented out just in case i merge this like a fool
 ---
 layout: default 
@@ -12,7 +13,6 @@ Layout: default | default is used for all pages in general, just stick with it.
 title: XYZ | Title shown on the tab of the page.
 parent: ABC | The name of the parent page, which is usually the name of the folder your file goes into
 nav_order: NO. | The sequence where it appears in the dropdown menu. 
-
 
 For Novice - Baron, the flow is usually tied by the rank. hence all areas will be on their rank pages. EG Lord page would have all Iceberg, ZT, etc pages there. 
 
