@@ -15,3 +15,4 @@ As a powertype, rift doesn't interact all too much with the rest of game. The on
 
 
 <img src="/assets/images/rift.png" alt="Rift">
+/workspaces/mhbasics/assets/images/acronym.png
