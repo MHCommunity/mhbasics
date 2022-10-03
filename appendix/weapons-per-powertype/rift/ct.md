@@ -10,7 +10,7 @@ nav_order: 1
 ## Crystal Tower
 A shining crystal tower sinking in the air.
 
-<img src="/assets/images/ct.png" alt="this is dumb, gonna be honest" width="600">
+<img src="/assets/images/weapons/ct.png" alt="this is dumb, gonna be honest" width="600">
 
 |||||
 |---|---|---|---|

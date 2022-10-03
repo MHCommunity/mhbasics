@@ -10,7 +10,7 @@ nav_order: 1
 ## A.C.R.O.N.Y.M.
 First Arcanism ~ Capturing Rod of the Present World
 
-<img src="/assets/images/acronym.png" alt="fancy stick of sparkly actions" width="600">
+<img src="/assets/images/weapons/acronym.png" alt="fancy stick of sparkly actions" width="600">
 
 |||||
 |---|---|---|---|

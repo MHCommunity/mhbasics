@@ -11,7 +11,7 @@ nav_order: 3
 Who needs luck when you can throw two additional hands?
 <mark> This weapon is not a part of the regular progression path and is generally considered 'optional'.</mark>  
 
-<img src="/assets/images/ssst.png" alt="hot hands" width="600">
+<img src="/assets/images/weapons/ssst.png" alt="hot hands" width="600">
 
 |||||
 |---|---|---|---|

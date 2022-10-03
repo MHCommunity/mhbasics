@@ -9,7 +9,7 @@ nav_order: 5
 
 ##  Chrome Celestial Dissonance Trap
 Making mice enter a tower to end up being stuck in a Lost Place, which is (unsurprisingly) what this area does to hunters as well.
-<img src="/assets/images/ccdt.png" alt="instructions still unclear, split celestia" width="600">
+<img src="/assets/images/weapons/ccdt.png" alt="instructions still unclear, split celestia" width="600">
 
 |||||
 |---|---|---|---|
@@ -24,7 +24,7 @@ The Chrome Celestial Dissonance Trap can be crafted by combining 1 Chrome Celest
 - Celestial Dissonance Trap Parts can be acquired by smashing a Celestial Dissonance Trap, which can be acquired as explained below.
 
 # Prerequisite: Celestial Dissonance Trap
-<img src="/assets/images/cdt.png" alt="Moussey in the sky with... dissonance?" width="600">
+<img src="/assets/images/weapons/cdt.png" alt="Moussey in the sky with... dissonance?" width="600">
 
 |||||
 |---|---|---|---|

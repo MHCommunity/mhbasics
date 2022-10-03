@@ -10,7 +10,7 @@ nav_order: 5
 ## S.T.I.N.G.E.R. Trap
 The true Banditry Technology: steal the thieving mice!
 
-<img src="/assets/images/stinger.png" alt="mobile hell jail" width="600">
+<img src="/assets/images/weapons/stinger.png" alt="mobile hell jail" width="600">
 
 |||||
 |---|---|---|---|
@@ -27,7 +27,7 @@ The S.T.I.N.G.E.R. can be purchased from the Floating Islands Trapsmith for 3,00
  
 ## Requirement: S.T.I.N.G. Trap
 
-<img src="/assets/images/sting.png" alt="mini mobile hell jail" width="600">
+<img src="/assets/images/weapons/sting.png" alt="mini mobile hell jail" width="600">
 
 |||||
 |---|---|---|---|

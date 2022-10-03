@@ -11,7 +11,7 @@ nav_order: 5
 The Shining Law of the Shark eating the Fish
 
 
-<img src="/assets/images/csos.png" alt="chrome cute fishy fishy" width="600">
+<img src="/assets/images/weapons/csos.png" alt="chrome cute fishy fishy" width="600">
 
 |||||
 |---|---|---|---|
@@ -27,7 +27,7 @@ The Chrome School of Sharks can be crafted by combining 1 Chrome School of Shark
 
 ## School of Sharks
 
-<img src="/assets/images/sos.png" alt="cute fishy fishy" width="600">
+<img src="/assets/images/weapons/sos.png" alt="cute fishy fishy" width="600">
 
 |||||
 |---|---|---|---|
@@ -46,7 +46,7 @@ The School of Sharks can be purchased from the Sunken City Trapsmith for 11,000,
 
 ## Rune Shark Trap
 
-<img src="/assets/images/rst.png" alt="very cute fishy fishy" width="600">
+<img src="/assets/images/weapons/rst.png" alt="very cute fishy fishy" width="600">
 
 |||||
 |---|---|---|---|

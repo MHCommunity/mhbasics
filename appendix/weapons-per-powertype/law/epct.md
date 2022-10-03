@@ -10,7 +10,7 @@ nav_order: 4
 ## Ember Prison Core Trap
 Ever wondered what jail would be like if it was LIT?
 
-<img src="/assets/images/epct.png" alt="hell jail" width="600">
+<img src="/assets/images/weapons/epct.png" alt="hell jail" width="600">
 
 |||||
 |---|---|---|---|

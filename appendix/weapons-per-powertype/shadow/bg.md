@@ -9,7 +9,7 @@ nav_order: 1
 ## Bottomless Grave
 The Shadow brought in by Livingshard Naturalis Historia
 
-<img src="/assets/images/bg.png" alt="uncovered undercover sceptic tank" width="600">
+<img src="/assets/images/weapons/bg.png" alt="uncovered undercover sceptic tank" width="600">
 
 |||||
 |---|---|---|---|

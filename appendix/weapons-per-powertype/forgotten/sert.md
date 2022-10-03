@@ -9,7 +9,7 @@ nav_order: 2
 
 ## Scarlet Ember Root Trap
 a Root Blazing in the Underground
-<img src="/assets/images/sert.png" alt="burning plant" width="600">
+<img src="/assets/images/weapons/sert.png" alt="burning plant" width="600">
 
 |||||
 |---|---|---|---|

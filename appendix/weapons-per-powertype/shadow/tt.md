@@ -10,7 +10,7 @@ nav_order: 5
 ## Temporal Turbine
 Getting Cheese is for the Transdimensional Mice
 
-<img src="/assets/images/tt.png" alt="Temporal Turbine's Image" width="600">
+<img src="/assets/images/weapons/tt.png" alt="Temporal Turbine's Image" width="600">
 
 |||||
 |---|---|---|---|

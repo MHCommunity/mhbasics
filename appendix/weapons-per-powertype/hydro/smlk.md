@@ -14,7 +14,7 @@ Time to melt some crystalized silver
 
 ## Steam Laster Mk I
 
-<img src="/assets/images/slmk.png" alt="water gun plus boiler equals profit" width="600">
+<img src="/assets/images/weapons/slmk.png" alt="water gun plus boiler equals profit" width="600">
 
 |||||
 |---|---|---|---|
@@ -29,7 +29,7 @@ These 3 materials can all be looted from hunting in the Slushy Shoreline while u
 
 ## Steam Laster Mk II
 
-<img src="/assets/images/slmk2.png" alt="water cannon plus boiler equals angry dragon" width="600">
+<img src="/assets/images/weapons/slmk2.png" alt="water cannon plus boiler equals angry dragon" width="600">
 
 |||||
 |---|---|---|---|
@@ -47,7 +47,7 @@ The Steam Laser Mk. II can be purchased from the Trapsmith in the Slushy Shoreli
 
 ## Steam Laster Mk II
 
-<img src="/assets/images/slmk3.png" alt="here were angry dragon" width="600">
+<img src="/assets/images/weapons/slmk3.png" alt="here were angry dragon" width="600">
 
 |||||
 |---|---|---|---|

@@ -10,7 +10,7 @@ nav_order: 4
 ## Dragon Slayer Cannon
 Gathering the mysterious from all around Ganwnia
 
-<img src="/assets/images/dsc.png" alt="Shiny Lightning Spear Slinger" width="600">
+<img src="/assets/images/weapons/dsc.png" alt="Shiny Lightning Spear Slinger" width="600">
 
 |||||
 |---|---|---|---|

@@ -11,7 +11,7 @@ nav_order: 3
 Tribal clock ~ Shadow dial
 <mark> This weapon is not a part of the regular progression path and is generally considered 'optional'.</mark>  
 
-<img src="/assets/images/cot.png" alt="Clockapult of Time's Image" width="600">
+<img src="/assets/images/weapons/cot.png" alt="Clockapult of Time's Image" width="600">
 
 |||||
 |---|---|---|---|

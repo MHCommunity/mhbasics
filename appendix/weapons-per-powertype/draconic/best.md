@@ -10,7 +10,7 @@ nav_order: 2
 ## Blazing Ember Spear Trap
 When you take the fight against dragons to the sky (or not quite).
 
-<img src="/assets/images/best.png" alt="blazing ember spear" width="600">
+<img src="/assets/images/weapons/best.png" alt="blazing ember spear" width="600">
 
 |||||
 |---|---|---|---|

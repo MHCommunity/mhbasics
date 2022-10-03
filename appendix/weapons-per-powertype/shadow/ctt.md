@@ -10,7 +10,7 @@ nav_order: 6
 ## Chrome Temporal Turbine
 Solar Sect of Mystic Shadows ~ Temporal Fusion
 
-<img src="/assets/images/ctt.png" alt="Chrome Temporal Turbine's Image" width="600">
+<img src="/assets/images/weapons/ctt.png" alt="Chrome Temporal Turbine's Image" width="600">
 
 |||||
 |---|---|---|---|

@@ -9,7 +9,7 @@ nav_order: 1
 ## S.L.A.C.
 -king is what this weapon does. But it's the best option so I guess it'll do.
 
-<img src="/assets/images/slac.png" alt="cactus whacker" width="600">
+<img src="/assets/images/weapons/slac.png" alt="cactus whacker" width="600">
 
 |||||
 |---|---|---|---|

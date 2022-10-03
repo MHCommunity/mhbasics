@@ -9,7 +9,7 @@ nav_order: 2
 
 ## Enraged RhinoBot
 Rage from the machines
-<img src="/assets/images/erb.png" alt="angry" width="600">
+<img src="/assets/images/weapons/erb.png" alt="angry" width="600">
 
 |||||
 |---|---|---|---|
@@ -26,7 +26,7 @@ The Enraged Rhinobot can be purchased from the Trapsmith in the Derr Dunes and C
 
 ## RhinoBot
 Love and peace from the machines?
-<img src="/assets/images/rb.png" alt="unagnry" width="600">
+<img src="/assets/images/weapons/rb.png" alt="unagnry" width="600">
 
 |||||
 |---|---|---|---|

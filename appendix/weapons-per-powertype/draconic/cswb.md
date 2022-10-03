@@ -10,7 +10,7 @@ nav_order: 3
 ## Chrome Storm Wrought Ballista Trap
 Draconic: The End (but not really)
 
-<img src="/assets/images/cswbt.png" alt="Shiny Lightning Spear Slinger" width="600">
+<img src="/assets/images/weapons/cswbt.png" alt="Shiny Lightning Spear Slinger" width="600">
 
 |||||
 |---|---|---|---|
@@ -26,7 +26,7 @@ The Chrome Storm Wrought Ballista Trap can be crafted from 1 Storm Wrought Balli
 
 # Prerequisite: Storm Wrought Ballista Trap
 
-<img src="/assets/images/swbt.png" alt="Lightning Spear Slinger" width="600">
+<img src="/assets/images/weapons/swbt.png" alt="Lightning Spear Slinger" width="600">
 
 |||||
 |---|---|---|---|
@@ -42,7 +42,7 @@ The Storm Wrought Ballista Trap can be purchased from the Trapsmith in Moussu Pi
 
 # Prerequisite #2: Dragonvine Ballista Trap
 
-<img src="/assets/images/dvb.png" alt="Spear Slinger" width="600">
+<img src="/assets/images/weapons/dvb.png" alt="Spear Slinger" width="600">
 
 |||||
 |---|---|---|---|

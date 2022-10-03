@@ -11,7 +11,7 @@ nav_order: 6
 ## Slumbering Boulder Trap
 Sleepless rock of the floating country
 
-<img src="/assets/images/sbt.png" alt="scary sleeping bug" width="600">
+<img src="/assets/images/weapons/sbt.png" alt="scary sleeping bug" width="600">
 
 |||||
 |---|---|---|---|
@@ -28,7 +28,7 @@ The Slumbering Boulder Trap can be purchased from the Floating Islands Trapsmith
  
 ## Requirement: Sleeping Stone Trap
 
-<img src="/assets/images/sst.png" alt="Sleepy Stagbeetle Trap" width="600">
+<img src="/assets/images/weapons/sst.png" alt="Sleepy Stagbeetle Trap" width="600">
 
 |||||
 |---|---|---|---|

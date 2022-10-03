@@ -9,7 +9,7 @@ nav_order: 1
 
 ## Mutated Venus Mouse Trap
 This plant stinks
-<img src="/assets/images/mvmt.png" alt="plants vs mousies" width="600">
+<img src="/assets/images/weapons/mvmt.png" alt="plants vs mousies" width="600">
 
 |||||
 |---|---|---|---|

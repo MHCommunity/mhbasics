@@ -8,7 +8,7 @@ nav_order: 4
 <span class="fs-1">[Mutated Venus Mouse Trap](/appendix/weapons-per-powertype/tactical/mvmt){: .btn .btn-grey } </span><span class="fs-1"> [Ambush Trap](/appendix/weapons-per-powertype/tactical/ambush){: .btn .btn-grey } </span><span class="fs-1"> [Horrific Venus Mouse Trap](/appendix/weapons-per-powertype/tactical/hvmt){: .btn .btn-grey } </span><span class="fs-1"> [Chrome Sphynx Wrath](/appendix/weapons-per-powertype/tactical/csw){: .btn .btn-grey } </span><span class="fs-1"> [Gouging Geyserite Trap](/appendix/weapons-per-powertype/tactical/ggt){: .btn .btn-grey } </span><span class="fs-1"> [Slumbering Boulder Trap](/appendix/weapons-per-powertype/tactical/sbt){: .btn .btn-grey } </span>
 
 ## Chrome Sphynx Wrath
-<img src="/assets/images/csw.png" alt="shiny kitty" width="600">
+<img src="/assets/images/weapons/csw.png" alt="shiny kitty" width="600">
 
 
 |||||

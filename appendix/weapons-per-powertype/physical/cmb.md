@@ -11,7 +11,7 @@ nav_order: 4
 
 ## Chrome MonstroBot
 the Capital Fist of Flames above the Sand
-<img src="/assets/images/cmb.png" alt="shiny fist of damage" width="600">
+<img src="/assets/images/weapons/cmb.png" alt="shiny fist of damage" width="600">
 
 |||||
 |---|---|---|---|
@@ -27,7 +27,7 @@ The Chrome MonstroBot can be crafted by combining 1 Chrome Monstrobot Upgrade Ki
 
 ## Sandstorm Monstrobot
 
-<img src="/assets/images/mb.png" alt="powerful band ~ bot ensemble" width="600">
+<img src="/assets/images/weapons/mb.png" alt="powerful band ~ bot ensemble" width="600">
 
 |||||
 |---|---|---|---|
