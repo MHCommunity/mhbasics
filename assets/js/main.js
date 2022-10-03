@@ -1,5 +1,3 @@
----
----
 (function (jtd, undefined) {
 
 // Event handling
@@ -467,6 +465,7 @@ function scrollNav() {
     const rect = targetLink.getBoundingClientRect();
     siteNav.scrollBy(0, rect.top - 3*rect.height);
   }
+}
 
 // Document ready
 
