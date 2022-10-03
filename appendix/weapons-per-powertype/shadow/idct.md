@@ -10,7 +10,7 @@ nav_order: 4
 ## Interdimensional Crossbow
 ... of a Ghostly Rodentfilled Ship?
 
-<img src="/assets/images/ict.png" alt="Interdimensional Crossbow's Image" width="600">
+<img src="/assets/images/weapons/ict.png" alt="Interdimensional Crossbow's Image" width="600">
 
 |||||
 |---|---|---|---|

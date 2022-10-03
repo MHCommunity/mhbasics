@@ -10,7 +10,7 @@ nav_order: 4
 ## Timesplit Dissonance Trap
 Providing the hunter with the true eternal transient reign over the rifts.
 
-<img src="/assets/images/tdt.png" alt="instructions unclear, split space instead" width="600">
+<img src="/assets/images/weapons/tdt.png" alt="instructions unclear, split space instead" width="600">
 
 |||||
 |---|---|---|---|

@@ -9,7 +9,7 @@ nav_order: 3
 
 ## Horrific Venus Mouse Trap
 Is this a fragrant plant? Good luck finding out
-<img src="/assets/images/hvmt.png" alt="angry plant" width="600">
+<img src="/assets/images/weapons/hvmt.png" alt="angry plant" width="600">
 
 |||||
 |---|---|---|---|

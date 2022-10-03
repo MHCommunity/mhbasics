@@ -11,7 +11,7 @@ nav_order: 3
 Sending mice through the taboo gravitational wall
 
 
-<img src="/assets/images/eht.png" alt="on the edge of a black hole" width="600">
+<img src="/assets/images/weapons/eht.png" alt="on the edge of a black hole" width="600">
 
 |||||
 |---|---|---|---|

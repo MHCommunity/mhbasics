@@ -10,7 +10,7 @@ nav_order: 1
 ## Ancient Box Trap
 SHRODINGER NO YOU STUPID-
 
-<img src="/assets/images/abt.png" alt="here were dragons" width="600">
+<img src="/assets/images/weapons/abt.png" alt="here were dragons" width="600">
 
 |||||
 |---|---|---|---|

@@ -10,7 +10,7 @@ nav_order: 1
 ## Ice Maiden
 Hah you do have one now.
 
-<img src="/assets/images/im.png" alt="frozen slat of dragonpain" width="600">
+<img src="/assets/images/weapons/im.png" alt="frozen slat of dragonpain" width="600">
 
 |||||
 |---|---|---|---|

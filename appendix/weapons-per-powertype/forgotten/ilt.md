@@ -9,7 +9,7 @@ nav_order: 3
 
 # Infinite Labyrinth Trap
 Minoan Labyrinth of the Lost
-<img src="/assets/images/ilt.png" alt="Infinite Labyrinth Trap" width="600">
+<img src="/assets/images/weapons/ilt.png" alt="Infinite Labyrinth Trap" width="600">
 
 |||||
 |---|---|---|---|
@@ -26,7 +26,7 @@ The Infinite Labyrinth Trap can be bought from the Trapsmith in the Labyrinth an
 - The Endless Labyrinth Trap can be bought in Zokor as well, and will be explained below.
 
 # Prerequisite: the Endless Labyrinth Trap
-<img src="/assets/images/elt.png" alt="Endless Labyrinth Trap" width="300">
+<img src="/assets/images/weapons/elt.png" alt="Endless Labyrinth Trap" width="300">
 
 |||||
 |---|---|---|---|

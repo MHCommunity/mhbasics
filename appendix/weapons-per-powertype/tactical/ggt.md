@@ -10,7 +10,7 @@ nav_order: 5
 
 ## Gouging Geyserite Trap
 Where is that gouging geyser now?
-<img src="/assets/images/ggt.png" alt="I was expecting this trap to be hydro tbh" width="600">
+<img src="/assets/images/weapons/ggt.png" alt="I was expecting this trap to be hydro tbh" width="600">
 
 |||||
 |---|---|---|---|

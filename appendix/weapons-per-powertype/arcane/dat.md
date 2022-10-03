@@ -10,7 +10,7 @@ nav_order: 2
 ## Droid Archmagus Trap
 Droidy the Magician
 
-<img src="/assets/images/dat.png" alt="who said robots can't do magic" width="600">
+<img src="/assets/images/weapons/dat.png" alt="who said robots can't do magic" width="600">
 
 |||||
 |---|---|---|---|

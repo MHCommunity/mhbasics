@@ -9,7 +9,7 @@ nav_order: 4
 
 # Chrome Thought Obliterator Trap
 when tomorrow being better is not enough, so you yesterdain't
-<img src="/assets/images/ctot.png" alt="Chrome ToT" width="600">
+<img src="/assets/images/weapons/ctot.png" alt="Chrome ToT" width="600">
 
 |||||
 |---|---|---|---|
@@ -24,7 +24,7 @@ The Chrome Thought Obliterator Trap can be crafted by combining 1 Chrome Thought
 - Thought Obliterator Parts can be acquired by smashing a Thought Obliterator Trap, and will be explained below.
 
 # Prerequisite: Thought Obliterator Trap
-<img src="/assets/images/tot.png" alt="ToT" width="600">
+<img src="/assets/images/weapons/tot.png" alt="ToT" width="600">
 
 |||||
 |---|---|---|---|
@@ -40,7 +40,7 @@ The Thought Obliterator Trap can be bought from the Floating Islands Trapsmith f
 - the Thought Manipulator Trap can be bought from the Floating Islands Trapsmith, and will be explained below. This weapon is required to purchase the Thought Obliterator Trap, but will **NOT** be consumed.
 
 # Prerequisite: Thought Manipulator Trap
-<img src="/assets/images/tmt.png" alt="TmT" width="600">
+<img src="/assets/images/weapons/tmt.png" alt="TmT" width="600">
 
 |||||
 |---|---|---|---|

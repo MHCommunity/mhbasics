@@ -10,7 +10,7 @@ nav_order: 2
 ## Meteor Prison Core Trap
 It's like jail, but from SPACE!
 
-<img src="/assets/images/mpct.png" alt="space jail" width="600">
+<img src="/assets/images/weapons/mpct.png" alt="space jail" width="600">
 
 |||||
 |---|---|---|---|

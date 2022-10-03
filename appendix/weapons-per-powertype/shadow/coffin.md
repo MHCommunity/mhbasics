@@ -11,7 +11,7 @@ nav_order: 2
 Cemetary of Digby ~ grave of Vina  
 <mark> This weapon is not a part of the regular progression path and is generally considered 'optional'</mark>  
 
-<img src="/assets/images/cc.png" alt="Creepy Coffin Trap's Image" width="600">
+<img src="/assets/images/weapons/cc.png" alt="Creepy Coffin Trap's Image" width="600">
 
 |||||
 |---|---|---|---|

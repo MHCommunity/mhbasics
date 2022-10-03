@@ -10,7 +10,7 @@ nav_order: 4
 ## Circlet of Pursuing
 I don't know what reference I can mix in here but wings and scarf pretty <3
 
-<img src="/assets/images/cop.png" alt="yes I simp for a scarf and some wings they look pretty okay" width="600">
+<img src="/assets/images/weapons/cop.png" alt="yes I simp for a scarf and some wings they look pretty okay" width="600">
 
 |||||
 |---|---|---|---|
@@ -26,7 +26,7 @@ The Circlet of Pursuing can be purchased from the Trapsmith in the Floating Isla
 - the Circlet of Seeking can be bought from the Floating Islands Trapsmith, and will be explained below. This weapon is required to purchase the Thought Obliterator Trap, but will **NOT** be consumed.
 
 ## Prerequisite: Circlet of Seeking
-<img src="/assets/images/cos.png" alt="yes I also simp for less scarf and some wings they look pretty okay" width="600">
+<img src="/assets/images/weapons/cos.png" alt="yes I also simp for less scarf and some wings they look pretty okay" width="600">
 
 |||||
 |---|---|---|---|

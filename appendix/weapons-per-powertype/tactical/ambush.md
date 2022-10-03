@@ -9,7 +9,7 @@ nav_order: 2
 
 ## Ambush Trap
 Where is that gouging geyser now?
-<img src="/assets/images/ambush.png" alt="OG Sneaky" width="600">
+<img src="/assets/images/weapons/ambush.png" alt="OG Sneaky" width="600">
 
 |||||
 |---|---|---|---|

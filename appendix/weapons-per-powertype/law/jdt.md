@@ -12,7 +12,7 @@ nav_order: 3
 <mark> This weapon is not a part of the regular progression path and is generally considered 'optional'.</mark>  
 
 
-<img src="/assets/images/jdt.png" alt="HAMMERTIME" width="600">
+<img src="/assets/images/weapons/jdt.png" alt="HAMMERTIME" width="600">
 
 |||||
 |---|---|---|---|

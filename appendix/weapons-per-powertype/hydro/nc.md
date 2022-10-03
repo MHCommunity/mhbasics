@@ -10,7 +10,7 @@ nav_order: 1
 ## Ancient Spear Gun
 This was made after T-Shirts were cool and may have lead to multiple lawsuits if it was used the same way.
 
-<img src="/assets/images/asg.png" alt="Welcome to mousehunt, our only gun is a water gun" width="600">
+<img src="/assets/images/weapons/asg.png" alt="Welcome to mousehunt, our only gun is a water gun" width="600">
 
 |||||
 |---|---|---|---|
@@ -27,7 +27,7 @@ The Ancient Spear Gun can be purchased from the Cape Clawed and Elub Shore Traps
 ## Net Cannon
 This was made before T-Shirts were cool
 
-<img src="/assets/images/nc.png" alt="Better than the brut cannon" width="600">
+<img src="/assets/images/weapons/nc.png" alt="Better than the brut cannon" width="600">
 
 |||||
 |---|---|---|---|

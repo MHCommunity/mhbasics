@@ -11,7 +11,7 @@ nav_order: 4
 Hangover of Fishfellows Swimming Differently
 <mark> This weapon is not a part of the regular progression path and is generally considered 'optional'.</mark>  
 
-<img src="/assets/images/qft.png" alt="wdym that's not water" width="600">
+<img src="/assets/images/weapons/qft.png" alt="wdym that's not water" width="600">
 
 |||||
 |---|---|---|---|
