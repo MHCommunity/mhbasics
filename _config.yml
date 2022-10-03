@@ -36,7 +36,9 @@ search:
 
 # aux links for the upper right navigation
 aux_links:
-  "mousehunt discord server":
+  "mouse.rip":
+    - "https://mouse.rip"
+  "Discord":
     - "https://discordapp.com/mousehunt"
 
 # makes aux links open in a new tab. default is false
