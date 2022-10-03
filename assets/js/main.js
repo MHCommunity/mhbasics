@@ -74,7 +74,7 @@ function initSearch() {
   request.onload = function(){
     if (request.status >= 200 && request.status < 400) {
       var docs = JSON.parse(request.responseText);
-      
+
       lunr.tokenizer.separator = {{ site.search.tokenizer_separator | default: site.search_tokenizer_separator | default: "/[\s\-/]+/" }}
 
       var index = lunr(function(){
@@ -454,8 +454,19 @@ jtd.getTheme = function() {
 
 jtd.setTheme = function(theme) {
   var cssFile = document.querySelector('[rel="stylesheet"]');
-  cssFile.setAttribute('href', '{{ "assets/css/just-the-docs-" | absolute_url }}' + theme + '.css');
+  cssFile.setAttribute('href', '{{ "assets/css/main" | relative_url }}' + theme + '.css');
 }
+
+// Scroll site-nav to ensure the link to the current page is visible
+
+function scrollNav() {
+  const href = document.location.pathname;
+  const siteNav = document.getElementById('site-nav');
+  const targetLink = siteNav.querySelector('a[href="' + href + '"], a[href="' + href + '/"]');
+  if(targetLink){
+    const rect = targetLink.getBoundingClientRect();
+    siteNav.scrollBy(0, rect.top - 3*rect.height);
+  }
 
 // Document ready
 
@@ -464,8 +475,7 @@ jtd.onReady(function(){
   {%- if site.search_enabled != false %}
   initSearch();
   {%- endif %}
+  scrollNav();
 });
 
 })(window.jtd = window.jtd || {});
-
-{% include js/custom.js %}

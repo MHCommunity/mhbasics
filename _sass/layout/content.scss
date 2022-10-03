@@ -1,8 +1,5 @@
 @charset "UTF-8";
-
-//
 // Styles for rendered markdown in the .main-content container
-//
 // stylelint-disable selector-no-type, max-nesting-depth, selector-max-compound-selectors, selector-max-type
 
 .main-content {
@@ -21,7 +18,6 @@
   a {
     overflow: hidden;
     text-overflow: ellipsis;
-    white-space: nowrap;
   }
 
   ul,
@@ -46,7 +42,7 @@
         position: absolute;
         top: 0.2em;
         left: -1.6em;
-        color: $grey-dk-000;
+        color: $grey-dark-000;
         content: counter(step-counter);
         counter-increment: step-counter;
         @include fs-3;
@@ -76,19 +72,13 @@
       &::before {
         position: absolute;
         margin-left: -1.4em;
-        color: $grey-dk-000;
+        color: $grey-dark-000;
         content: "•";
       }
     }
   }
 
-  .task-list {
-    padding-left: 0;
-  }
-
   .task-list-item {
-    display: flex;
-    align-items: center;
 
     &::before {
       content: "";
@@ -97,6 +87,7 @@
 
   .task-list-item-checkbox {
     margin-right: 0.6em;
+    margin-left: -1.4em;
   }
 
   hr + * {
@@ -121,6 +112,7 @@
     grid-column: 1;
     font-weight: 500;
     text-align: right;
+
     &::after {
       content: ":";
     }
@@ -130,6 +122,7 @@
     grid-column: 2;
     margin-bottom: 0;
     margin-left: 1em;
+
     blockquote,
     div,
     dl,
@@ -188,6 +181,7 @@
   }
 
   .anchor-heading:hover,
+  .anchor-heading:focus,
   h1:hover > .anchor-heading,
   h2:hover > .anchor-heading,
   h3:hover > .anchor-heading,
@@ -208,19 +202,17 @@
   h3,
   h4,
   h5,
-  h6 {
+  h6,
+  #toctitle {
     position: relative;
     margin-top: 1.5em;
     margin-bottom: 0.25em;
 
-    &:first-child {
-      margin-top: $sp-2;
-    }
-
     + table,
     + .table-wrapper,
     + .code-example,
-    + .highlighter-rouge {
+    + .highlighter-rouge,
+    + .sectionbody .listingblock {
       margin-top: 1em;
     }
 
@@ -228,4 +220,34 @@
       margin-top: 0;
     }
   }
+}
+
+// Skipnav
+// Skip to main content
+a.skip-to-main {
+  left: -999px;
+  position: absolute;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  z-index: -999;
+}
+
+a.skip-to-main:focus,
+a.skip-to-main:active {
+  color: $link-color;
+  background-color: $body-background-color;
+  left: auto;
+  top: auto;
+  width: 30%;
+  height: auto;
+  overflow: auto;
+  margin: 10px 35%;
+  padding: 5px;
+  border-radius: 15px;
+  border: 4px solid $btn-primary-color;
+  text-align: center;
+  font-size: 1.2em;
+  z-index: 999;
 }

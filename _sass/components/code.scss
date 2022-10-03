@@ -1,6 +1,4 @@
-//
 // Code and syntax highlighting
-//
 // stylelint-disable selector-no-qualifying-type, declaration-block-semicolon-newline-after,declaration-block-single-line-max-declarations, selector-no-type, selector-max-type
 
 code {
@@ -44,7 +42,8 @@ a:visited code {
 // Kramdown line_numbers = true: fences have a wider gutter than with Liquid?
 
 // ```[LANG]...```
-div.highlighter-rouge {
+div.highlighter-rouge,
+div.listingblock > div.content {
   padding: $sp-3;
   margin-top: 0;
   margin-bottom: $sp-3;
@@ -69,6 +68,7 @@ figure.highlight {
   padding: $sp-3;
   margin-top: 0;
   margin-bottom: $sp-3;
+  overflow-x: auto;
   background-color: $code-background-color;
   border-radius: $border-radius;
   box-shadow: none;
@@ -93,6 +93,7 @@ figure.highlight {
   td,
   pre {
     @include fs-2;
+
     min-width: 0;
     padding: 0;
     background-color: $code-background-color;
@@ -108,6 +109,7 @@ figure.highlight {
     line-height: 2;
   }
 }
+
 
 .highlight .c {
   color: #586e75;
@@ -314,13 +316,11 @@ figure.highlight {
 } // name.variable.instance //
 .highlight .il {
   color: #2aa198;
-} // literal.number.integer.long //
+} //
 
-//
 // Code examples (rendered)
-//
-
-.code-example {
+.code-example,
+.listingblock > .title {
   padding: $sp-3;
   margin-bottom: $sp-3;
   overflow: auto;
@@ -328,6 +328,8 @@ figure.highlight {
   border-radius: $border-radius;
 
   + .highlighter-rouge,
+  + .sectionbody .listingblock,
+  + .content,
   + figure.highlight {
     position: relative;
     margin-top: -$sp-4;

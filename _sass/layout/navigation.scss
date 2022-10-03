@@ -1,6 +1,4 @@
-//
 // Main nav, breadcrumb, etc...
-//
 // stylelint-disable selector-no-type, max-nesting-depth, selector-max-compound-selectors, selector-max-type, selector-max-specificity
 
 .nav-list {
@@ -10,12 +8,13 @@
   list-style: none;
 
   .nav-list-item {
-    @include fs-4;
+    @include fs-5;
+
     position: relative;
     margin: 0;
 
     @include mq(md) {
-      @include fs-3;
+      @include fs-4;
     }
 
     .nav-list-link {
@@ -65,6 +64,7 @@
       @if $nav-list-expander-right {
         right: 0;
       }
+
       width: $nav-list-item-height-sm;
       height: $nav-list-item-height-sm;
       padding-top: #{$nav-list-item-height-sm / 4};
@@ -137,7 +137,7 @@
   padding-bottom: $sp-2;
   padding-left: $gutter-spacing-sm;
   font-weight: 600;
-  text-align: end;
+  text-align: start;
   text-transform: uppercase;
   border-bottom: $border $border-color;
   @include fs-2;
@@ -154,8 +154,28 @@
   }
 }
 
-// Aux nav
+.nav-list.nav-category-list {
+  > .nav-list-item {
+    margin: 0;
 
+    > .nav-list {
+      padding: 0;
+
+      > .nav-list-item {
+        > .nav-list-link {
+          color: $link-color;
+        }
+
+        > .nav-list-expander {
+          color: $link-color;
+        }
+      }
+    }
+  }
+}
+
+
+// Aux nav
 .aux-nav {
   height: 100%;
   overflow-x: auto;
@@ -207,7 +227,7 @@
     display: inline-block;
     margin-right: $sp-2;
     margin-left: $sp-2;
-    color: $grey-dk-000;
+    color: $grey-dark-000;
     content: "/";
   }
 

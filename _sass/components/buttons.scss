@@ -1,6 +1,4 @@
-//
 // Buttons and things that look like buttons
-//
 // stylelint-disable color-named
 
 .btn {
@@ -77,7 +75,7 @@
 .btn-outline {
   color: $link-color;
   background: transparent;
-  box-shadow: inset 0 0 0 2px $grey-lt-300;
+  box-shadow: inset 0 0 0 2px $grey-light-300;
 
   &:hover,
   &:active,
@@ -86,33 +84,27 @@
     color: darken($link-color, 4%);
     text-decoration: none;
     background-color: transparent;
-    box-shadow: inset 0 0 0 3px $grey-lt-300;
+    box-shadow: inset 0 0 0 3px $grey-light-300;
   }
 
   &:focus {
     text-decoration: none;
     outline: none;
-    box-shadow: inset 0 0 0 2px $grey-dk-100, 0 0 0 3px rgba(blue, 0.25);
+    box-shadow: inset 0 0 0 2px $grey-dark-100, 0 0 0 3px rgba(blue, 0.25);
   }
 
   &:focus:hover,
   &.selected:focus {
-    box-shadow: inset 0 0 0 2px $grey-dk-100;
+    box-shadow: inset 0 0 0 2px $grey-dark-100;
   }
 }
 
 .btn-primary {
   @include btn-color($white, $btn-primary-color);
 }
-
-.btn-purple {
-  @include btn-color($white, #5720a5);
-}
-
 .btn-blue {
   @include btn-color($white, #44c3ff);
 }
-
 .btn-green {
   @include btn-color($white, #04ac04);
 }
@@ -137,4 +129,3 @@
 .btn-purple {
   @include btn-color($white, #621fa5);
 }
-
