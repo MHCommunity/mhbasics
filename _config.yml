@@ -1,7 +1,28 @@
 title: Mousehunt Guide
 
 permalink: pretty
-exclude: ["node_modules/", ".gitignore", ".prettierrc", ".prettierignore", ".stylelintrc.json", "docker-compose.yml", "Dockerfile", "Gemfile", "Gemfile.lock", "LICENSE.md", "mhbasics.gemspec", "package.json", "package-lock.json", "Rakefile", "Template.md"]
+exclude: [
+  ".github/",
+  ".devcontainer/",
+  ".vscode/",
+  "node_modules/",
+  ".gitignore",
+  ".prettierignore",
+  ".prettierrc",
+  ".stylelintrc.json",
+  "CONTRIBUTING.md",
+  "docker-compose.yml",
+  "Dockerfile",
+  "Gemfile",
+  "Gemfile.lock",
+  "guide.gemspec",
+  "LICENSE.md",
+  "package.json",
+  "package-lock.json",
+  "Rakefile",
+  "README.md",
+  "Template.md"
+]
 
 include:
  - _pages
@@ -13,7 +34,7 @@ search_enabled: true
 search:
   # split pages into sections that can be searched individually
   # supports 1 - 6, default: 2
-  heading_level: 2
+  heading_level: 3
   # maximum amount of previews per search result
   # default: 3
   previews: 3
@@ -56,3 +77,20 @@ back_to_top_text: "back to top"
 
 # color scheme supports "light" (default) and "dark"
 color_scheme: dark
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
