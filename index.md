@@ -34,4 +34,4 @@ This guide was inspired by [Mousehunt Basics](https://mousehuntbasics.wordpress.
 ## Disclaimer
 
 This is a guide for the game MouseHunt. The words wouldn’t make sense if you don’t play the game.
-All MouseHunt images included here are the properties  of [HitGrab Inc](https://hitgrab.com/).
+All MouseHunt images included here are the properties of [HitGrab Inc](https://hitgrab.com/).
