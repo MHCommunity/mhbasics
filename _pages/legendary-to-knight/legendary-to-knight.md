@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Legendary to Knight
-nav_order: 40
+nav_order: 4
 has_children: true
 permalink: /legendary-to-knight
 ---
