@@ -5,7 +5,7 @@ parent: Lord/Lady to Baron/Baronness
 nav_order: 1
 ---
 
-<img src="https://www.mousehuntgame.com/images/environments/7829f3af239544f2ceb3a4bbddfa60ce.jpg" alt="Seasonal Garden's Summer Banner">
+<img src="/assets/images/banners/bannerSG.jpg" alt="Seasonal Garden's Summer Banner">
 
 # Lord/Lady
 {: .fs-9 }
@@ -89,7 +89,7 @@ Buy Technic Pawn Pincher and Mystic Pawn Pincher (300,000 gold each) from Season
 
 Travel to Zugzwang’s Tower once you have Zugzwang's Tower Key and the Pinchers.
 
-<img src="https://www.mousehuntgame.com/images/environments/7d8ec7b21f3761cd81c8385f62d294df.jpg" alt="Zugzwang's Tower's Banner">
+<img src="/assets/images/banners/bannerZT.jpg" alt="Zugzwang's Tower's Banner">
 
 ## Zugzwang's Tower
 {: .fs-5 .fw-300 }
@@ -139,7 +139,7 @@ If you are unable to catch a king, repeat the cycle of fully charging Tower Ampl
 
 Claim the adventure Capture the Mystic and Technic Kings and now you have unlocked the Fiery Warpath.
 
-<img src="https://www.mousehuntgame.com/images/environments/3e8eb4494fdac0c3338219b64e1dbfc5.jpg" alt="Slushy Shoreline's Banner">
+<img src="/assets/images/banners/bannerSlushy.jpg" alt="Slushy Shoreline's Banner">
 
 ## Slushy Shoreline
 {: .fs-5 .fw-300 }
@@ -163,7 +163,7 @@ Buy the Steam Laser MK. I from the Trapsmith costing 345,000 gold along with the
 
 Head over to Iceberg once you have the Steam Laser MK. I.
 
-<img src="https://www.mousehuntgame.com/images/environments/4ff3e4717538b76cc1ec3f67ab8bd149.jpg" alt="Iceberg's Banner">
+<img src="/assets/images/banners/bannerIB.jpg" alt="Iceberg's Banner">
 
 ## Iceberg
 {: .fs-5 .fw-300 }
@@ -244,7 +244,7 @@ Second Run
 
 Recommended Extra Runs?
 
-<img src="https://www.mousehuntgame.com/images/environments/b79693a6e67a1f5c7f268b3ceb9de8cf.jpg" alt="Claw Shot City's Banner">
+<img src="/assets/images/banners/bannerCSC.jpg" alt="Claw Shot City's Banner">
 
 ## Claw Shot City
 {: .fs-5 .fw-300 }
