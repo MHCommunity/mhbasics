@@ -63,7 +63,7 @@ The Steam Laser Mk. III can be purchased from the Trapsmith in the Slushy Shorel
 
 ### General Info and trivia
 The Steam Lasers are a range of weapons that can be acquired by doing the Iceberg adventure. They can help out a little in the Seasonal Garden, after which they could come in handy up untill a hunter picks up the Queso Fount Trap (or the School of Sharks). Depending on routing, this can include the Fiery Warpath's mages, the Living Garden, the Fungal Cavern and the Sunken City.
-The most important thing to note about this line is that the final upgrade is **fully optional**. The whole Steam Laser line has a stat boost in the Iceberg, but the weapons' stats pre-boost remain the same between mkII and mkIII. If your plan is to get out as soon as possible, finishing that second iceberg run can be postponed. In a conventional route, however, this happening is quite unlikely because Lord as a rank is quite long, and you might just need the Iceberg to rank up.
+The most important thing to note about this line is that the final upgrade is **fully optional**. The whole Steam Laser line has a stat boost in the Iceberg, but the weapons' stats pre-boost remain the same between mkII and mkIII. If your plan is to get out as soon as possible, finishing that second iceberg run can be postponed. In a conventional route, however, this happening is quite unlikely because Lord/Lady as a rank is quite long, and you might just need the Iceberg to rank up.
 
 ### Alternatives
 Because of where the Lasers are located in the game, there aren't really any interesting alternatives. As weapons, they are surprisingly optional if you manage to skip the entire Iceberg and rank up fast enough, assuming you rush towards the Queso Fount Trap next.

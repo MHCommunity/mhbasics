@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lord to Baron/Baronness
+title: Lord/Lady to Baron/Baronness
 nav_order: 50
 has_children: true
 permalink: /lord-to-baron

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lord/Lady
-parent: Lord to Baron/Baronness
+parent: Lord/Lady to Baron/Baronness
 nav_order: 1
 ---
 
