@@ -5,7 +5,7 @@ parent: Novice to Grandmaster
 nav_order: 3
 ---
 
- <img src="https://www.mousehuntgame.com/images/environments/18298644393b7a4d062bed498f03aeca.jpg" alt="Windmill's Banner">
+ <img src="/assets/images/banners/bannerWindmill.jpg" alt="Windmill's Banner">
 
 # Apprentice
 {: .fs-9 }

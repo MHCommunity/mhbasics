@@ -5,7 +5,7 @@ parent: Novice to Grandmaster
 nav_order: 6
 ---
 
- <img src="https://www.mousehuntgame.com/images/environments/bcc9ef0f15b292e08d04715f6b4dc750.jpg" alt="Laboratory's Banner">
+ <img src="/assets/images/banners/bannerLabo.jpg" alt="Laboratory's Banner">
 
 # Master
 {: .fs-9 }
@@ -32,7 +32,7 @@ Scientist’s Charm increases quantity of Radioactive Blue Potions per hunt but 
 
 Travel to Mousoleum when you have at least 80 Radioactive Blue Cheese.
 
- <img src="https://www.mousehuntgame.com/images/environments/508a63db4778fd235f4721e2646126f8.jpg" alt="Mousoleum's Banner">
+ <img src="/assets/images/banners/bannerMoz.jpg" alt="Mousoleum's Banner">
 
 ## Mousoleum
 
@@ -73,7 +73,7 @@ You may continue the cycle to earn a lot of gold. This will be the best way to e
 
 Travel to Calm Clearing once you have at least 300,000 gold.
 
-<img src="https://www.mousehuntgame.com/images/environments/e310e54e7de5501d7a82b5d20202b387.jpg" alt="Calm Clearing's Banner">
+<img src="/assets/images/banners/bannerCC.jpg" alt="Calm Clearing's Banner">
 
 ## Calm Clearing
 
@@ -92,7 +92,7 @@ Claim the adventure Survey the Calm Clearing.
 
 Travel to Great Gnarled Trea now.
 
-<img src="https://www.mousehuntgame.com/images/environments/e332e7ab3913409e331ce750ce45ba70.jpg" alt="Great Gnarled Tree's Banner">
+<img src="/assets/images/banners/bannerGGT.jpg" alt="Great Gnarled Tree's Banner">
 
 ## Great Gnarled Tree
 

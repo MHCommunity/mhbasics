@@ -5,7 +5,7 @@ parent: Legendary to Knight
 nav_order: 3
 ---
 
-<img src="https://www.mousehuntgame.com/images/environments/7b223d1176016fbf2a6f362d9d86371c.jpg" alt="Dracano's Banner">
+<img src="/assets/images/banners/bannerDracano.jpg" alt="Dracano's Banner">
 
 # Knight
 {: .fs-9 }

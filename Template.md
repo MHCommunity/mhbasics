@@ -24,7 +24,7 @@ sunkencity.md | Guide for Sunken City
 -->
 
 [//]: # (Image of the location taken from MHWiki [referably mousehuntgame.com links])
-<img src="https://www.mousehuntgame.com/images/environments/18298644393b7a4d062bed498f03aeca.jpg" alt="Windmill's Banner">
+<img src="/assets/images/banners/bannerWindmill.jpg" alt="Windmill's Banner">
 
 [//]: # (Rank Name) 
 # Apprentice 
