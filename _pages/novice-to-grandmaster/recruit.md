@@ -5,7 +5,7 @@ parent: Novice to Grandmaster
 nav_order: 2
 ---
 
- <img src="https://www.mousehuntgame.com/images/environments/4f61abe7975e99a3c780c5fd895dc07c_v2.jpg" alt="ToG's Banner">
+ <img src="/assets/images/banners/bannerTOGv2.jpg" alt="ToG's Banner">
 
 # Recruit
 {: .fs-9 }

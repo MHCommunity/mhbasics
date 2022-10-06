@@ -5,7 +5,7 @@ parent: Legendary to Knight
 nav_order: 1
 ---
 
-<img src="https://www.mousehuntgame.com/images/environments/0d758141f6bcbe0a231985c578714538.jpg" alt="S.S. Huntington IV's Banner">
+<img src="/assets/images/banners/bannerShip.jpg" alt="S.S. Huntington IV's Banner">
 
 # Legendary
 {: .fs-9 }
@@ -32,7 +32,7 @@ Craft Ocean Navigation Kit with 1 Compass, 1 Sextant and 1 Telescope.
 
 Claim the adventure Navigate the Rodentia Ocean once you have crafted Ocean Navigation Kit.Travel to Cape Clawed once you have obtained Ocean Navigation Kit.
 
-<img src="https://www.mousehuntgame.com/images/environments/0d758141f6bcbe0a231985c578714538.jpg" alt="S.S. Huntington IV's Banner">
+<img src="/assets/images/banners/bannerShip.jpg" alt="S.S. Huntington IV's Banner">
 
 ## Cape Clawed
 {: .fs-5 .fw-300 }
@@ -65,7 +65,7 @@ King's Credit| You can buy some Crates of Seashells in King’s Cart.
 When you have 30 Seashells, craft 15 Shell Cheese. The 20-piece recipe is not worth its cost.
 Loot 1 Ancient Spear from Elder Mouse with Shell Cheese in Cape Clawed. It’s not a guaranteed attraction.
 
-<img src="https://www.mousehuntgame.com/images/environments/6c151158dde393e87804b6266a5ef1c6.jpg" alt="Nerg Plains' Banner">
+<img src="/assets/images/banners/bannerNerg.jpg" alt="Nerg Plains' Banner">
 
 ## Nerg Plains
 {: .fs-5 .fw-300 }
@@ -79,7 +79,7 @@ Once you have at least 550,000 gold, smash Mutated Venus Mouse Trap into Venus M
 
 Use the new Horrific Venus Mouse Trap in Nerg Plains to farm gold and Yellow Pepper Seeds.
 
-<img src="https://www.mousehuntgame.com/images/environments/0f0964cc5604c1894da6e2e67a6c3820.jpg" alt="Derr Dunes' Banner">
+<img src="/assets/images/banners/bannerDerr.jpg" alt="Derr Dunes' Banner">
 
 ## Derr Dunes
 {: .fs-5 .fw-300 }
@@ -93,7 +93,7 @@ Once you have at least 940,000 gold, arm another weapon and smash Digby DrillBot
 
 Use the new RhinoBot Trap in Derr Dunes to farm gold and Red Pepper Seeds.
 
-<img src="https://www.mousehuntgame.com/images/environments/0f0964cc5604c1894da6e2e67a6c3820.jpg" alt="Derr Dunes' Banner">
+<img src="/assets/images/banners/bannerElub.jpg" alt="Elub Shore's Banner">
 
 ## Elub Shore
 {: .fs-5 .fw-300 }
