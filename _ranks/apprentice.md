@@ -1,11 +1,10 @@
 ---
 layout: default
 title: Apprentice
-parent: Novice to Grandmaster
-nav_order: 3
+nav_order: 300
+permalink: /apprentice
 ---
-
- <img src="/assets/images/banners/bannerWindmill.jpg" alt="Windmill's Banner">
+{% include banner.html src="banners/windmill.jpg" alt="Windmill Banner" %}
 
 # Apprentice
 {: .fs-9 }
@@ -27,4 +26,4 @@ Trade in Packets of Flour for Grilled Cheese. Arm Grilled Cheese to attract Capt
 If you miss Captain Croissant, switch back to Swiss Cheese. Repeat the cycle until you catch Captain Croissant Mouse.
 
 Claim the adventure Repair the Windmill after you have caught Captain Croissant Mouse.
-Travel to Harbour once you rank up to [Initiate](/novice-to-grandmaster/initiate).
+Travel to Harbour once you rank up to [Initiate](/initiate).

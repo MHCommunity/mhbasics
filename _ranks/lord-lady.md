@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Lord/Lady
-parent: Lord/Lady to Baron/Baronness
-nav_order: 1
+title: Lord / Lady
+nav_order: 1000
+permalink: /lord-lady
 ---
-
-<img src="/assets/images/banners/bannerSG.jpg" alt="Seasonal Garden's Summer Banner">
+{% include banner.html src="banners/seasonal-garden.jpg" alt="Seasonal Garden Banner" %}
 
 # Lord/Lady
 {: .fs-9 }
@@ -33,7 +32,7 @@ Note: A higher charge of the Hunter's Tower Amplifier will lead to a increased s
 
 Seasonal Garden has 4 Seasons: Spring, Summer, Fall and Winter. Each season lasts for 80 hours with completely different mice. You will have to go through each season at least once to get each of the 4 Tower Key Shards. These are guarded by the toughest mice of each season. Once you have obtained all the Key Shards, craft them into the Key to Zugwang’s Tower.
 
-Mice in each season are best caught with a specific Power Type but also have secondary weakness to Tactical weapons. Therefore, you can switch to a Tactical set-up if you are unable to promptly change your set-up when season changes. 
+Mice in each season are best caught with a specific Power Type but also have secondary weakness to Tactical weapons. Therefore, you can switch to a Tactical set-up if you are unable to promptly change your set-up when season changes.
 
 Spring
 <ul>
@@ -101,7 +100,7 @@ A Tactical weapon is required to catch all mice in Zugzwang’s Tower. The mecha
 
 Zugzwang’s Tower is a chess-themed area with two groups of mice, Technic and Mystic. You have to catch mice of each group in order: 8 Pawns → 2 Knights → 2 Bishops → 2 Rooks → 1 Queen → 1 King
 
-Initially, only Pawn Mice from both sides (Mystic & Technic) are available. Catching 8 Pawns of the same group unlocks its Knights. Catching 2 Knights of the same group unlocks its Bishops. This goes on until its King is unlocked. Note that even when higher pieces are unlocked, you can still attract lower pieces at a lower rate than before. For example, when Mystic Bishop Mouse is unlocked, you can attract Mystic Pawn Mouse, Mystic Knight Mouse and Mystic Bishop Mouse. 
+Initially, only Pawn Mice from both sides (Mystic & Technic) are available. Catching 8 Pawns of the same group unlocks its Knights. Catching 2 Knights of the same group unlocks its Bishops. This goes on until its King is unlocked. Note that even when higher pieces are unlocked, you can still attract lower pieces at a lower rate than before. For example, when Mystic Bishop Mouse is unlocked, you can attract Mystic Pawn Mouse, Mystic Knight Mouse and Mystic Bishop Mouse.
 
 Tower Amplifier directly affects Power and Luck of your set-up in Zugzwang’s Tower. Power may increase or decrease with Tower Amplifier while Luck may decrease with Tower Amplifier. This has two implications:
 <ul>
@@ -126,7 +125,7 @@ Continue until you have caught 2 Knights and 2 Bishops on Technic side i.e. Rook
 Continue until you have caught 2 Rooks and 1 Queen on one side i.e. King is unlocked. King is not too difficult to catch even at very low Tower Amplifier.
 <ul>
 <li>When Tower Amplifier is at least 80%, use Pawn Pincher of the side with unlocked King, Aqua Base and Gouda Cheese or SuperBrie+.</li>
-<li>When Tower Amplifier is below 80%, use your best Tactical weapon (Zugzwang’s First Move or Horrific Venus Mouse Trap), Fan Base and Gouda Cheese or SuperBrie+.</li> 
+<li>When Tower Amplifier is below 80%, use your best Tactical weapon (Zugzwang’s First Move or Horrific Venus Mouse Trap), Fan Base and Gouda Cheese or SuperBrie+.</li>
 </ul>
 
 Technic King Mouse and Mystic King Mouse are highly sought after in Treasure Hunting. If you are not against the monetization of aspects of mapping, you should offer to snipe the King for a sizeable bounty (note that ongoing prices can fluctuate) on MouseHunt Discord or dedicated mapping groups like Mapmeisters.
@@ -193,7 +192,7 @@ The third zone is Bombing Run, with a depth of 1000 feet. Bomb Squad is present 
 
 The final zone is The Mad Depths, with a depth of 200 feet. Zealot is present here. It is fairly difficult to catch and doesn’t move you forward when caught. Thus, this is considered the most difficult zone.
 
-After finishing The Mad Depths and catching the last General, you would be at Icewing’s Lair. 
+After finishing The Mad Depths and catching the last General, you would be at Icewing’s Lair.
 
 First Run
 <ul>

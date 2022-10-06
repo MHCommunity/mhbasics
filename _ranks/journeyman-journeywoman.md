@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Journeyman
-parent: Novice to Grandmaster
-nav_order: 5
+title: Journeyman / Journeywoman
+nav_order: 500
+permalink: /journeyman-journeywoman
 ---
-
- <img src="/assets/images/banners/bannerMountain.jpg" alt="Mountain's Banner">
+{% include banner.html src="banners/mountain.jpg" alt="Mountain Banner" %}
 
 # Journeyman
 {: .fs-9 }

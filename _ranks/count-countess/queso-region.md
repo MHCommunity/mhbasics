@@ -3,9 +3,9 @@ layout: default
 title: Queso Region
 nav_order: 1
 parent: Count/Countess
+permalink: /count-countess/queso-region
 ---
-
-<img src="/assets/images/banners/bannerQueso.jpg" alt="Queso River's Banner"> 
+{% include banner.html src="banners/queso-river.jpg" alt="Queso River Banner" %}
 
 # Count
 {: .fs-9 }
@@ -143,7 +143,7 @@ Recommended Charms:
 
 You collect Cork Barks in the Cork Collecting stage, which will be used in every Eruption you attempt. Cork is pushed into the Geyser, allowing pressure to be built up, which eventually results in an eruption. If you leeched a couple of RQCGT, you should have sufficient Cork Barks to begin the Eruption stages. The higher tiered Queso used here will give you more Cork Barks per hunt, however it is not recommended to hunt with anything higher than Medium Queso due to how difficult it is to obtain higher tiered cheese.
 
-Small Eruption - 
+Small Eruption -
 <ul>
 <li>Construct Small Cork - Cost 10 Cork Barks.</li>
 <li>Enter Pressure Building Stage - Raise Pressure to 35 kPa.</li>
@@ -197,7 +197,7 @@ Epic Eruption (Read further down first) -
 <li>Please use a Magic Nest Dust (MND) here.</li>
 </ul>
 
-You would usually clear the entire Epic Eruption, however on your first run, leave the the area after you caught your first Kalor. Then claim the adventure Slay the Geyser Dragon. You will come back and finish the rest of the Epic Eruption when you have better traps in the future. 
+You would usually clear the entire Epic Eruption, however on your first run, leave the the area after you caught your first Kalor. Then claim the adventure Slay the Geyser Dragon. You will come back and finish the rest of the Epic Eruption when you have better traps in the future.
 
 Traps in Queso Geyser:
 <ul>

@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Archduke/Archduchess
-nav_order: 80
-has_children: true
-permalink: /archduke
+title: Duke/Duchess
+nav_order: 1300
+permalink: /duke-duchess
 ---
 
 ## Chapter x

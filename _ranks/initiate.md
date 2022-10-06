@@ -1,11 +1,10 @@
 ---
 layout: default
 title: Initiate
-parent: Novice to Grandmaster
-nav_order: 4
+nav_order: 400
+permalink: /initiate
 ---
-
- <img src="https://ic.pics.livejournal.com/camomiletea/1321849/142788/142788_original.jpg" alt="Harbour's Banner">
+{% include banner.html src="banners/harbour.jpg" alt="Harbour Banner" %}
 
 # Initiate
 {: .fs-9 }

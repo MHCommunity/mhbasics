@@ -1,6 +1,5 @@
 title: Mousehunt Guide
 
-permalink: pretty
 exclude: [
   ".github/",
   ".devcontainer/",
@@ -24,8 +23,26 @@ exclude: [
   "Template.md"
 ]
 
-include:
- - _pages
+collections:
+  pages:
+    output: true
+    permalink: /:title/
+  ranks:
+    output: true
+    permalink: /:title/
+
+just_the_docs:
+  collections:
+    ranks:
+      name: Guide for Ranks
+      nav_fold: true
+      nav_order: 1
+    pages:
+      name: Other Links
+      nav_fold: true
+      nav_order: 2
+
+
 
 # enable or disable the site search
 # supports true (default) or false

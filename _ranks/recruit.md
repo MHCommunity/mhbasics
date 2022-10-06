@@ -1,11 +1,9 @@
 ---
 layout: default
 title: Recruit
-parent: Novice to Grandmaster
-nav_order: 2
+nav_order: 200
 ---
-
- <img src="/assets/images/banners/bannerTOGv2.jpg" alt="ToG's Banner">
+{% include banner.html src="banners/town-of-gnawnia.jpg" alt="Town of Gnawnia Banner" %}
 
 # Recruit
 {: .fs-9 }
@@ -34,4 +32,4 @@ Remember to click Claim Reward to receive the bounty. You will not progress your
 Note that you can sell excess cheese purchased/looted to the Cheese Shoppe without losing gold.
 Claim the adventure Secure the Town of Gnawnia once you have claimed all bounties.
 Continue hunting in Town of Gnawnia with Swiss Cheese.
-Travel to Windmill once you rank up to [Apprentice](/novice-to-grandmaster/apprentice)
+Travel to Windmill once you rank up to [Apprentice](/apprentice).

@@ -1,11 +1,10 @@
 ---
 layout: default
 title: Grandmaster
-parent: Novice to Grandmaster
-nav_order: 7
+nav_order: 700
+permalink: /grandmaster
 ---
-
- <img src="/assets/images/banners/bannerTG.jpg" alt="Training Ground's Banner">
+{% include banner.html src="banners/training-grounds.jpg" alt="Training Groud Banner" %}
 
 # Grandmaster
 {: .fs-9 }
@@ -25,7 +24,7 @@ Catch Archer Mouse until you loot Ticket to the Burroughs Bazaar.
 
 Claim the adventure Take an Archery Lesson at the Training Grounds once you obtain Ticket to the Burroughs Bazaar.
 
-<img src="/assets/images/banners/bannerBazaar.jpg" alt="Bazaar's Banner">
+{% include banner.html src="banners/bazaar.jpg" alt="Bazaar Banner" %}
 
 ## Bazaar
 
@@ -40,7 +39,7 @@ Purchase Stitched Furoma Map Piece from Bazaar Cartographer. It’s an expensive
 
 Travel to Dojo once you have done the purchases.
 
-<img src="/assets/images/banners/bannerDojo.jpg" alt="Dojo's Banner">
+{% include banner.html src="banners/dojo.jpg" alt="Dojo Banner" %}
 
 ## Dojo
 
@@ -63,7 +62,7 @@ King's Credit|A much faster way to obtain the tokens is to buy 1 Cheese Belt Tok
 
 Travel to Meditation Room once you have at least 6 of each token.
 
-<img src="/assets/images/banners/bannerMeditationRoom.jpg" alt="Meditation Room's Banner">
+{% include banner.html src="banners/meditation-room.jpg" alt="Meditation Room Banner" %}
 
 ## Meditation Room
 
@@ -92,7 +91,7 @@ Buy Ambush Trap from the Trapsmith.
 
 Again, Mousoleum and Laboratory are your best friends if you need more gold.
 
-<img src="/assets/images/banners/bannerPinCham.jpg" alt="Pinnacle Chamber's Banner">
+{% include banner.html src="banners/pinnacle-chamber.jpg" alt="Pinnacle Chamber Banner" %}
 
 ## Pinnacle Chamber
 
@@ -121,7 +120,7 @@ Now get 55 Brie Cheese from Great Gnarled Tree Cheese Shoppe and convert Brie Ch
 
 Travel to Lagoon after you get at least 50 Gnarled Cheese.
 
-<img src="/assets/images/banners/bannerLagoon.jpg" alt="Lagoon's Banner">
+{% include banner.html src="banners/lagoon.jpg" alt="Lagoon Banner" %}
 
 ## Lagoon
 

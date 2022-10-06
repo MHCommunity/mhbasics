@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Baron/Baronness
-parent: Lord/Lady to Baron/Baronness
-nav_order: 2
+title: Baron / Baronness
+nav_order: 1100
+permalink: /baron-baroness
 ---
-
-<img src="/assets/images/banners/bannerFrox.jpg" alt="Fort Rox's Banner">
+{% include banner.html src="banners/fort-rox.jpg" alt="Fort Rox Banner" %}
 
 # Baron
 {: .fs-9 }
@@ -64,7 +63,7 @@ Continue entering Night for Howlite and Bloodstone and get the following upgrade
 Once you get Wall Upgrade #3, you should be able to occasionally last through Night and reach Dawn.
 When you can consistently reach Dawn, you can opt to start a Fort Rox Treasure Map. It is fairly easy to complete and its slots can be sold on MouseHunt Discord if you wish. It is usually recommended to use Rare Map Dust on the map.
 
-Its chest is the major source of Fort Rox Portal Console or Fort Rox Portal Core, which can be sold on Marketplace or used to purchase Fort Rox Portal Projector. 
+Its chest is the major source of Fort Rox Portal Console or Fort Rox Portal Core, which can be sold on Marketplace or used to purchase Fort Rox Portal Projector.
 
 Dawn, the final stage.
 
@@ -91,7 +90,7 @@ Only use the portal when you have enough gold to buy 10 Sunrise Cheese from the 
 
 Travel to Fiery Warpath once you are done with Fort Rox.
 
-<img src="/assets/images/banners/bannerFW.jpg" alt="Fiery Warpath's Banner">
+{% include banner.html src="banners/fiery-warpath.jpg" alt="Fiery Warpath" %}
 
 ## Fiery Warpath
 {: .fs-5 .fw-300 }
@@ -130,8 +129,8 @@ Tips:
 <ul>
 <li>Use (Empowered) SuperBrie+ to avoid Fail to Attracts (FTA),</li>
 <li>Buy the (Super) Variant Charms from the Charm Shoppe to assist in streaking,</li>
-<li>Use (Super) Warpath's Commander Charms to clear the Wave faster.</li> 
-</ul> 
+<li>Use (Super) Warpath's Commander Charms to clear the Wave faster.</li>
+</ul>
 
 Leaving the Warpath by traveling somewhere else will NOT reset your progress, even Streaks will remain untouched and waiting for you when you return.
 
@@ -193,7 +192,7 @@ Advice on what to do with your first loot from Warmonger:
 
 Travel to Muridae Market after catching Warmonger Mouse.
 
-<img src="/assets/images/banners/bannerBurntMM.jpg" alt="Muridae Market's (Pre-Shop) Banner">
+{% include banner.html src="banners/burnt-muridae-market.jpg" alt="Burnt Muridae Market" %}
 
 ## Muridae Market
 {: .fs-5 .fw-300 }
@@ -229,7 +228,7 @@ You do not have to repair all the shop for progression but you can if you want t
 
 Once you have gotten all the Map Pieces, head over to Living Garden to embark on a scenic route.
 
-<img src="/assets/images/banners/bannerLG.jpg" alt="Living Garden's Banner">
+{% include banner.html src="banners/living-garden.jpg" alt="Living Garden" %}
 
 Living Garden "Complex" consists of 3 areas:
 <ul>

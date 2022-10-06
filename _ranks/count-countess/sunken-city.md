@@ -3,9 +3,9 @@ layout: default
 title: Sunken City
 nav_order: 3
 parent: Count/Countess
+permalink: /count-countess/sunken-city
 ---
-
-<img src="/assets/images/banners/bannerSC.jpg" alt="Sunken City's Docked Banner"> 
+{% include banner.html src="banners/sunken-city.jpg" alt="Sunken City Banner" %}
 
 # Count
 {: .fs-9 }
@@ -18,7 +18,7 @@ Dive into the depths of the Rodentia Ocean and explore this ancient underwater c
 
 ### Still Chapter 13 Somehow
 
-You've choosen the path not often choosen. Well done i guess. 
+You've choosen the path not often choosen. Well done i guess.
 
 Sunken City is split into 2 parts, the first is the Docked Stage, the second is the Dive.
 
@@ -32,6 +32,6 @@ Start diving and hunting as per normal to collect Materials for the Fishy Formag
 
 Collect 600-1000 Oxygen before diving again. You can choose to buy Smart Water Jet Charms from the Marketplace to speed up your progress but do take note it is very expensive. During your dives, you might encounter Treasury Zones (Dark Yellow Dot), consider using (Golden) Anchor Charms in Sand Dollar Sea Bar, Pearl Patch and Sunken Treasure.
 
-Once you crossed 10,000 metres, look out for the Monster Trench (MT) and the Lair of the Ancients (Lota). Use Empowered Anchor Charm in MT and it is recommended you get Ultimate Anchor Charm in Lota. Claim the adventure Explore the Sunken City when you caught your first Tritus Mouse. 
+Once you crossed 10,000 metres, look out for the Monster Trench (MT) and the Lair of the Ancients (Lota). Use Empowered Anchor Charm in MT and it is recommended you get Ultimate Anchor Charm in Lota. Claim the adventure Explore the Sunken City when you caught your first Tritus Mouse.
 
 You can continue your dive, looking for more Sunken Treasure to get more Sand Dollars for your Rune Shark and School of Shark afterwards but you could wait for events to get them easier (Great Winter Hunt and Spring Egg Hunt). It is recommended that you skip Tidal Base as a purchase.

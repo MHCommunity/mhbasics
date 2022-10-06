@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Viceroy +
-nav_order: 90
-has_children: true
+nav_order: 1600
 permalink: /viceroy
 ---
 

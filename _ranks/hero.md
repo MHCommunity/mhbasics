@@ -1,11 +1,10 @@
 ---
 layout: default
 title: Hero
-parent: Legendary to Knight
-nav_order: 2
+nav_order: 900
+permalink: /hero
 ---
-
-<img src="/assets/images/banners/bannerJOD.jpg" alt="Jungle of Dread's Banner"> 
+{% include banner.html src="banners/jungle-of-dread.jpg" alt="Jungle of Dread Banner" %}
 
 # Hero
 {: .fs-9 }
@@ -20,7 +19,7 @@ Named by the tribes, this dangerous jungle is home to some of the most terrifyin
 
 First of all, the Jungle is a Shadow area once more. You may recall how you‘ve been stoneworkhunting Shadow mice with an Arcane weapon, because your Shadow trap was not up to the task. Bad news: the mice of the Jungle don‘t have an Arcane weakness. It is absolutely vital that you go after them with a Shadow trap.
 
-There are some for sale in the store in the Tribal Isles. Which one you go for depends on your funds. Seeing as you don‘t need to be in the Jungle for longer than necessary in the beginning, you can try it out with [Bottomless Grave](/appendix/weapons-per-powertype/shadow/bg) if you don’t have anything better. You should also consider buying some Dreaded Charm from Marketplace. They tend to be fairly inexpensive and offers 300% Power Bonus against Jungle of Dread mice. 
+There are some for sale in the store in the Tribal Isles. Which one you go for depends on your funds. Seeing as you don‘t need to be in the Jungle for longer than necessary in the beginning, you can try it out with [Bottomless Grave](/appendix/weapons-per-powertype/shadow/bg) if you don’t have anything better. You should also consider buying some Dreaded Charm from Marketplace. They tend to be fairly inexpensive and offers 300% Power Bonus against Jungle of Dread mice.
 
 Once you’ve decided on a trap, the question is how to proceed for bait. When you go into the Jungle armed with Gouda or Brie you will only attract Swarms of Pygmy Mice and, once in a while, a Pygmy Wrangler Mouse if you‘re lucky. Both mice drop Vanilla Beans, but those are not a priority right now. You want to go after the terrifying Jungle Mice. There are 6 of those and you will need to catch at least one of each.
 
@@ -30,7 +29,7 @@ There are 6 types of Havarti Cheese are required to attract the 6 mice in Jungle
 
 Pick pepper from Pepper Plants to get at least 12 Pepper of each type. On average each Pepper Plant gives slightly fewer than 4 pepper. Craft more Pepper Plants if you don’t get enough Pepper. Pepper Plant recipes and type of Pepper picked are summarised in the picture above.
 
-Craft 2 batches of each of the 6 types of Havarti Cheese. Use your best Shadow weapon, Aqua Base, Dreaded Charm and Havarti Cheese. Each Havarti Cheese only attracts 1 mouse. They drop Fire Salt, Runic Potion and one type of trap loot respectively. 
+Craft 2 batches of each of the 6 types of Havarti Cheese. Use your best Shadow weapon, Aqua Base, Dreaded Charm and Havarti Cheese. Each Havarti Cheese only attracts 1 mouse. They drop Fire Salt, Runic Potion and one type of trap loot respectively.
 
 The list below shows you the crafting recipe for each cheese and their respective mouse. Each cheese must be crafted with 18 Curds & Whey and 6 Salt.
 
@@ -74,7 +73,7 @@ You now have all the required weapons to complete King’s Gauntlet. However, it
 
 Now you will head to ....
 
- <img src="/assets/images/banners/bannerCatacombs.jpg" alt="Catacombs' Banner"> 
+{% include banner.html src="banners/catacombs.jpg" alt="Catacombs Banner" %}
 
 ## Catacombs
 {: .fs-5 .fw-300 }
@@ -112,7 +111,7 @@ If you need more Stale Cheese, you have three options:
 
 Travel to the Forbidden Grove after you have ACRONYM and at least 100 Ancient Cheese.
 
-<img src="/assets/images/banners/bannerFG.jpg" alt="Forbidden Grove's Open Banner"> 
+{% include banner.html src="banners/forbidden-grove.jpg" alt="Forbidden Grove Banner" %}
 
 ## Forbidden Grove
 {: .fs-5 .fw-300 }
@@ -120,7 +119,7 @@ Travel to the Forbidden Grove after you have ACRONYM and at least 100 Ancient Ch
 At the end of the Catacombs, beyond heavy stone gates, lies a hidden hunting ground. Etched into the gates is a warning: "Beware young soul, should the stone gates close while within this grove, you will find yourself caught between realms."
 {: .fs-4 .fw-300 }
 
-Use Arcane Capturing Rod of Never Yielding Mystery, Aqua Base and Ancient Cheese to loot Rune. 
+Use Arcane Capturing Rod of Never Yielding Mystery, Aqua Base and Ancient Cheese to loot Rune.
 
 Obtain at least 30 Runic Cheese by:
 <ul>
@@ -132,7 +131,7 @@ Keep note of Forbidden Grove's opening and closing timing via [MouseHunt Timers]
 
 Once you have enough Runic Cheese, you will want to wait for Realm Ripper Mouse. Travel to the Grove when it is open, wait till the Grove is closed then use Radioactive Blue cheese to capture the Realm Ripper Mouse, teleporting you directly over to the Acolyte Realm.
 
- <img src="/assets/images/banners/bannerAcolyte.jpg" alt="Acolyte Realm's Banner"> 
+{% include banner.html src="banners/acolyte.jpg" alt="Acolyte Realm Banner" %}
 
 ## Acolyte Realm
 {: .fs-5 .fw-300 }
@@ -142,7 +141,7 @@ Years ago in Bristle Woods, a MouseHunter by the name of Plankrun opened a passa
 
 Use Ancient Box Trap, Aqua Base and Runic Cheese. Get some Charms to help increase your Catch Rate, Chrome Charms and the various Snowball Charms (Super and above) are advised due to their cheaper price. Pray for an easy time with Acolyte mouse.
 
-After catching the Acolyte mouse, firstly claim the adventure Capture the Acolyte Mouse then open the Mysterious Box he drops to obtain a Frozen Scroll. 
+After catching the Acolyte mouse, firstly claim the adventure Capture the Acolyte Mouse then open the Mysterious Box he drops to obtain a Frozen Scroll.
 
 If you still could not rank up to Knight, consider farming gold in the following locations:
 <ul>

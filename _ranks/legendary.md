@@ -1,11 +1,10 @@
 ---
 layout: default
 title: Legendary
-parent: Legendary to Knight
-nav_order: 1
+nav_order: 800
+permalink: /legendary
 ---
-
-<img src="/assets/images/banners/bannerShip.jpg" alt="S.S. Huntington IV's Banner">
+{% include banner.html src="banners/ss-huntington.jpg" alt="S. S. Huntington IV Banner" %}
 
 # Legendary
 {: .fs-9 }
@@ -32,7 +31,7 @@ Craft Ocean Navigation Kit with 1 Compass, 1 Sextant and 1 Telescope.
 
 Claim the adventure Navigate the Rodentia Ocean once you have crafted Ocean Navigation Kit.Travel to Cape Clawed once you have obtained Ocean Navigation Kit.
 
-<img src="/assets/images/banners/bannerShip.jpg" alt="S.S. Huntington IV's Banner">
+{% include banner.html src="banners/cape-clawed.jpg" alt="Cape Clawed Banner" %}
 
 ## Cape Clawed
 {: .fs-5 .fw-300 }
@@ -65,7 +64,7 @@ King's Credit| You can buy some Crates of Seashells in King’s Cart.
 When you have 30 Seashells, craft 15 Shell Cheese. The 20-piece recipe is not worth its cost.
 Loot 1 Ancient Spear from Elder Mouse with Shell Cheese in Cape Clawed. It’s not a guaranteed attraction.
 
-<img src="/assets/images/banners/bannerNerg.jpg" alt="Nerg Plains' Banner">
+{% include banner.html src="banners/nerg-plains.jpg" alt="Nerg Plains banner" %}
 
 ## Nerg Plains
 {: .fs-5 .fw-300 }
@@ -79,7 +78,7 @@ Once you have at least 550,000 gold, smash Mutated Venus Mouse Trap into Venus M
 
 Use the new Horrific Venus Mouse Trap in Nerg Plains to farm gold and Yellow Pepper Seeds.
 
-<img src="/assets/images/banners/bannerDerr.jpg" alt="Derr Dunes' Banner">
+{% include banner.html src="banners/derr-dunes.jpg" alt="Derr Dunes banner" %}
 
 ## Derr Dunes
 {: .fs-5 .fw-300 }
@@ -93,7 +92,7 @@ Once you have at least 940,000 gold, arm another weapon and smash Digby DrillBot
 
 Use the new RhinoBot Trap in Derr Dunes to farm gold and Red Pepper Seeds.
 
-<img src="/assets/images/banners/bannerElub.jpg" alt="Elub Shore's Banner">
+{% include banner.html src="banners/elub-shore.jpg" alt="Elub Shore banner" %}
 
 ## Elub Shore
 {: .fs-5 .fw-300 }

@@ -1,11 +1,10 @@
 ---
 layout: default
 title: Novice
-parent: Novice to Grandmaster
-nav_order: 1
+nav_order: 100
+permalink: /novice
 ---
-
- <img src="/assets/images/banners/bannerMeadow.jpg" alt="Meadow's Banner">
+{% include banner.html src="banners/meadow.jpg" alt="Meadow Banner" %}
 
 # Novice
 {: .fs-9 }
@@ -32,4 +31,4 @@ Redeem two free gifts by clicking the following links. It is not required to lik
 
 ### Moving on
 Do NOT open Gouda Lovers Charm Pack now.
-Travel to Town of Gnawnia once you rank up to [Recruit](/novice-to-grandmaster/recruit).
+Travel to Town of Gnawnia once you rank up to [Recruit](/recruit).

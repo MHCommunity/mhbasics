@@ -1,11 +1,10 @@
 ---
 layout: default
 title: Knight
-parent: Legendary to Knight
-nav_order: 3
+nav_order: 1000
+permalink: /knight
 ---
-
-<img src="/assets/images/banners/bannerDracano.jpg" alt="Dracano's Banner">
+{% include banner.html src="banners/dracano.jpg" alt="Dracano Banner" %}
 
 # Knight
 {: .fs-9 }

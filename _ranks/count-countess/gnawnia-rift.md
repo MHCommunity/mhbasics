@@ -3,9 +3,9 @@ layout: default
 title: Gnawnia Rift
 nav_order: 2
 parent: Count/Countess
+permalink: /count-countess/gnawnia-rift
 ---
-
-<img src="/assets/images/banners/bannerGrift.jpg" alt="Gnawnia Rift's Banner"> 
+{% include banner.html src="banners/gnawnia-rift.jpg" alt="Gnawnia Rift Banner" %}
 
 # Count
 {: .fs-9 }
