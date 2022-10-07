@@ -2,19 +2,17 @@
 layout: default
 title: Sunken City
 nav_order: 3
-parent: Count/Countess
+parent: Count / Countess
 permalink: /count-countess/sunken-city
 ---
-{% include banner.html src="banners/sunken-city.jpg" alt="Sunken City Banner" %}
-
 # Count
-{: .fs-9 }
+
 
 ## Sunken City
-{: .fs-5 .fw-300 }
+{% include banner.html src="banners/sunken-city.jpg" alt="Sunken City Banner" %}
+
 
 Dive into the depths of the Rodentia Ocean and explore this ancient underwater city! Great treasures await adventurous hunters who journey into the deep waters!
-{: .fs-4 .fw-300 }
 
 ### Still Chapter 13 Somehow
 

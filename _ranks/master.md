@@ -4,16 +4,14 @@ title: Master
 nav_order: 600
 permalink: /master
 ---
-{% include banner.html src="banners/laboratory.jpg" alt="Laboratory Banner" %}
 
 # Master
-{: .fs-9 }
 
 ## Laboratory
-{: .fs-5 .fw-300 }
+
+{% include banner.html src="banners/laboratory.jpg" alt="Laboratory Banner" %}
 
 The original purpose of the Laboratory was to research the minor mouse problem Gnawnia was having. A few less than ethical experiments soon gave rise to new breeds of mice altogether. Now overrun with the very mice it spawned, few hunters dare to step foot on its grounds.
-{: .fs-4 .fw-300 }
 
 ### Chapter 6
 
@@ -31,13 +29,12 @@ Scientist’s Charm increases quantity of Radioactive Blue Potions per hunt but 
 
 Travel to Mousoleum when you have at least 80 Radioactive Blue Cheese.
 
-{% include banner.html src="banners/mousoleum.jpg" alt="Mousoleum Banner" %}
-
 
 ## Mousoleum
 
+{% include banner.html src="banners/mousoleum.jpg" alt="Mousoleum Banner" %}
+
 The scientists of the nearby Laboratory would often come to the Mousoleum to harvest 'spare parts' for their various creations. This grim hunting location is now haunted by spirits of slain mice. The mice of this location seem almost unable to resist radioactive cheese.
-{: .fs-4 .fw-300 }
 
 You need a Shadow weapon to catch the mice in Mousoleum well. Buy Bottomless Grave from Laboratory Trapsmith if you have the gold. Otherwise, buy Sinister Portal from it for now.
 
@@ -73,9 +70,9 @@ You may continue the cycle to earn a lot of gold. This will be the best way to e
 
 Travel to Calm Clearing once you have at least 300,000 gold.
 
-{% include banner.html src="banners/calm-clearing.jpg" alt="Calm Clearing Banner" %}
-
 ## Calm Clearing
+
+{% include banner.html src="banners/calm-clearing.jpg" alt="Calm Clearing Banner" %}
 
 Tucked behind the dense trees of Whisker Woods is a quiet and peaceful clearing. In the center of the clearing is a glowing boulder with colourful fungi growing around it. The magic rock seems to draw mice near to it, as if empowering them.
 {: .fs-4 .fw-300 }
@@ -92,12 +89,11 @@ Claim the adventure Survey the Calm Clearing.
 
 Travel to Great Gnarled Trea now.
 
-{% include banner.html src="banners/great-gnarled-tree.jpg" alt="Great Gnarled Tree Banner" %}
-
 ## Great Gnarled Tree
 
+{% include banner.html src="banners/great-gnarled-tree.jpg" alt="Great Gnarled Tree Banner" %}
+
 At the edge of Whisker Woods lies a tree older than Gnawnia itself. Its magic roots stretch far underground and deep into the woods, giving life to the other trees. The shadow it casts is so massive that it began to affect the surrounding area through time, blocking necessary light from other trees. As a result, the other trees seem almost alive as they bend back and forth, seeking out the light.
-{: .fs-4 .fw-300 }
 
 A Tactical weapon is needed to catch the mice in Great Gnarled Tree well.
 
@@ -106,11 +102,11 @@ Buy Venus Mouse Trap from Great Gnarled Tree Trapsmith but don’t equip it.
 You will need 20 Radioactive Sludge. You get 1 Radioactive Sludge when 1 Radioactive Blue Cheese stales.
 
 If you need more Radioactive Sludge, you have three options.
-<ul>
-<li>Hunt in Laboratory with Brie Cheese to loot Radioactive Sludge from Sludge Scientist Mouse. This is slower for getting Radioactive Sludge but you can also loot some Radioactive Blue Potions at the same time.</li>
-<li>Buy 1 Tarnished Charm from Marketplace. Hunt anywhere other than Laboratory and Mousoleum with your stalest set-up, Tarnished Charm and Radioactive Blue Cheese. You only need 1 Tarnished Charm since it is not consumed upon Fail to Attract. This is noticeably faster.</li>
-<li>You can receive Radioactive Sludge as Gifts from friends. Do note that hunters tend to prefer receiving Gifts of the Day, which are often of higher value than Radioactive Sludge.</li>
-</ul>
+
+- Hunt in Laboratory with Brie Cheese to loot Radioactive Sludge from Sludge Scientist Mouse. This is slower for getting Radioactive Sludge but you can also loot some Radioactive Blue Potions at the same time.
+- Buy 1 Tarnished Charm from Marketplace. Hunt anywhere other than Laboratory and Mousoleum with your stalest set-up, Tarnished Charm and Radioactive Blue Cheese. You only need 1 Tarnished Charm since it is not consumed upon Fail to Attract. This is noticeably faster.
+- You can receive Radioactive Sludge as Gifts from friends. Do note that hunters tend to prefer receiving Gifts of the Day, which are often of higher value than Radioactive Sludge.
+
 Once you have at least 20 Radioactive Sludge, craft Mutated Venus Mouse Trap with 1 Venus Mouse Trap Husk and 20 Radioactive Sludge.
 
 Now use Mutated Venus Mouse Trap, Dehydration Base and Brie Cheese to catch Fairy Mouse until you loot Map of the Lagoon.

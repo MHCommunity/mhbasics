@@ -4,16 +4,13 @@ title: Apprentice
 nav_order: 300
 permalink: /apprentice
 ---
-{% include banner.html src="banners/windmill.jpg" alt="Windmill Banner" %}
 
 # Apprentice
-{: .fs-9 }
 
 ## Windmill
-{: .fs-5 .fw-300 }
+{% include banner.html src="banners/windmill.jpg" alt="Windmill Banner" %}
 
 This windmill, and the farm beside it, used to belong to one of Gnawnia's most prosperous farmers before the mice took it over. Windmill mice enjoy the simple life down on the farm, but don't be fooled by their relaxed attitude-- they're laid-back about everything but cheese.
-{: .fs-4 .fw-300 }
 
 ### Chapter 3
 

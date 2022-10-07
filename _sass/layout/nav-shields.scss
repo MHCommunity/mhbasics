@@ -1,15 +1,17 @@
 @mixin name-shield($shield) {
-    background-size: contain;
-    display: inline-block;
-    width: 30px;
-    height: 30px;
-    content: "";
-    background-repeat: no-repeat;
-    background-position: 0px 0;
-    position: relative;
-    top: 10px;
-    left: -10px;
-	background-image: url('/assets/images/shields/#{$shield}.png');
+	@include mq(md) {
+		background-size: contain;
+		display: inline-block;
+		width: 30px;
+		height: 30px;
+		content: "";
+		background-repeat: no-repeat;
+		background-position: 0px 0;
+		position: relative;
+		top: 10px;
+		left: -10px;
+		background-image: url('/assets/images/shields/#{$shield}.png');
+	}
 }
 
 .nav-item-hero.nav-list-link::before {

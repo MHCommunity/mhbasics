@@ -4,16 +4,14 @@ title: Legendary
 nav_order: 800
 permalink: /legendary
 ---
-{% include banner.html src="banners/ss-huntington.jpg" alt="S. S. Huntington IV Banner" %}
 
 # Legendary
-{: .fs-9 }
 
 ## S.S. Huntington IV
-{: .fs-5 .fw-300 }
+
+{% include banner.html src="banners/ss-huntington.jpg" alt="S. S. Huntington IV Banner" %}
 
 This fine vessel has been granted permission by the King to sail the open ocean east of Gnawnia, and has been upgraded with hundreds of thousands of interlocking hull fragments, allowing it to breach even the dangerous Iceberg with ease.
-{: .fs-4 .fw-300 }
 
 ### Chapter 8
 
@@ -31,13 +29,11 @@ Craft Ocean Navigation Kit with 1 Compass, 1 Sextant and 1 Telescope.
 
 Claim the adventure Navigate the Rodentia Ocean once you have crafted Ocean Navigation Kit.Travel to Cape Clawed once you have obtained Ocean Navigation Kit.
 
+## Cape Clawed
+
 {% include banner.html src="banners/cape-clawed.jpg" alt="Cape Clawed Banner" %}
 
-## Cape Clawed
-{: .fs-5 .fw-300 }
-
 This small island was once attached to the mainland before a mighty storm washed away a massive piece of land. Members of the three tribes were then trapped where they were forced to work together to build a means of travel back to the mainland. Cape Clawed now acts as a meeting place where the elders of the tribes discuss diplomatic matters.
-{: .fs-4 .fw-300 }
 
 Buy some Gouda Cheese in Cape Clawed Cheese Shoppe. It attracts more mice every hunt at a higher cost. It also has special attraction properties in Tribal Isles.
 
@@ -64,24 +60,21 @@ King's Credit| You can buy some Crates of Seashells in King’s Cart.
 When you have 30 Seashells, craft 15 Shell Cheese. The 20-piece recipe is not worth its cost.
 Loot 1 Ancient Spear from Elder Mouse with Shell Cheese in Cape Clawed. It’s not a guaranteed attraction.
 
+## Nerg Plains
+
 {% include banner.html src="banners/nerg-plains.jpg" alt="Nerg Plains banner" %}
 
-## Nerg Plains
-{: .fs-5 .fw-300 }
-
 The Nerg Tribe use the tall grass for camouflage and the sturdy trees as defensive positions making their village hard to infiltrate. Use of a Tactical trap is highly recommended when hunting for the Nerg.
-{: .fs-4 .fw-300 }
 
 Farm gold in Nerg Plains with Gouda Cheese. Craft Gumbo Cheese when possible and use Gumbo Cheese in Nerg Plains to loot Ancient Ripped Blueprint Piece from Nerg Chieftain Mouse and obtain Yellow Pepper Seed.
 
-Once you have at least 550,000 gold, smash Mutated Venus Mouse Trap into Venus Mouse Trap Husk.Buy Thorned Venus Mouse Trap from the Trapsmith with 550,000 gold, 1 Thorned Vine and 1 Venus Mouse Trap Husk. Don’t equip it. Then upgrade into the Horrific Venus Mouse Trap with 20 Radioactive Sludge. Recall how to obtain Radioactive Sludge [here](/NtGM/6.%20Master.html#great-gnarled-tree).
+Once you have at least 550,000 gold, smash Mutated Venus Mouse Trap into Venus Mouse Trap Husk.Buy Thorned Venus Mouse Trap from the Trapsmith with 550,000 gold, 1 Thorned Vine and 1 Venus Mouse Trap Husk. Don’t equip it. Then upgrade into the Horrific Venus Mouse Trap with 20 Radioactive Sludge.
 
 Use the new Horrific Venus Mouse Trap in Nerg Plains to farm gold and Yellow Pepper Seeds.
 
-{% include banner.html src="banners/derr-dunes.jpg" alt="Derr Dunes banner" %}
-
 ## Derr Dunes
-{: .fs-5 .fw-300 }
+
+{% include banner.html src="banners/derr-dunes.jpg" alt="Derr Dunes banner" %}
 
 The dunes are a harsh, barren wasteland where only the toughest of mice can survive. The Derr Tribe take advantage of their ability to survive and navigate in such a dangerous terrain as a defensive strength which allows them to maximize their offensive abilities. Use of a Physical trap is highly recommended when hunting for the Derr.
 {: .fs-4 .fw-300 }
@@ -92,13 +85,11 @@ Once you have at least 940,000 gold, arm another weapon and smash Digby DrillBot
 
 Use the new RhinoBot Trap in Derr Dunes to farm gold and Red Pepper Seeds.
 
+## Elub Shore
+
 {% include banner.html src="banners/elub-shore.jpg" alt="Elub Shore banner" %}
 
-## Elub Shore
-{: .fs-5 .fw-300 }
-
 The shores of the great Tribal Island is where the Elub Tribe call home. The Elub utilize the resources of the ocean to build tools and shelter. Use of a Hydro trap is highly recommended while hunting for the Elub.
-{: .fs-4 .fw-300 }
 
 Hunt in Elub Shore with Ancient Spear Gun and Gouda Cheese. Craft Shell Cheese when possible and use Shell Cheese in Elub Shore to loot Ancient Frayed Blueprint Piece from Elub Chieftain Mouse and obtain Blue Pepper Seed.
 

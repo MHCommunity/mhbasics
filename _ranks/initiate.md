@@ -4,22 +4,20 @@ title: Initiate
 nav_order: 400
 permalink: /initiate
 ---
-{% include banner.html src="banners/harbour.jpg" alt="Harbour Banner" %}
 
 # Initiate
-{: .fs-9 }
 
 ## Harbour
-{: .fs-5 .fw-300 }
+
+{% include banner.html src="banners/harbour.jpg" alt="Harbour Banner" %}
 
 Full of fresh air and plenty of sunshine, the Harbour seems to attract the types of mice who boast of sea salt in their veins.
-{: .fs-4 .fw-300 }
 
 ### Chapter 4
 
 Use Brie Cheese.
 
-Harbour is the <strong>first</strong> area that mice can <strong>steal</strong> gold, points or extra cheese. This is the norm in most locations but you’ll still gain net profit.
+Harbour is the **first** area that mice can **steal** gold, points or extra cheese. This is the norm in most locations but you’ll still gain net profit.
 
 Catch a Pirate Mouse.
 

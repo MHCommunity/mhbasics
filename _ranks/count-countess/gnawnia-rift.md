@@ -2,19 +2,16 @@
 layout: default
 title: Gnawnia Rift
 nav_order: 2
-parent: Count/Countess
+parent: Count / Countess
 permalink: /count-countess/gnawnia-rift
 ---
-{% include banner.html src="banners/gnawnia-rift.jpg" alt="Gnawnia Rift Banner" %}
 
 # Count
-{: .fs-9 }
 
 ## Gnawnia Rift
-{: .fs-5 .fw-300 }
+{% include banner.html src="banners/gnawnia-rift.jpg" alt="Gnawnia Rift Banner" %}
 
 Within the depths of the unknown, creeping among the mists of mystery, the Gnawnia Rift is haunted by the most menacing, terrifyingly thought-bending, and maniacally mind-warping mice one could imagine... What will you find beyond the tear is vast and unknown. Brace yourselves for a challenge of great proportions!
-{: .fs-4 .fw-300 }
 
 ### Still Chapter 13
 
@@ -25,13 +22,12 @@ Use Sphynx Wrath, Overgrown Ember Stone Base and Chrome Charms here. Buy Brie St
 Hunt with Riftiago Cheese until you've collected 15 of Magic Seeds, Riftgrass and Rift Dust. Continue the cycle until you met the requirements.
 
 Craft 5 batches of Resonator Cheese (4 Piece) with:
-<ul>
-<li>3 Magic Seeds</li>
-<li>3 Riftgrass</li>
-<li>3 Rift Dust</li>
-<li>1 Rift Curd - Buy from the General Store</li>
-<li>1 Ionised Salt - Buy from the General Store</li>
-</ul>
+
+- 3 Magic Seeds
+- 3 Riftgrass
+- 3 Rift Dust
+- 1 Rift Curd - Buy from the General Store
+- 1 Ionised Salt - Buy from the General Store
 
 Now hunt with Resonator Cheese for Goliath Field mouse. Once you've caught it, it will drop a Raw Rift Crystal, use the Rift Crystal to buy Crystal Tower, found in the Trapsmith for 4,900,000 gold. The area gets easier from this point onwards, equip Crystal Tower and hunt out the rest of your Riftiago and Resonator Cheese, if you still have some left.
 
