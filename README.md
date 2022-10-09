@@ -5,11 +5,11 @@ This is a refresh of the guides for [MouseHunt](https://mousehuntgames.com) writ
 
 ## Contributing
 
-Most of the project maintainers can be contacted at [Discord](https://discord.gg/mousehunt). It is also possible to create your own changes and open a pull request, which can then be reviewed & approved.  
+Most of the project maintainers can be contacted at [Discord](https://discord.gg/mousehunt).
+You can help improve the content via pull requests on Github, which can then be reviewed & approved.  
 For issues or questions regarding specific sections, you can contact:
-- Kuh (the main guide [novice to ????], general things)
-- Mellon (weapons appendix, general things)
-- Currently unnamed other contributers (not yet specified)
+- Kuh: The main guide and general questions
+- Mellon: weapons appendix and general things
 - You? (if you want to help out)
 - [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
 
@@ -21,9 +21,9 @@ This guide was inspired by [Mousehunt Basics](https://mousehuntbasics.wordpress.
 
 ## Disclaimer
 
-This is a guide for the game MouseHunt. The words wouldn’t make sense if you don’t play the game.
+This is a guide for the game MouseHunt. The words wouldn’t make sense if you don’t play the game. If you somehow got here without knowing [MouseHunt](https://mousehuntgame.com), go try it out!
 
-All MouseHunt images included here are property of [HitGrab Inc](https://hitgrab.com/).
+All MouseHunt images included here are the properties of [HitGrab Inc](https://hitgrab.com/).
 
 
 ### MYNL
