@@ -67,15 +67,6 @@
 
   ul {
     list-style: none;
-
-    > li {
-      &::before {
-        position: absolute;
-        margin-left: -1.4em;
-        color: $grey-dark-000;
-        content: "•";
-      }
-    }
   }
 
   .task-list-item {

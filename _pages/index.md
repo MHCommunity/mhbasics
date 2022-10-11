@@ -1,7 +1,7 @@
 ---
-layout: default
-title: Home
-nav_order: 1
+layout: home
+title: MouseHunt Guide
+nav_exclude: true
 description: "MouseHunt Guide - Learn to play the early game and beyond"
 permalink: /
 ---

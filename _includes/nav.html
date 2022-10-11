@@ -68,13 +68,13 @@
   {%- for node in node_group.items -%}
     {%- if node.parent == nil -%}
       {%- unless node.nav_exclude -%}
-      <li class="nav-list-item{% if page.collection == include.key and page.url == node.url or page.parent == node.title or page.grand_parent == node.title %} active{% endif %}">
+      <li class="nav-list-item">
         {%- if node.has_children -%}
           <a href="#" class="nav-list-expander" aria-label="toggle links in {{ node.title }} category">
             <svg viewBox="0 0 24 24"><use xlink:href="#svg-arrow-right"></use></svg>
           </a>
         {%- endif -%}
-        <a href="{{ node.url | relative_url }}" class="nav-list-link{% if page.url == node.url %} active{% endif %}">{{ node.title }}</a>
+        <a href="{{ node.url | relative_url }}" class="nav-item-{{node.url || slugify }} nav-list-link{% if page.url == node.url %} active{% endif %}">{{ node.title }}</a>
         {%- if node.has_children -%}
           {%- assign children_list = "" | split: "" -%}
           {%- for parent_group in groups_list -%}

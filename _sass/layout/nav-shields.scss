@@ -1,0 +1,95 @@
+@mixin name-shield($shield) {
+	@include mq(md) {
+		background-size: contain;
+		display: inline-block;
+		width: 30px;
+		height: 30px;
+		content: "";
+		background-repeat: no-repeat;
+		background-position: 0px 0;
+		position: relative;
+		top: 10px;
+		left: -10px;
+		background-image: url('/assets/images/shields/#{$shield}.png');
+	}
+}
+
+.nav-item-hero.nav-list-link::before {
+	@include name-shield('hero');
+}
+
+.nav-item-grandmaster.nav-list-link::before {
+	@include name-shield('grandmaster');
+}
+
+.nav-item-apprentice.nav-list-link::before {
+	@include name-shield('apprentice');
+}
+
+.nav-item-archduke-archduchess.nav-list-link::before {
+	@include name-shield('archduke-archduchess');
+}
+
+.nav-item-baron-baroness.nav-list-link::before {
+	@include name-shield('baron-baroness');
+}
+
+.nav-item-count-countess.nav-list-link::before {
+	@include name-shield('count-countess');
+}
+
+.nav-item-duke-duchess.nav-list-link::before {
+	@include name-shield('duke-duchess');
+}
+
+.nav-item-elder.nav-list-link::before {
+	@include name-shield('elder');
+}
+
+.nav-item-fabled.nav-list-link::before {
+	@include name-shield('fabled');
+}
+
+.nav-item-grand-duke-grand-duchess.nav-list-link::before {
+	@include name-shield('grand-duke-grand-duchess');
+}
+
+.nav-item-initiate.nav-list-link::before {
+	@include name-shield('initiate');
+}
+
+.nav-item-journeyman-journeywoman.nav-list-link::before {
+	@include name-shield('journeyman-journeywoman');
+}
+
+.nav-item-knight.nav-list-link::before {
+	@include name-shield('knight');
+}
+
+.nav-item-legendary.nav-list-link::before {
+	@include name-shield('legendary');
+}
+
+.nav-item-lord-lady.nav-list-link::before {
+	@include name-shield('lord-lady');
+}
+
+.nav-item-master.nav-list-link::before {
+	@include name-shield('master');
+}
+
+.nav-item-novice.nav-list-link::before {
+	@include name-shield('novice');
+}
+
+.nav-item-recruit.nav-list-link::before {
+	@include name-shield('recruit');
+}
+
+.nav-item-sage.nav-list-link::before {
+	@include name-shield('sage');
+}
+
+.nav-item-viceroy.nav-list-link::before {
+	@include name-shield('viceroy');
+}

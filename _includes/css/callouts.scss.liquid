@@ -1,15 +1,5 @@
-{%- comment -%}
-  {% include css/callouts.scss.liquid color_scheme = string %}
-  produces SCSS for all the callouts in site.callouts. For the "dark"
-  color scheme, the levels of the text and background colors are reversed.
-{%- endcomment -%}
-
-{%- assign callout_background_hue = "000" -%}
-{%- assign callout_color_hue = "300" -%}
-{%- if site.callouts_level == "loud" or include.color_scheme == "dark" and site.callouts_level != "quiet" -%}
-  {%- assign callout_background_hue = "300" -%}
-  {%- assign callout_color_hue = "000" -%}
-{%- endif -%}
+{%- assign callout_background_hue = "300" -%}
+{%- assign callout_color_hue = "000" -%}
 
 div.opaque {
   background-color: $body-background-color;
