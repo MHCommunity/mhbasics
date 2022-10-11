@@ -5,7 +5,7 @@ parent: Novice to Grandmaster
 nav_order: 4
 ---
 
- <img src="https://ic.pics.livejournal.com/camomiletea/1321849/142788/142788_original.jpg" alt="Harbour's Banner">
+ <img src="/assets/images/bannerimages/header_harbour.jpg" alt="Harbour's Banner">
 
 # Initiate
 {: .fs-9 }

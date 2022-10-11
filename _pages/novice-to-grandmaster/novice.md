@@ -5,7 +5,7 @@ parent: Novice to Grandmaster
 nav_order: 1
 ---
 
- <img src="https://www.mousehuntgame.com/images/environments/6ef3ffe2f90a79250807b46105e77b68.jpg" alt="Meadow's Banner">
+ <img src="/assets/images/bannerimages/header_meadow.jpg" alt="Meadow's Banner">
 
 # Novice
 {: .fs-9 }

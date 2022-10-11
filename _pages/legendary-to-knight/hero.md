@@ -5,7 +5,7 @@ parent: Legendary to Knight
 nav_order: 2
 ---
 
-<img src="https://www.mousehuntgame.com/images/environments/55c8b16d30aa344f64c5daaeb95de38b_v2.jpg?cv=2" alt="Jungle of Dread's Banner"> 
+<img src="/assets/images/bannerimages/header_jod.jpg" alt="Jungle of Dread's Banner"> 
 
 # Hero
 {: .fs-9 }
@@ -74,7 +74,7 @@ You now have all the required weapons to complete King’s Gauntlet. However, it
 
 Now you will head to ....
 
- <img src="https://www.mousehuntgame.com/images/environments/36a27716b813e1dfeb9d4e9008aa43db.jpg" alt="Catacombs' Banner"> 
+ <img src="/assets/images/bannerimages/header_catac.jpg" alt="Catacombs' Banner"> 
 
 ## Catacombs
 {: .fs-5 .fw-300 }
@@ -112,7 +112,7 @@ If you need more Stale Cheese, you have three options:
 
 Travel to the Forbidden Grove after you have ACRONYM and at least 100 Ancient Cheese.
 
-<img src="https://www.mousehuntgame.com/images/environments/52ed80ca3c98eb4e6dc8a2607803a987.jpg" alt="Forbidden Grove's Open Banner"> 
+<img src="/assets/images/bannerimages/header_forbgrove.jpg" alt="Forbidden Grove's Open Banner"> 
 
 ## Forbidden Grove
 {: .fs-5 .fw-300 }
@@ -132,7 +132,7 @@ Keep note of Forbidden Grove's opening and closing timing via [MouseHunt Timers]
 
 Once you have enough Runic Cheese, you will want to wait for Realm Ripper Mouse. Travel to the Grove when it is open, wait till the Grove is closed then use Radioactive Blue cheese to capture the Realm Ripper Mouse, teleporting you directly over to the Acolyte Realm.
 
- <img src="https://www.mousehuntgame.com/images/environments/4f4eb01d7b6ff25046a78af4e6913ac0.jpg" alt="Acolyte Realm's Banner"> 
+ <img src="/assets/images/bannerimages/header_acorealm.jpg" alt="Acolyte Realm's Banner"> 
 
 ## Acolyte Realm
 {: .fs-5 .fw-300 }

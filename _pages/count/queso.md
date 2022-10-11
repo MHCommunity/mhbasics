@@ -5,7 +5,7 @@ nav_order: 1
 parent: Count/Countess
 ---
 
-<img src="https://www.mousehuntgame.com/images/environments/1c30a0923563b56e01ec10cbe2eac17c.jpg" alt="Queso River's Banner"> 
+<img src="/assets/images/bannerimages/header_quesoriver.jpg" alt="Queso River's Banner"> 
 
 # Count
 {: .fs-9 }

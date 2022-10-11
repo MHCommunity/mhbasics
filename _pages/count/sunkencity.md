@@ -5,7 +5,7 @@ nav_order: 3
 parent: Count/Countess
 ---
 
-<img src="https://www.mousehuntgame.com/images/environments/02e7cde50d53cd9ed90e1dcb4cb2c5a6.jpg" alt="Sunken City's Docked Banner"> 
+<img src="/assets/images/bannerimages/header_sunkencity.jpg" alt="Sunken City's Docked Banner"> 
 
 # Count
 {: .fs-9 }

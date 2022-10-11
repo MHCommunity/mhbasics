@@ -5,7 +5,7 @@ nav_order: 2
 parent: Count/Countess
 ---
 
-<img src="https://www.mousehuntgame.com/images/environments/1c30a0923563b56e01ec10cbe2eac17c.jpg" alt="Gnawnia Rift's Banner"> 
+<img src="/assets/images/bannerimages/header_grift.jpg" alt="Gnawnia Rift's Banner"> 
 
 # Count
 {: .fs-9 }

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Duke to Grand Duke/Duchess
-nav_order: 7
+nav_order: 60
 has_children: true
 permalink: /duke-to-grand-duke
 ---
