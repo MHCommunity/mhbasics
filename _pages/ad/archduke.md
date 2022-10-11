@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Archduke/Archduchess
-nav_order: 80
+nav_order: 70
 has_children: true
 permalink: /archduke
 ---
 
-## Chapter x
+## Archduke/Archduchess+
 
 You're looking for a ship. Ahoy!
 {: .fs-6 .fw-300 }

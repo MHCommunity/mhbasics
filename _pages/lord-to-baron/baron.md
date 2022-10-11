@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Baron
-parent: Lord to Baron/Baronness
+title: Baron/Baroness
+parent: Lord to Baron/Baroness
 nav_order: 2
 ---
 
-<img src="https://www.mousehuntgame.com/images/environments/d8f1be1c78bc15fbf407feef38630c0a.jpg" alt="Fort Rox's Banner">
+<img src="/assets/images/bannerimages/header_frox.jpg" alt="Fort Rox's Banner">
 
 # Baron
 {: .fs-9 }
@@ -91,7 +91,7 @@ Only use the portal when you have enough gold to buy 10 Sunrise Cheese from the 
 
 Travel to Fiery Warpath once you are done with Fort Rox.
 
-<img src="https://www.mousehuntgame.com/images/environments/6d866864cb299fbc992cc3a1b5a4da5f.jpg" alt="Fiery Warpath's Banner">
+<img src="/assets/images/bannerimages/header_fierywar.jpg" alt="Fiery Warpath's Banner">
 
 ## Fiery Warpath
 {: .fs-5 .fw-300 }
@@ -193,7 +193,7 @@ Advice on what to do with your first loot from Warmonger:
 
 Travel to Muridae Market after catching Warmonger Mouse.
 
-<img src="https://www.mousehuntgame.com/images/environments/ce9fd48c0a5b4e76f2f63113474d9ac6.jpg" alt="Muridae Market's (Pre-Shop) Banner">
+<img src="/assets/images/bannerimages/header_murimarket.jpg" alt="Muridae Market's (Pre-Shop) Banner">
 
 ## Muridae Market
 {: .fs-5 .fw-300 }
@@ -229,7 +229,7 @@ You do not have to repair all the shop for progression but you can if you want t
 
 Once you have gotten all the Map Pieces, head over to Living Garden to embark on a scenic route.
 
-<img src="https://www.mousehuntgame.com/images/environments/4888b940f4619e6611e90a612cb254e3.jpg" alt="Living Garden's Banner">
+<img src="/assets/images/bannerimages/header_livinggar.jpg" alt="Living Garden's Banner">
 
 Living Garden "Complex" consists of 3 areas:
 <ul>

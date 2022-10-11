@@ -5,7 +5,7 @@ parent: Novice to Grandmaster
 nav_order: 5
 ---
 
- <img src="https://www.mousehuntgame.com/images/environments/7fb74d6bb5148169a41e9e999f8d72ee.jpg" alt="Mountain's Banner">
+ <img src="/assets/images/bannerimages/header_mountain.jpg" alt="Mountain's Banner">
 
 # Journeyman
 {: .fs-9 }

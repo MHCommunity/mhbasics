@@ -5,7 +5,7 @@ parent: Novice to Grandmaster
 nav_order: 7
 ---
 
- <img src="https://www.mousehuntgame.com/images/environments/64d17c40b34901ca2dacadb110d451c4.jpg" alt="Training Ground's Banner">
+ <img src="/assets/images/bannerimages/header_training.jpg" alt="Training Ground's Banner">
 
 # Grandmaster
 {: .fs-9 }
@@ -25,7 +25,7 @@ Catch Archer Mouse until you loot Ticket to the Burroughs Bazaar.
 
 Claim the adventure Take an Archery Lesson at the Training Grounds once you obtain Ticket to the Burroughs Bazaar.
 
-<img src="https://www.mousehuntgame.com/images/environments/844ce3418fc5990eb57738aa5223462e.jpg" alt="Bazaar's Banner">
+<img src="/assets/images/bannerimages/header_bazaar.jpg" alt="Bazaar's Banner">
 
 ## Bazaar
 
@@ -40,7 +40,7 @@ Purchase Stitched Furoma Map Piece from Bazaar Cartographer. It’s an expensive
 
 Travel to Dojo once you have done the purchases.
 
-<img src="https://www.mousehuntgame.com/images/environments/1421a0b3920d4bfafb6a150ced5f4278.jpg" alt="Dojo's Banner">
+<img src="/assets/images/bannerimages/header_dojo.jpg" alt="Dojo's Banner">
 
 ## Dojo
 
@@ -63,7 +63,7 @@ King's Credit|A much faster way to obtain the tokens is to buy 1 Cheese Belt Tok
 
 Travel to Meditation Room once you have at least 6 of each token.
 
-<img src="https://www.mousehuntgame.com/images/environments/8d4d7b2c39f6027fc7e8bc20507ba817.jpg" alt="Meditation Room's Banner">
+<img src="/assets/images/bannerimages/header_mediroom.jpg" alt="Meditation Room's Banner">
 
 ## Meditation Room
 
@@ -92,7 +92,7 @@ Buy Ambush Trap from the Trapsmith.
 
 Again, Mousoleum and Laboratory are your best friends if you need more gold.
 
-<img src="https://www.mousehuntgame.com/images/environments/a4fa72ca33426c8b7630b6c268ff3b77.jpg" alt="Pinnacle Chamber's Banner">
+<img src="/assets/images/bannerimages/header_pinchamber.jpg" alt="Pinnacle Chamber's Banner">
 
 ## Pinnacle Chamber
 
@@ -121,7 +121,7 @@ Now get 55 Brie Cheese from Great Gnarled Tree Cheese Shoppe and convert Brie Ch
 
 Travel to Lagoon after you get at least 50 Gnarled Cheese.
 
-<img src="https://i622.photobucket.com/albums/tt301/s18067/WhiskerWoods.jpg" alt="Lagoon's Banner">
+<img src="/assets/images/bannerimages/header_lagoon.jpg" alt="Lagoon's Banner">
 
 ## Lagoon
 
